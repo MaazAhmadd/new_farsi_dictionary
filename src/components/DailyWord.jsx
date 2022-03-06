@@ -8,6 +8,14 @@ import { useIndexedDB } from 'react-indexed-db';
 
 // let db = new Localbase('db');
 
+let GenerateRandomWord = () => {
+  let dt = new Date();
+  let seed = dt.getYear() + dt.getDay() + dt.getMonth();
+  //+ dt.getHours() + dt.getMinutes() + dt.getSeconds();
+  let holdrand = ((seed * 214013 + 2531011) >> 16) & 0x7fff;
+  let holdrand2 = ((holdrand * 214013 + 2531011) >> 16) & 0x7fff;
+  return holdrand2;
+};
 const DailyWord = () => {
   const [words, setWords] = useState([]);
   const { add, getAll } = useIndexedDB('en2fa');
@@ -44,7 +52,8 @@ const DailyWord = () => {
     // });
   }, []);
   if (words.length) {
-    let wt = 275;
+    // let wt = (Math.random() * words.length).toFixed(0);
+    let wt = Math.round(GenerateRandomWord() % words.length);
     let { English, EnglishPronounciation, Lang, EnglishAudio } = words[wt];
     return (
       <Container style={!words ? { minHeight: 250 } : {}}>
