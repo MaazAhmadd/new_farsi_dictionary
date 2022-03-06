@@ -1,0 +1,6002 @@
+[
+  {
+    "English": "a",
+    "Farsi": "آ",
+    "Transliteration": "a",
+    "Farsi_Audio": "a.wav"
+  },
+  {
+    "English": "able",
+    "Farsi": "قادر بودن",
+    "Transliteration": "qadr bwdn",
+    "Farsi_Audio": "able.wav"
+  },
+  {
+    "English": "about",
+    "Farsi": "در باره",
+    "Transliteration": "dr barh",
+    "Farsi_Audio": "about.wav"
+  },
+  {
+    "English": "above",
+    "Farsi": "در بالا",
+    "Transliteration": "dr bala",
+    "Farsi_Audio": "above.wav"
+  },
+  {
+    "English": "act",
+    "Farsi": "عمل کردن",
+    "Transliteration": "'eml kerdn",
+    "Farsi_Audio": "act.wav"
+  },
+  {
+    "English": "add",
+    "Farsi": "اضافه کردن",
+    "Transliteration": "adafh kerdn",
+    "Farsi_Audio": "add.wav"
+  },
+  {
+    "English": "afraid",
+    "Farsi": "ترساندن",
+    "Transliteration": "trsandn",
+    "Farsi_Audio": "afraid.wav"
+  },
+  {
+    "English": "after",
+    "Farsi": "بعد از",
+    "Transliteration": "b'ed az",
+    "Farsi_Audio": "after.wav"
+  },
+  {
+    "English": "again",
+    "Farsi": "از نو",
+    "Transliteration": "az nw",
+    "Farsi_Audio": "again.wav"
+  },
+  {
+    "English": "against",
+    "Farsi": "در برابر",
+    "Transliteration": "dr brabr",
+    "Farsi_Audio": "against.wav"
+  },
+  {
+    "English": "age",
+    "Farsi": "سن",
+    "Transliteration": "sn",
+    "Farsi_Audio": "age.wav"
+  },
+  {
+    "English": "ago",
+    "Farsi": "پیش",
+    "Transliteration": "peash",
+    "Farsi_Audio": "ago.wav"
+  },
+  {
+    "English": "agree",
+    "Farsi": "موافق",
+    "Transliteration": "mwafq",
+    "Farsi_Audio": "agree.wav"
+  },
+  {
+    "English": "air",
+    "Farsi": "هوا",
+    "Transliteration": "hwa",
+    "Farsi_Audio": "air.wav"
+  },
+  {
+    "English": "all",
+    "Farsi": "همه",
+    "Transliteration": "hmh",
+    "Farsi_Audio": "all.wav"
+  },
+  {
+    "English": "allow",
+    "Farsi": "اجازه",
+    "Transliteration": "ajazh",
+    "Farsi_Audio": "allow.wav"
+  },
+  {
+    "English": "also",
+    "Farsi": "همچنین",
+    "Transliteration": "hmchenan",
+    "Farsi_Audio": "also.wav"
+  },
+  {
+    "English": "always",
+    "Farsi": "همیشه",
+    "Transliteration": "hmashh",
+    "Farsi_Audio": "always.wav"
+  },
+  {
+    "English": "am",
+    "Farsi": "صبح",
+    "Transliteration": "sbh",
+    "Farsi_Audio": "am.wav"
+  },
+  {
+    "English": "among",
+    "Farsi": "از میان",
+    "Transliteration": "az maan",
+    "Farsi_Audio": "among.wav"
+  },
+  {
+    "English": "an",
+    "Farsi": "یک",
+    "Transliteration": "ake",
+    "Farsi_Audio": "an.wav"
+  },
+  {
+    "English": "and",
+    "Farsi": "و",
+    "Transliteration": "w",
+    "Farsi_Audio": "and.wav"
+  },
+  {
+    "English": "anger",
+    "Farsi": "خشم",
+    "Transliteration": "khshm",
+    "Farsi_Audio": "anger.wav"
+  },
+  {
+    "English": "animal",
+    "Farsi": "حیوان",
+    "Transliteration": "hawan",
+    "Farsi_Audio": "animal.wav"
+  },
+  {
+    "English": "answer",
+    "Farsi": "پاسخ",
+    "Transliteration": "peaskh",
+    "Farsi_Audio": "answer.wav"
+  },
+  {
+    "English": "any",
+    "Farsi": "هر چیزی",
+    "Transliteration": "hr cheaza",
+    "Farsi_Audio": "any.wav"
+  },
+  {
+    "English": "appear",
+    "Farsi": "به نظر می رسد",
+    "Transliteration": "bh nzr ma rsd",
+    "Farsi_Audio": "appear.wav"
+  },
+  {
+    "English": "apple",
+    "Farsi": "سیب",
+    "Transliteration": "sab",
+    "Farsi_Audio": "apple.wav"
+  },
+  {
+    "English": "are",
+    "Farsi": "هستند",
+    "Transliteration": "hstnd",
+    "Farsi_Audio": "are.wav"
+  },
+  {
+    "English": "area",
+    "Farsi": "حوزه",
+    "Transliteration": "hwzh",
+    "Farsi_Audio": "area.wav"
+  },
+  {
+    "English": "arm",
+    "Farsi": "بازو",
+    "Transliteration": "bazw",
+    "Farsi_Audio": "arm.wav"
+  },
+  {
+    "English": "arrange",
+    "Farsi": "ترتیب دادن",
+    "Transliteration": "trtab dadn",
+    "Farsi_Audio": "arrange.wav"
+  },
+  {
+    "English": "arrive",
+    "Farsi": "رسیدن",
+    "Transliteration": "rsadn",
+    "Farsi_Audio": "arrive.wav"
+  },
+  {
+    "English": "art",
+    "Farsi": "هنر",
+    "Transliteration": "hnr",
+    "Farsi_Audio": "art.wav"
+  },
+  {
+    "English": "as",
+    "Farsi": "مانند",
+    "Transliteration": "mannd",
+    "Farsi_Audio": "as.wav"
+  },
+  {
+    "English": "ask",
+    "Farsi": "پرسیدن",
+    "Transliteration": "persadn",
+    "Farsi_Audio": "ask.wav"
+  },
+  {
+    "English": "at",
+    "Farsi": "در",
+    "Transliteration": "dr",
+    "Farsi_Audio": "at.wav"
+  },
+  {
+    "English": "atom",
+    "Farsi": "اتم",
+    "Transliteration": "atm",
+    "Farsi_Audio": "atom.wav"
+  },
+  {
+    "English": "baby",
+    "Farsi": "عزیزم",
+    "Transliteration": "'ezazm",
+    "Farsi_Audio": "baby.wav"
+  },
+  {
+    "English": "back",
+    "Farsi": "بازگشت",
+    "Transliteration": "bazgusht",
+    "Farsi_Audio": "back.wav"
+  },
+  {
+    "English": "bad",
+    "Farsi": "بد",
+    "Transliteration": "bd",
+    "Farsi_Audio": "bad.wav"
+  },
+  {
+    "English": "ball",
+    "Farsi": "توپ",
+    "Transliteration": "twpe",
+    "Farsi_Audio": "ball.wav"
+  },
+  {
+    "English": "band",
+    "Farsi": "باند",
+    "Transliteration": "band",
+    "Farsi_Audio": "band.wav"
+  },
+  {
+    "English": "bank",
+    "Farsi": "بانک",
+    "Transliteration": "banke",
+    "Farsi_Audio": "bank.wav"
+  },
+  {
+    "English": "bar",
+    "Farsi": "بار",
+    "Transliteration": "bar",
+    "Farsi_Audio": "bar.wav"
+  },
+  {
+    "English": "base",
+    "Farsi": "پایه",
+    "Transliteration": "peaah",
+    "Farsi_Audio": "base.wav"
+  },
+  {
+    "English": "basic",
+    "Farsi": "پایه ای",
+    "Transliteration": "peaah aa",
+    "Farsi_Audio": "basic.wav"
+  },
+  {
+    "English": "bat",
+    "Farsi": "خفاش",
+    "Transliteration": "khfash",
+    "Farsi_Audio": "bat.wav"
+  },
+  {
+    "English": "be",
+    "Farsi": "بودن",
+    "Transliteration": "bwdn",
+    "Farsi_Audio": "be.wav"
+  },
+  {
+    "English": "bear",
+    "Farsi": "خرس",
+    "Transliteration": "khrs",
+    "Farsi_Audio": "bear.wav"
+  },
+  {
+    "English": "beat",
+    "Farsi": "ضرب و شتم",
+    "Transliteration": "drb w shtm",
+    "Farsi_Audio": "beat.wav"
+  },
+  {
+    "English": "beauty",
+    "Farsi": "زیبایی",
+    "Transliteration": "zabaaa",
+    "Farsi_Audio": "beauty.wav"
+  },
+  {
+    "English": "bed",
+    "Farsi": "بستر",
+    "Transliteration": "bstr",
+    "Farsi_Audio": "bed.wav"
+  },
+  {
+    "English": "been",
+    "Farsi": "بوده",
+    "Transliteration": "bwdh",
+    "Farsi_Audio": "been.wav"
+  },
+  {
+    "English": "before",
+    "Farsi": "قبل از",
+    "Transliteration": "qbl az",
+    "Farsi_Audio": "before.wav"
+  },
+  {
+    "English": "began",
+    "Farsi": "شروع شد",
+    "Transliteration": "shrw'e shd",
+    "Farsi_Audio": "began.wav"
+  },
+  {
+    "English": "begin",
+    "Farsi": "شروع",
+    "Transliteration": "shrw'e",
+    "Farsi_Audio": "begin.wav"
+  },
+  {
+    "English": "behind",
+    "Farsi": "پشت",
+    "Transliteration": "pesht",
+    "Farsi_Audio": "behind.wav"
+  },
+  {
+    "English": "believe",
+    "Farsi": "ایمان داشتن",
+    "Transliteration": "aaman dashtn",
+    "Farsi_Audio": "believe.wav"
+  },
+  {
+    "English": "bell",
+    "Farsi": "زنگ",
+    "Transliteration": "zngu",
+    "Farsi_Audio": "bell.wav"
+  },
+  {
+    "English": "best",
+    "Farsi": "بهترین",
+    "Transliteration": "bhtran",
+    "Farsi_Audio": "best.wav"
+  },
+  {
+    "English": "better",
+    "Farsi": "بهتر",
+    "Transliteration": "bhtr",
+    "Farsi_Audio": "better.wav"
+  },
+  {
+    "English": "between",
+    "Farsi": "بین",
+    "Transliteration": "ban",
+    "Farsi_Audio": "between.wav"
+  },
+  {
+    "English": "big",
+    "Farsi": "بزرگ",
+    "Transliteration": "bzrgu",
+    "Farsi_Audio": "big.wav"
+  },
+  {
+    "English": "bird",
+    "Farsi": "پرنده",
+    "Transliteration": "perndh",
+    "Farsi_Audio": "bird.wav"
+  },
+  {
+    "English": "bit",
+    "Farsi": "بیت",
+    "Transliteration": "bat",
+    "Farsi_Audio": "bit.wav"
+  },
+  {
+    "English": "black",
+    "Farsi": "سیاه",
+    "Transliteration": "saah",
+    "Farsi_Audio": "black.wav"
+  },
+  {
+    "English": "block",
+    "Farsi": "مسدود کردن",
+    "Transliteration": "msdwd kerdn",
+    "Farsi_Audio": "block.wav"
+  },
+  {
+    "English": "blood",
+    "Farsi": "خون",
+    "Transliteration": "khwn",
+    "Farsi_Audio": "blood.wav"
+  },
+  {
+    "English": "blow",
+    "Farsi": "فوت کردن، دمیدن",
+    "Transliteration": "fwt kerdn, dmadn",
+    "Farsi_Audio": "blow.wav"
+  },
+  {
+    "English": "blue",
+    "Farsi": "آبی",
+    "Transliteration": "aba",
+    "Farsi_Audio": "blue.wav"
+  },
+  {
+    "English": "board",
+    "Farsi": "تخته",
+    "Transliteration": "tkhth",
+    "Farsi_Audio": "board.wav"
+  },
+  {
+    "English": "boat",
+    "Farsi": "قایق",
+    "Transliteration": "qaaq",
+    "Farsi_Audio": "boat.wav"
+  },
+  {
+    "English": "body",
+    "Farsi": "بدن",
+    "Transliteration": "bdn",
+    "Farsi_Audio": "body.wav"
+  },
+  {
+    "English": "bone",
+    "Farsi": "استخوان",
+    "Transliteration": "astkhwan",
+    "Farsi_Audio": "bone.wav"
+  },
+  {
+    "English": "book",
+    "Farsi": "کتاب",
+    "Transliteration": "ketab",
+    "Farsi_Audio": "book.wav"
+  },
+  {
+    "English": "born",
+    "Farsi": "بدنیا آمدن",
+    "Transliteration": "bdnaa amdn",
+    "Farsi_Audio": "born.wav"
+  },
+  {
+    "English": "both",
+    "Farsi": "هر دو",
+    "Transliteration": "hr dw",
+    "Farsi_Audio": "both.wav"
+  },
+  {
+    "English": "bottom",
+    "Farsi": "پایین",
+    "Transliteration": "peaaan",
+    "Farsi_Audio": "bottom.wav"
+  },
+  {
+    "English": "bought",
+    "Farsi": "خریداری شده",
+    "Transliteration": "khradara shdh",
+    "Farsi_Audio": "bought.wav"
+  },
+  {
+    "English": "box",
+    "Farsi": "جعبه",
+    "Transliteration": "j'ebh",
+    "Farsi_Audio": "box.wav"
+  },
+  {
+    "English": "boy",
+    "Farsi": "پسر",
+    "Transliteration": "pesr",
+    "Farsi_Audio": "boy.wav"
+  },
+  {
+    "English": "branch",
+    "Farsi": "شاخه",
+    "Transliteration": "shakhh",
+    "Farsi_Audio": "branch.wav"
+  },
+  {
+    "English": "bread",
+    "Farsi": "نان",
+    "Transliteration": "nan",
+    "Farsi_Audio": "bread.wav"
+  },
+  {
+    "English": "break",
+    "Farsi": "زنگ تفريح",
+    "Transliteration": "zngu tfryh",
+    "Farsi_Audio": "break.wav"
+  },
+  {
+    "English": "bright",
+    "Farsi": "روشن",
+    "Transliteration": "rwshn",
+    "Farsi_Audio": "bright.wav"
+  },
+  {
+    "English": "bring",
+    "Farsi": "گرفتن",
+    "Transliteration": "gurftn",
+    "Farsi_Audio": "bring.wav"
+  },
+  {
+    "English": "broad",
+    "Farsi": "گسترده",
+    "Transliteration": "gustrdh",
+    "Farsi_Audio": "broad.wav"
+  },
+  {
+    "English": "broke",
+    "Farsi": "شکست",
+    "Transliteration": "shkest",
+    "Farsi_Audio": "broke.wav"
+  },
+  {
+    "English": "brother",
+    "Farsi": "برادر",
+    "Transliteration": "bradr",
+    "Farsi_Audio": "brother.wav"
+  },
+  {
+    "English": "brought",
+    "Farsi": "آورده شده",
+    "Transliteration": "awrdh shdh",
+    "Farsi_Audio": "brought.wav"
+  },
+  {
+    "English": "brown",
+    "Farsi": "رنگ قهوه ای",
+    "Transliteration": "rngu qhwh aa",
+    "Farsi_Audio": "brown.wav"
+  },
+  {
+    "English": "build",
+    "Farsi": "ساختن",
+    "Transliteration": "sakhtn",
+    "Farsi_Audio": "build.wav"
+  },
+  {
+    "English": "burn",
+    "Farsi": "سوختن",
+    "Transliteration": "swkhtn",
+    "Farsi_Audio": "burn.wav"
+  },
+  {
+    "English": "busy",
+    "Farsi": "مشغول",
+    "Transliteration": "mshghwl",
+    "Farsi_Audio": "busy.wav"
+  },
+  {
+    "English": "but",
+    "Farsi": "ولی",
+    "Transliteration": "wla",
+    "Farsi_Audio": "but.wav"
+  },
+  {
+    "English": "buy",
+    "Farsi": "خرید",
+    "Transliteration": "khrad",
+    "Farsi_Audio": "buy.wav"
+  },
+  {
+    "English": "by",
+    "Farsi": "توسط",
+    "Transliteration": "twst",
+    "Farsi_Audio": "by.wav"
+  },
+  {
+    "English": "call",
+    "Farsi": "صدا زدن",
+    "Transliteration": "sda zdn",
+    "Farsi_Audio": "call.wav"
+  },
+  {
+    "English": "came",
+    "Farsi": "آمد",
+    "Transliteration": "amd",
+    "Farsi_Audio": "came.wav"
+  },
+  {
+    "English": "camp",
+    "Farsi": "اردوگاه",
+    "Transliteration": "ardwguah",
+    "Farsi_Audio": "camp.wav"
+  },
+  {
+    "English": "can",
+    "Farsi": "می توان",
+    "Transliteration": "ma twan",
+    "Farsi_Audio": "can.wav"
+  },
+  {
+    "English": "capital",
+    "Farsi": "سرمایه، پایتخت",
+    "Transliteration": "srmaah, peaatkht",
+    "Farsi_Audio": "capital.wav"
+  },
+  {
+    "English": "captain",
+    "Farsi": "کاپیتان",
+    "Transliteration": "keapeatan",
+    "Farsi_Audio": "captain.wav"
+  },
+  {
+    "English": "car",
+    "Farsi": "ماشین",
+    "Transliteration": "mashan",
+    "Farsi_Audio": "car.wav"
+  },
+  {
+    "English": "card",
+    "Farsi": "کارت",
+    "Transliteration": "keart",
+    "Farsi_Audio": "card.wav"
+  },
+  {
+    "English": "care",
+    "Farsi": "مراقبت",
+    "Transliteration": "mraqbt",
+    "Farsi_Audio": "care.wav"
+  },
+  {
+    "English": "carry",
+    "Farsi": "حمل",
+    "Transliteration": "hml",
+    "Farsi_Audio": "carry.wav"
+  },
+  {
+    "English": "case",
+    "Farsi": "مورد",
+    "Transliteration": "mwrd",
+    "Farsi_Audio": "case.wav"
+  },
+  {
+    "English": "cat",
+    "Farsi": "گربه",
+    "Transliteration": "gurbh",
+    "Farsi_Audio": "cat.wav"
+  },
+  {
+    "English": "catch",
+    "Farsi": "گرفتن",
+    "Transliteration": "gurftn",
+    "Farsi_Audio": "catch.wav"
+  },
+  {
+    "English": "caught",
+    "Farsi": "گرفتار",
+    "Transliteration": "gurftar",
+    "Farsi_Audio": "caught.wav"
+  },
+  {
+    "English": "cause",
+    "Farsi": "علت",
+    "Transliteration": "'elt",
+    "Farsi_Audio": "cause.wav"
+  },
+  {
+    "English": "cell",
+    "Farsi": "سلول",
+    "Transliteration": "slwl",
+    "Farsi_Audio": "cell.wav"
+  },
+  {
+    "English": "cent",
+    "Farsi": "سالاد",
+    "Transliteration": "salad",
+    "Farsi_Audio": "cent.wav"
+  },
+  {
+    "English": "center",
+    "Farsi": "مرکز",
+    "Transliteration": "mrkez",
+    "Farsi_Audio": "center.wav"
+  },
+  {
+    "English": "century",
+    "Farsi": "قرن",
+    "Transliteration": "qrn",
+    "Farsi_Audio": "century.wav"
+  },
+  {
+    "English": "certain",
+    "Farsi": "مسلم - قطعی",
+    "Transliteration": "mslm - qt'ea",
+    "Farsi_Audio": "certain.wav"
+  },
+  {
+    "English": "chair",
+    "Farsi": "صندلی",
+    "Transliteration": "sndla",
+    "Farsi_Audio": "chair.wav"
+  },
+  {
+    "English": "chance",
+    "Farsi": "شانس. فرصت",
+    "Transliteration": "shans. frst",
+    "Farsi_Audio": "chance.wav"
+  },
+  {
+    "English": "change",
+    "Farsi": "تغییر دادن",
+    "Transliteration": "tghaar dadn",
+    "Farsi_Audio": "change.wav"
+  },
+  {
+    "English": "character",
+    "Farsi": "شخصیت",
+    "Transliteration": "shkhsat",
+    "Farsi_Audio": "character.wav"
+  },
+  {
+    "English": "charge",
+    "Farsi": "شارژ",
+    "Transliteration": "sharje",
+    "Farsi_Audio": "charge.wav"
+  },
+  {
+    "English": "chart",
+    "Farsi": "چارت سازمانی",
+    "Transliteration": "cheart sazmana",
+    "Farsi_Audio": "chart.wav"
+  },
+  {
+    "English": "check",
+    "Farsi": "بررسی",
+    "Transliteration": "brrsa",
+    "Farsi_Audio": "check.wav"
+  },
+  {
+    "English": "chick",
+    "Farsi": "جوجه",
+    "Transliteration": "jwjh",
+    "Farsi_Audio": "chick.wav"
+  },
+  {
+    "English": "chief",
+    "Farsi": "رئیس",
+    "Transliteration": "r'eas",
+    "Farsi_Audio": "chief.wav"
+  },
+  {
+    "English": "child",
+    "Farsi": "کودک",
+    "Transliteration": "kewdke",
+    "Farsi_Audio": "child.wav"
+  },
+  {
+    "English": "children",
+    "Farsi": "فرزندان",
+    "Transliteration": "frzndan",
+    "Farsi_Audio": "children.wav"
+  },
+  {
+    "English": "choose",
+    "Farsi": "انتخاب کنید",
+    "Transliteration": "antkhab kenad",
+    "Farsi_Audio": "choose.wav"
+  },
+  {
+    "English": "chord",
+    "Farsi": "وتر",
+    "Transliteration": "wtr",
+    "Farsi_Audio": "chord.wav"
+  },
+  {
+    "English": "circle",
+    "Farsi": "دایره",
+    "Transliteration": "daarh",
+    "Farsi_Audio": "circle.wav"
+  },
+  {
+    "English": "city",
+    "Farsi": "شهر",
+    "Transliteration": "shhr",
+    "Farsi_Audio": "city.wav"
+  },
+  {
+    "English": "claim",
+    "Farsi": "مطالبه",
+    "Transliteration": "mtalbh",
+    "Farsi_Audio": "claim.wav"
+  },
+  {
+    "English": "class",
+    "Farsi": "کلاس",
+    "Transliteration": "kelas",
+    "Farsi_Audio": "class.wav"
+  },
+  {
+    "English": "clean",
+    "Farsi": "تمیز",
+    "Transliteration": "tmaz",
+    "Farsi_Audio": "clean.wav"
+  },
+  {
+    "English": "clear",
+    "Farsi": "پاک کردن",
+    "Transliteration": "peake kerdn",
+    "Farsi_Audio": "clear.wav"
+  },
+  {
+    "English": "climb",
+    "Farsi": "بالا رفتن",
+    "Transliteration": "bala rftn",
+    "Farsi_Audio": "climb.wav"
+  },
+  {
+    "English": "clock",
+    "Farsi": "ساعت",
+    "Transliteration": "sa'et",
+    "Farsi_Audio": "clock.wav"
+  },
+  {
+    "English": "close",
+    "Farsi": "بستن",
+    "Transliteration": "bstn",
+    "Farsi_Audio": "close.wav"
+  },
+  {
+    "English": "clothe",
+    "Farsi": "پارچه",
+    "Transliteration": "pearcheh",
+    "Farsi_Audio": "clothe.wav"
+  },
+  {
+    "English": "cloud",
+    "Farsi": "ابر",
+    "Transliteration": "abr",
+    "Farsi_Audio": "cloud.wav"
+  },
+  {
+    "English": "coast",
+    "Farsi": "ساحل",
+    "Transliteration": "sahl",
+    "Farsi_Audio": "coast.wav"
+  },
+  {
+    "English": "coat",
+    "Farsi": "پوشاندن",
+    "Transliteration": "pewshandn",
+    "Farsi_Audio": "coat.wav"
+  },
+  {
+    "English": "cold",
+    "Farsi": "سرد",
+    "Transliteration": "srd",
+    "Farsi_Audio": "cold.wav"
+  },
+  {
+    "English": "collect",
+    "Farsi": "جمع کردن",
+    "Transliteration": "jm'e kerdn",
+    "Farsi_Audio": "collect.wav"
+  },
+  {
+    "English": "colony",
+    "Farsi": "مستعمره",
+    "Transliteration": "mst'emrh",
+    "Farsi_Audio": "colony.wav"
+  },
+  {
+    "English": "color",
+    "Farsi": "رنگ",
+    "Transliteration": "rngu",
+    "Farsi_Audio": "color.wav"
+  },
+  {
+    "English": "column",
+    "Farsi": "ستون",
+    "Transliteration": "stwn",
+    "Farsi_Audio": "column.wav"
+  },
+  {
+    "English": "come",
+    "Farsi": "بیا",
+    "Transliteration": "baa",
+    "Farsi_Audio": "come.wav"
+  },
+  {
+    "English": "common",
+    "Farsi": "مشترک",
+    "Transliteration": "mshtrke",
+    "Farsi_Audio": "common.wav"
+  },
+  {
+    "English": "company",
+    "Farsi": "شرکت",
+    "Transliteration": "shrket",
+    "Farsi_Audio": "company.wav"
+  },
+  {
+    "English": "compare",
+    "Farsi": "مقایسه کردن",
+    "Transliteration": "mqaash kerdn",
+    "Farsi_Audio": "compare.wav"
+  },
+  {
+    "English": "complete",
+    "Farsi": "کامل",
+    "Transliteration": "keaml",
+    "Farsi_Audio": "complete.wav"
+  },
+  {
+    "English": "condition",
+    "Farsi": "وضعیت",
+    "Transliteration": "wd'eat",
+    "Farsi_Audio": "condition.wav"
+  },
+  {
+    "English": "connect",
+    "Farsi": "بهم پیوستن",
+    "Transliteration": "bhm peawstn",
+    "Farsi_Audio": "connect.wav"
+  },
+  {
+    "English": "consider",
+    "Farsi": "در نظر گرفتن",
+    "Transliteration": "dr nzr gurftn",
+    "Farsi_Audio": "consider.wav"
+  },
+  {
+    "English": "consonant",
+    "Farsi": "هم اهنگ",
+    "Transliteration": "hm ahngu",
+    "Farsi_Audio": "consonant.wav"
+  },
+  {
+    "English": "contain",
+    "Farsi": "حاوی",
+    "Transliteration": "hawa",
+    "Farsi_Audio": "contain.wav"
+  },
+  {
+    "English": "continent",
+    "Farsi": "قاره",
+    "Transliteration": "qarh",
+    "Farsi_Audio": "continent.wav"
+  },
+  {
+    "English": "continue",
+    "Farsi": "ادامه هید",
+    "Transliteration": "adamh had",
+    "Farsi_Audio": "continue.wav"
+  },
+  {
+    "English": "control",
+    "Farsi": "کنترل",
+    "Transliteration": "kentrl",
+    "Farsi_Audio": "control.wav"
+  },
+  {
+    "English": "cook",
+    "Farsi": "پختن",
+    "Transliteration": "pekhtn",
+    "Farsi_Audio": "cook.wav"
+  },
+  {
+    "English": "cool",
+    "Farsi": "سرد",
+    "Transliteration": "srd",
+    "Farsi_Audio": "cool.wav"
+  },
+  {
+    "English": "copy",
+    "Farsi": "کپی 🀄",
+    "Transliteration": "kepea 🀄",
+    "Farsi_Audio": "copy.wav"
+  },
+  {
+    "English": "corn",
+    "Farsi": "ذرت",
+    "Transliteration": "drt",
+    "Farsi_Audio": "corn.wav"
+  },
+  {
+    "English": "corner",
+    "Farsi": "گوشه",
+    "Transliteration": "guwshh",
+    "Farsi_Audio": "corner.wav"
+  },
+  {
+    "English": "correct",
+    "Farsi": "درست",
+    "Transliteration": "drst",
+    "Farsi_Audio": "correct.wav"
+  },
+  {
+    "English": "cost",
+    "Farsi": "هزینه",
+    "Transliteration": "hzanh",
+    "Farsi_Audio": "cost.wav"
+  },
+  {
+    "English": "cotton",
+    "Farsi": "پنبه",
+    "Transliteration": "penbh",
+    "Farsi_Audio": "cotton.wav"
+  },
+  {
+    "English": "could",
+    "Farsi": "میتوانست",
+    "Transliteration": "matwanst",
+    "Farsi_Audio": "could.wav"
+  },
+  {
+    "English": "count",
+    "Farsi": "شمردن",
+    "Transliteration": "shmrdn",
+    "Farsi_Audio": "count.wav"
+  },
+  {
+    "English": "country",
+    "Farsi": "کشور",
+    "Transliteration": "keshwr",
+    "Farsi_Audio": "country.wav"
+  },
+  {
+    "English": "course",
+    "Farsi": "دوره",
+    "Transliteration": "dwrh",
+    "Farsi_Audio": "course.wav"
+  },
+  {
+    "English": "cover",
+    "Farsi": "پوشش دادن",
+    "Transliteration": "pewshsh dadn",
+    "Farsi_Audio": "cover.wav"
+  },
+  {
+    "English": "cow",
+    "Farsi": "گاو",
+    "Transliteration": "guaw",
+    "Farsi_Audio": "cow.wav"
+  },
+  {
+    "English": "crease",
+    "Farsi": "چرت زدن",
+    "Transliteration": "chert zdn",
+    "Farsi_Audio": "crease.wav"
+  },
+  {
+    "English": "create",
+    "Farsi": "ایجاد کردن",
+    "Transliteration": "aajad kerdn",
+    "Farsi_Audio": "create.wav"
+  },
+  {
+    "English": "crop",
+    "Farsi": "محصول",
+    "Transliteration": "mhswl",
+    "Farsi_Audio": "crop.wav"
+  },
+  {
+    "English": "cross",
+    "Farsi": "صلیب",
+    "Transliteration": "slab",
+    "Farsi_Audio": "cross.wav"
+  },
+  {
+    "English": "crowd",
+    "Farsi": "جمعیت",
+    "Transliteration": "jm'eat",
+    "Farsi_Audio": "crowd.wav"
+  },
+  {
+    "English": "cry",
+    "Farsi": "گریه کردن",
+    "Transliteration": "gurah kerdn",
+    "Farsi_Audio": "cry.wav"
+  },
+  {
+    "English": "current",
+    "Farsi": "جاری",
+    "Transliteration": "jara",
+    "Farsi_Audio": "current.wav"
+  },
+  {
+    "English": "cut",
+    "Farsi": "قطع كردن",
+    "Transliteration": "qt'e krdn",
+    "Farsi_Audio": "cut.wav"
+  },
+  {
+    "English": "dad",
+    "Farsi": "بابا",
+    "Transliteration": "baba",
+    "Farsi_Audio": "dad.wav"
+  },
+  {
+    "English": "dance",
+    "Farsi": "رقص",
+    "Transliteration": "rqs",
+    "Farsi_Audio": "dance.wav"
+  },
+  {
+    "English": "danger",
+    "Farsi": "خطر",
+    "Transliteration": "khtr",
+    "Farsi_Audio": "danger.wav"
+  },
+  {
+    "English": "dark",
+    "Farsi": "تاریک",
+    "Transliteration": "tarake",
+    "Farsi_Audio": "dark.wav"
+  },
+  {
+    "English": "day",
+    "Farsi": "روز",
+    "Transliteration": "rwz",
+    "Farsi_Audio": "day.wav"
+  },
+  {
+    "English": "dead",
+    "Farsi": "مرده",
+    "Transliteration": "mrdh",
+    "Farsi_Audio": "dead.wav"
+  },
+  {
+    "English": "deal",
+    "Farsi": "معامله",
+    "Transliteration": "m'eamlh",
+    "Farsi_Audio": "deal.wav"
+  },
+  {
+    "English": "dear",
+    "Farsi": "عزیز",
+    "Transliteration": "'ezaz",
+    "Farsi_Audio": "dear.wav"
+  },
+  {
+    "English": "death",
+    "Farsi": "مرگ",
+    "Transliteration": "mrgu",
+    "Farsi_Audio": "death.wav"
+  },
+  {
+    "English": "decide",
+    "Farsi": "تصميم گرفتن",
+    "Transliteration": "tsmym gurftn",
+    "Farsi_Audio": "decide.wav"
+  },
+  {
+    "English": "decimal",
+    "Farsi": "دهدهی",
+    "Transliteration": "dhdha",
+    "Farsi_Audio": "decimal.wav"
+  },
+  {
+    "English": "deep",
+    "Farsi": "عمیق",
+    "Transliteration": "'emaq",
+    "Farsi_Audio": "deep.wav"
+  },
+  {
+    "English": "degree",
+    "Farsi": "درجه",
+    "Transliteration": "drjh",
+    "Farsi_Audio": "degree.wav"
+  },
+  {
+    "English": "depend",
+    "Farsi": "بستگی داشتن",
+    "Transliteration": "bstgua dashtn",
+    "Farsi_Audio": "depend.wav"
+  },
+  {
+    "English": "describe",
+    "Farsi": "توصیف کردن",
+    "Transliteration": "twsaf kerdn",
+    "Farsi_Audio": "describe.wav"
+  },
+  {
+    "English": "desert",
+    "Farsi": "کویر",
+    "Transliteration": "kewar",
+    "Farsi_Audio": "desert.wav"
+  },
+  {
+    "English": "design",
+    "Farsi": "طرح",
+    "Transliteration": "trh",
+    "Farsi_Audio": "design.wav"
+  },
+  {
+    "English": "determine",
+    "Farsi": "تعیین کردن",
+    "Transliteration": "t'eaan kerdn",
+    "Farsi_Audio": "determine.wav"
+  },
+  {
+    "English": "develop",
+    "Farsi": "توسعه دادن",
+    "Transliteration": "tws'eh dadn",
+    "Farsi_Audio": "develop.wav"
+  },
+  {
+    "English": "dictionary",
+    "Farsi": "فرهنگ لغت",
+    "Transliteration": "frhngu lght",
+    "Farsi_Audio": "dictionary.wav"
+  },
+  {
+    "English": "did",
+    "Farsi": "انجام داد",
+    "Transliteration": "anjam dad",
+    "Farsi_Audio": "did.wav"
+  },
+  {
+    "English": "die",
+    "Farsi": "مردن",
+    "Transliteration": "mrdn",
+    "Farsi_Audio": "die.wav"
+  },
+  {
+    "English": "differ",
+    "Farsi": "فرق داشتن",
+    "Transliteration": "frq dashtn",
+    "Farsi_Audio": "differ.wav"
+  },
+  {
+    "English": "difficult",
+    "Farsi": "دشوار",
+    "Transliteration": "dshwar",
+    "Farsi_Audio": "difficult.wav"
+  },
+  {
+    "English": "direct",
+    "Farsi": "مستقیم",
+    "Transliteration": "mstqam",
+    "Farsi_Audio": "direct.wav"
+  },
+  {
+    "English": "discuss",
+    "Farsi": "بحث و گفتگو",
+    "Transliteration": "bhth w guftguw",
+    "Farsi_Audio": "discuss.wav"
+  },
+  {
+    "English": "distant",
+    "Farsi": "غیر صمیمی",
+    "Transliteration": "ghar smama",
+    "Farsi_Audio": "distant.wav"
+  },
+  {
+    "English": "divide",
+    "Farsi": "تقسیم کردن",
+    "Transliteration": "tqsam kerdn",
+    "Farsi_Audio": "divide.wav"
+  },
+  {
+    "English": "division",
+    "Farsi": "بخش",
+    "Transliteration": "bkhsh",
+    "Farsi_Audio": "division.wav"
+  },
+  {
+    "English": "do",
+    "Farsi": "انجام دادن",
+    "Transliteration": "anjam dadn",
+    "Farsi_Audio": "do.wav"
+  },
+  {
+    "English": "doctor",
+    "Farsi": "دکتر",
+    "Transliteration": "dketr",
+    "Farsi_Audio": "doctor.wav"
+  },
+  {
+    "English": "does",
+    "Farsi": "میکند",
+    "Transliteration": "makend",
+    "Farsi_Audio": "does.wav"
+  },
+  {
+    "English": "dog",
+    "Farsi": "سگ",
+    "Transliteration": "sgu",
+    "Farsi_Audio": "dog.wav"
+  },
+  {
+    "English": "dollar",
+    "Farsi": "دلار",
+    "Transliteration": "dlar",
+    "Farsi_Audio": "dollar.wav"
+  },
+  {
+    "English": "don’t",
+    "Farsi": "نه",
+    "Transliteration": "nh",
+    "Farsi_Audio": "don’t.wav"
+  },
+  {
+    "English": "done",
+    "Farsi": "انجام شده",
+    "Transliteration": "anjam shdh",
+    "Farsi_Audio": "done.wav"
+  },
+  {
+    "English": "door",
+    "Farsi": "در، درب",
+    "Transliteration": "dr, drb",
+    "Farsi_Audio": "door.wav"
+  },
+  {
+    "English": "double",
+    "Farsi": "دو برابر",
+    "Transliteration": "dw brabr",
+    "Farsi_Audio": "double.wav"
+  },
+  {
+    "English": "down",
+    "Farsi": "پایین",
+    "Transliteration": "peaaan",
+    "Farsi_Audio": "down.wav"
+  },
+  {
+    "English": "draw",
+    "Farsi": "قرعه کشی",
+    "Transliteration": "qr'eh kesha",
+    "Farsi_Audio": "draw.wav"
+  },
+  {
+    "English": "dream",
+    "Farsi": "رویا",
+    "Transliteration": "rwaa",
+    "Farsi_Audio": "dream.wav"
+  },
+  {
+    "English": "dress",
+    "Farsi": "لباس",
+    "Transliteration": "lbas",
+    "Farsi_Audio": "dress.wav"
+  },
+  {
+    "English": "drink",
+    "Farsi": "نوشیدن",
+    "Transliteration": "nwshadn",
+    "Farsi_Audio": "drink.wav"
+  },
+  {
+    "English": "drive",
+    "Farsi": "راندن",
+    "Transliteration": "randn",
+    "Farsi_Audio": "drive.wav"
+  },
+  {
+    "English": "drop",
+    "Farsi": "قطره",
+    "Transliteration": "qtrh",
+    "Farsi_Audio": "drop.wav"
+  },
+  {
+    "English": "dry",
+    "Farsi": "خشک",
+    "Transliteration": "khshke",
+    "Farsi_Audio": "dry.wav"
+  },
+  {
+    "English": "duck",
+    "Farsi": "اردک",
+    "Transliteration": "ardke",
+    "Farsi_Audio": "duck.wav"
+  },
+  {
+    "English": "during",
+    "Farsi": "در حین",
+    "Transliteration": "dr han",
+    "Farsi_Audio": "during.wav"
+  },
+  {
+    "English": "each",
+    "Farsi": "هر یک",
+    "Transliteration": "hr ake",
+    "Farsi_Audio": "each.wav"
+  },
+  {
+    "English": "ear",
+    "Farsi": "گوش",
+    "Transliteration": "guwsh",
+    "Farsi_Audio": "ear.wav"
+  },
+  {
+    "English": "early",
+    "Farsi": "زود",
+    "Transliteration": "zwd",
+    "Farsi_Audio": "early.wav"
+  },
+  {
+    "English": "earth",
+    "Farsi": "زمین",
+    "Transliteration": "zman",
+    "Farsi_Audio": "earth.wav"
+  },
+  {
+    "English": "ease",
+    "Farsi": "سهولت",
+    "Transliteration": "shwlt",
+    "Farsi_Audio": "ease.wav"
+  },
+  {
+    "English": "east",
+    "Farsi": "شرق",
+    "Transliteration": "shrq",
+    "Farsi_Audio": "east.wav"
+  },
+  {
+    "English": "eat",
+    "Farsi": "خوردن",
+    "Transliteration": "khwrdn",
+    "Farsi_Audio": "eat.wav"
+  },
+  {
+    "English": "edge",
+    "Farsi": "حاشیه، غیرمتمرکز",
+    "Transliteration": "hashah, gharmtmrkez",
+    "Farsi_Audio": "edge.wav"
+  },
+  {
+    "English": "effect",
+    "Farsi": "اثر",
+    "Transliteration": "athr",
+    "Farsi_Audio": "effect.wav"
+  },
+  {
+    "English": "egg",
+    "Farsi": "تخم مرغ",
+    "Transliteration": "tkhm mrgh",
+    "Farsi_Audio": "egg.wav"
+  },
+  {
+    "English": "eight",
+    "Farsi": "هشت",
+    "Transliteration": "hsht",
+    "Farsi_Audio": "eight.wav"
+  },
+  {
+    "English": "either",
+    "Farsi": "هر دو",
+    "Transliteration": "hr dw",
+    "Farsi_Audio": "either.wav"
+  },
+  {
+    "English": "electric",
+    "Farsi": "برق",
+    "Transliteration": "brq",
+    "Farsi_Audio": "electric.wav"
+  },
+  {
+    "English": "element",
+    "Farsi": "عنصر",
+    "Transliteration": "'ensr",
+    "Farsi_Audio": "element.wav"
+  },
+  {
+    "English": "else",
+    "Farsi": "چیز دیگری",
+    "Transliteration": "cheaz dagura",
+    "Farsi_Audio": "else.wav"
+  },
+  {
+    "English": "end",
+    "Farsi": "پایان",
+    "Transliteration": "peaaan",
+    "Farsi_Audio": "end.wav"
+  },
+  {
+    "English": "enemy",
+    "Farsi": "دشمن",
+    "Transliteration": "dshmn",
+    "Farsi_Audio": "enemy.wav"
+  },
+  {
+    "English": "energy",
+    "Farsi": "انرژی",
+    "Transliteration": "anrjea",
+    "Farsi_Audio": "energy.wav"
+  },
+  {
+    "English": "engine",
+    "Farsi": "موتور",
+    "Transliteration": "mwtwr",
+    "Farsi_Audio": "engine.wav"
+  },
+  {
+    "English": "enough",
+    "Farsi": "کافی",
+    "Transliteration": "keafa",
+    "Farsi_Audio": "enough.wav"
+  },
+  {
+    "English": "enter",
+    "Farsi": "وارد",
+    "Transliteration": "ward",
+    "Farsi_Audio": "enter.wav"
+  },
+  {
+    "English": "equal",
+    "Farsi": "برابر",
+    "Transliteration": "brabr",
+    "Farsi_Audio": "equal.wav"
+  },
+  {
+    "English": "equate",
+    "Farsi": "معادل",
+    "Transliteration": "m'eadl",
+    "Farsi_Audio": "equate.wav"
+  },
+  {
+    "English": "especially",
+    "Farsi": "بخصوص",
+    "Transliteration": "bkhsws",
+    "Farsi_Audio": "especially.wav"
+  },
+  {
+    "English": "even",
+    "Farsi": "زوج",
+    "Transliteration": "zwj",
+    "Farsi_Audio": "even.wav"
+  },
+  {
+    "English": "evening",
+    "Farsi": "شب",
+    "Transliteration": "shb",
+    "Farsi_Audio": "evening.wav"
+  },
+  {
+    "English": "event",
+    "Farsi": "رویداد",
+    "Transliteration": "rwadad",
+    "Farsi_Audio": "event.wav"
+  },
+  {
+    "English": "ever",
+    "Farsi": "همیشه",
+    "Transliteration": "hmashh",
+    "Farsi_Audio": "ever.wav"
+  },
+  {
+    "English": "every",
+    "Farsi": "هر",
+    "Transliteration": "hr",
+    "Farsi_Audio": "every.wav"
+  },
+  {
+    "English": "exact",
+    "Farsi": "دقیق",
+    "Transliteration": "dqaq",
+    "Farsi_Audio": "exact.wav"
+  },
+  {
+    "English": "example",
+    "Farsi": "مثال",
+    "Transliteration": "mthal",
+    "Farsi_Audio": "example.wav"
+  },
+  {
+    "English": "except",
+    "Farsi": "جز",
+    "Transliteration": "jz",
+    "Farsi_Audio": "except.wav"
+  },
+  {
+    "English": "excite",
+    "Farsi": "تحریک کردن",
+    "Transliteration": "thrake kerdn",
+    "Farsi_Audio": "excite.wav"
+  },
+  {
+    "English": "exercise",
+    "Farsi": "ورزش",
+    "Transliteration": "wrzsh",
+    "Farsi_Audio": "exercise.wav"
+  },
+  {
+    "English": "expect",
+    "Farsi": "انتظار",
+    "Transliteration": "antzar",
+    "Farsi_Audio": "expect.wav"
+  },
+  {
+    "English": "experience",
+    "Farsi": "تجربه",
+    "Transliteration": "tjrbh",
+    "Farsi_Audio": "experience.wav"
+  },
+  {
+    "English": "experiment",
+    "Farsi": "ازمایش",
+    "Transliteration": "azmaash",
+    "Farsi_Audio": "experiment.wav"
+  },
+  {
+    "English": "eye",
+    "Farsi": "چشم",
+    "Transliteration": "cheshm",
+    "Farsi_Audio": "eye.wav"
+  },
+  {
+    "English": "face",
+    "Farsi": "صورت",
+    "Transliteration": "swrt",
+    "Farsi_Audio": "face.wav"
+  },
+  {
+    "English": "fact",
+    "Farsi": "حقیقت",
+    "Transliteration": "hqaqt",
+    "Farsi_Audio": "fact.wav"
+  },
+  {
+    "English": "fair",
+    "Farsi": "نمایشگاه",
+    "Transliteration": "nmaashguah",
+    "Farsi_Audio": "fair.wav"
+  },
+  {
+    "English": "fall",
+    "Farsi": "سقوط",
+    "Transliteration": "sqwt",
+    "Farsi_Audio": "fall.wav"
+  },
+  {
+    "English": "family",
+    "Farsi": "خانواده",
+    "Transliteration": "khanwadh",
+    "Farsi_Audio": "family.wav"
+  },
+  {
+    "English": "famous",
+    "Farsi": "معروف",
+    "Transliteration": "m'erwf",
+    "Farsi_Audio": "famous.wav"
+  },
+  {
+    "English": "far",
+    "Farsi": "دور",
+    "Transliteration": "dwr",
+    "Farsi_Audio": "far.wav"
+  },
+  {
+    "English": "farm",
+    "Farsi": "مزرعه",
+    "Transliteration": "mzr'eh",
+    "Farsi_Audio": "farm.wav"
+  },
+  {
+    "English": "fast",
+    "Farsi": "سریع",
+    "Transliteration": "sra'e",
+    "Farsi_Audio": "fast.wav"
+  },
+  {
+    "English": "fat",
+    "Farsi": "چربی",
+    "Transliteration": "cherba",
+    "Farsi_Audio": "fat.wav"
+  },
+  {
+    "English": "father",
+    "Farsi": "پدر",
+    "Transliteration": "pedr",
+    "Farsi_Audio": "father.wav"
+  },
+  {
+    "English": "favor",
+    "Farsi": "لطف",
+    "Transliteration": "ltf",
+    "Farsi_Audio": "favor.wav"
+  },
+  {
+    "English": "fear",
+    "Farsi": "ترس",
+    "Transliteration": "trs",
+    "Farsi_Audio": "fear.wav"
+  },
+  {
+    "English": "feed",
+    "Farsi": "خوراک",
+    "Transliteration": "khwrake",
+    "Farsi_Audio": "feed.wav"
+  },
+  {
+    "English": "feel",
+    "Farsi": "احساس کردن",
+    "Transliteration": "ahsas kerdn",
+    "Farsi_Audio": "feel.wav"
+  },
+  {
+    "English": "feet",
+    "Farsi": "پا",
+    "Transliteration": "pea",
+    "Farsi_Audio": "feet.wav"
+  },
+  {
+    "English": "fell",
+    "Farsi": "سقوط",
+    "Transliteration": "sqwt",
+    "Farsi_Audio": "fell.wav"
+  },
+  {
+    "English": "felt",
+    "Farsi": "نمد",
+    "Transliteration": "nmd",
+    "Farsi_Audio": "felt.wav"
+  },
+  {
+    "English": "few",
+    "Farsi": "تعداد کمی",
+    "Transliteration": "t'edad kema",
+    "Farsi_Audio": "few.wav"
+  },
+  {
+    "English": "field",
+    "Farsi": "رشته",
+    "Transliteration": "rshth",
+    "Farsi_Audio": "field.wav"
+  },
+  {
+    "English": "fig",
+    "Farsi": "شکل",
+    "Transliteration": "shkel",
+    "Farsi_Audio": "fig.wav"
+  },
+  {
+    "English": "fight",
+    "Farsi": "مبارزه کردن",
+    "Transliteration": "mbarzh kerdn",
+    "Farsi_Audio": "fight.wav"
+  },
+  {
+    "English": "figure",
+    "Farsi": "شکل",
+    "Transliteration": "shkel",
+    "Farsi_Audio": "figure.wav"
+  },
+  {
+    "English": "fill",
+    "Farsi": "پر کردن",
+    "Transliteration": "per kerdn",
+    "Farsi_Audio": "fill.wav"
+  },
+  {
+    "English": "final",
+    "Farsi": "نهایی",
+    "Transliteration": "nhaaa",
+    "Farsi_Audio": "final.wav"
+  },
+  {
+    "English": "find",
+    "Farsi": "پیدا کردن",
+    "Transliteration": "peada kerdn",
+    "Farsi_Audio": "find.wav"
+  },
+  {
+    "English": "fine",
+    "Farsi": "خوب",
+    "Transliteration": "khwb",
+    "Farsi_Audio": "fine.wav"
+  },
+  {
+    "English": "finger",
+    "Farsi": "انگشت",
+    "Transliteration": "angusht",
+    "Farsi_Audio": "finger.wav"
+  },
+  {
+    "English": "finish",
+    "Farsi": "پایان دادن",
+    "Transliteration": "peaaan dadn",
+    "Farsi_Audio": "finish.wav"
+  },
+  {
+    "English": "fire",
+    "Farsi": "آتش",
+    "Transliteration": "atsh",
+    "Farsi_Audio": "fire.wav"
+  },
+  {
+    "English": "first",
+    "Farsi": "اولین",
+    "Transliteration": "awlan",
+    "Farsi_Audio": "first.wav"
+  },
+  {
+    "English": "fish",
+    "Farsi": "ماهی",
+    "Transliteration": "maha",
+    "Farsi_Audio": "fish.wav"
+  },
+  {
+    "English": "fit",
+    "Farsi": "مناسب",
+    "Transliteration": "mnasb",
+    "Farsi_Audio": "fit.wav"
+  },
+  {
+    "English": "five",
+    "Farsi": "پنج",
+    "Transliteration": "penj",
+    "Farsi_Audio": "five.wav"
+  },
+  {
+    "English": "flat",
+    "Farsi": "تخت",
+    "Transliteration": "tkht",
+    "Farsi_Audio": "flat.wav"
+  },
+  {
+    "English": "floor",
+    "Farsi": "کف",
+    "Transliteration": "kef",
+    "Farsi_Audio": "floor.wav"
+  },
+  {
+    "English": "flow",
+    "Farsi": "جریان",
+    "Transliteration": "jraan",
+    "Farsi_Audio": "flow.wav"
+  },
+  {
+    "English": "flower",
+    "Farsi": "گل",
+    "Transliteration": "gul",
+    "Farsi_Audio": "flower.wav"
+  },
+  {
+    "English": "fly",
+    "Farsi": "پرواز",
+    "Transliteration": "perwaz",
+    "Farsi_Audio": "fly.wav"
+  },
+  {
+    "English": "follow",
+    "Farsi": "دنبال کردن",
+    "Transliteration": "dnbal kerdn",
+    "Farsi_Audio": "follow.wav"
+  },
+  {
+    "English": "food",
+    "Farsi": "غذا",
+    "Transliteration": "ghda",
+    "Farsi_Audio": "food.wav"
+  },
+  {
+    "English": "foot",
+    "Farsi": "پا",
+    "Transliteration": "pea",
+    "Farsi_Audio": "foot.wav"
+  },
+  {
+    "English": "for",
+    "Farsi": "برای",
+    "Transliteration": "braa",
+    "Farsi_Audio": "for.wav"
+  },
+  {
+    "English": "force",
+    "Farsi": "زور",
+    "Transliteration": "zwr",
+    "Farsi_Audio": "force.wav"
+  },
+  {
+    "English": "forest",
+    "Farsi": "جنگل",
+    "Transliteration": "jngul",
+    "Farsi_Audio": "forest.wav"
+  },
+  {
+    "English": "form",
+    "Farsi": "فرم",
+    "Transliteration": "frm",
+    "Farsi_Audio": "form.wav"
+  },
+  {
+    "English": "forward",
+    "Farsi": "رو به جلو",
+    "Transliteration": "rw bh jlw",
+    "Farsi_Audio": "forward.wav"
+  },
+  {
+    "English": "found",
+    "Farsi": "پیدا کردن",
+    "Transliteration": "peada kerdn",
+    "Farsi_Audio": "found.wav"
+  },
+  {
+    "English": "four",
+    "Farsi": "چهار",
+    "Transliteration": "chehar",
+    "Farsi_Audio": "four.wav"
+  },
+  {
+    "English": "fraction",
+    "Farsi": "کسر",
+    "Transliteration": "kesr",
+    "Farsi_Audio": "fraction.wav"
+  },
+  {
+    "English": "free",
+    "Farsi": "رایگان",
+    "Transliteration": "raaguan",
+    "Farsi_Audio": "free.wav"
+  },
+  {
+    "English": "fresh",
+    "Farsi": "تازه",
+    "Transliteration": "tazh",
+    "Farsi_Audio": "fresh.wav"
+  },
+  {
+    "English": "friend",
+    "Farsi": "دوست",
+    "Transliteration": "dwst",
+    "Farsi_Audio": "friend.wav"
+  },
+  {
+    "English": "from",
+    "Farsi": "از جانب",
+    "Transliteration": "az janb",
+    "Farsi_Audio": "from.wav"
+  },
+  {
+    "English": "front",
+    "Farsi": "جبهه",
+    "Transliteration": "jbhh",
+    "Farsi_Audio": "front.wav"
+  },
+  {
+    "English": "fruit",
+    "Farsi": "میوه",
+    "Transliteration": "mawh",
+    "Farsi_Audio": "fruit.wav"
+  },
+  {
+    "English": "full",
+    "Farsi": "پر شده",
+    "Transliteration": "per shdh",
+    "Farsi_Audio": "full.wav"
+  },
+  {
+    "English": "fun",
+    "Farsi": "سرگرمی",
+    "Transliteration": "srgurma",
+    "Farsi_Audio": "fun.wav"
+  },
+  {
+    "English": "game",
+    "Farsi": "بازی",
+    "Transliteration": "baza",
+    "Farsi_Audio": "game.wav"
+  },
+  {
+    "English": "garden",
+    "Farsi": "باغ",
+    "Transliteration": "bagh",
+    "Farsi_Audio": "garden.wav"
+  },
+  {
+    "English": "gas",
+    "Farsi": "گاز",
+    "Transliteration": "guaz",
+    "Farsi_Audio": "gas.wav"
+  },
+  {
+    "English": "gather",
+    "Farsi": "جمع آوری",
+    "Transliteration": "jm'e awra",
+    "Farsi_Audio": "gather.wav"
+  },
+  {
+    "English": "gave",
+    "Farsi": "داد",
+    "Transliteration": "dad",
+    "Farsi_Audio": "gave.wav"
+  },
+  {
+    "English": "general",
+    "Farsi": "عمومی",
+    "Transliteration": "'emwma",
+    "Farsi_Audio": "general.wav"
+  },
+  {
+    "English": "gentle",
+    "Farsi": "ملایم",
+    "Transliteration": "mlaam",
+    "Farsi_Audio": "gentle.wav"
+  },
+  {
+    "English": "get",
+    "Farsi": "گرفتن",
+    "Transliteration": "gurftn",
+    "Farsi_Audio": "get.wav"
+  },
+  {
+    "English": "girl",
+    "Farsi": "دختر",
+    "Transliteration": "dkhtr",
+    "Farsi_Audio": "girl.wav"
+  },
+  {
+    "English": "give",
+    "Farsi": "دادن",
+    "Transliteration": "dadn",
+    "Farsi_Audio": "give.wav"
+  },
+  {
+    "English": "glad",
+    "Farsi": "خوشحال",
+    "Transliteration": "khwshhal",
+    "Farsi_Audio": "glad.wav"
+  },
+  {
+    "English": "glass",
+    "Farsi": "شیشه",
+    "Transliteration": "shashh",
+    "Farsi_Audio": "glass.wav"
+  },
+  {
+    "English": "go",
+    "Farsi": "برو",
+    "Transliteration": "brw",
+    "Farsi_Audio": "go.wav"
+  },
+  {
+    "English": "gold",
+    "Farsi": "طلا",
+    "Transliteration": "tla",
+    "Farsi_Audio": "gold.wav"
+  },
+  {
+    "English": "gone",
+    "Farsi": "رفته",
+    "Transliteration": "rfth",
+    "Farsi_Audio": "gone.wav"
+  },
+  {
+    "English": "good",
+    "Farsi": "خوب",
+    "Transliteration": "khwb",
+    "Farsi_Audio": "good.wav"
+  },
+  {
+    "English": "got",
+    "Farsi": "بدست آورد",
+    "Transliteration": "bdst awrd",
+    "Farsi_Audio": "got.wav"
+  },
+  {
+    "English": "govern",
+    "Farsi": "حکومت کردن",
+    "Transliteration": "hkewmt kerdn",
+    "Farsi_Audio": "govern.wav"
+  },
+  {
+    "English": "grand",
+    "Farsi": "بزرگ",
+    "Transliteration": "bzrgu",
+    "Farsi_Audio": "grand.wav"
+  },
+  {
+    "English": "grass",
+    "Farsi": "چمن",
+    "Transliteration": "chemn",
+    "Farsi_Audio": "grass.wav"
+  },
+  {
+    "English": "gray",
+    "Farsi": "خاکستری",
+    "Transliteration": "khakestra",
+    "Farsi_Audio": "gray.wav"
+  },
+  {
+    "English": "great",
+    "Farsi": "عالی",
+    "Transliteration": "'eala",
+    "Farsi_Audio": "great.wav"
+  },
+  {
+    "English": "green",
+    "Farsi": "سبز",
+    "Transliteration": "sbz",
+    "Farsi_Audio": "green.wav"
+  },
+  {
+    "English": "grew",
+    "Farsi": "رشد کردن",
+    "Transliteration": "rshd kerdn",
+    "Farsi_Audio": "grew.wav"
+  },
+  {
+    "English": "ground",
+    "Farsi": "زمین",
+    "Transliteration": "zman",
+    "Farsi_Audio": "ground.wav"
+  },
+  {
+    "English": "group",
+    "Farsi": "گروه",
+    "Transliteration": "gurwh",
+    "Farsi_Audio": "group.wav"
+  },
+  {
+    "English": "grow",
+    "Farsi": "رشد",
+    "Transliteration": "rshd",
+    "Farsi_Audio": "grow.wav"
+  },
+  {
+    "English": "guess",
+    "Farsi": "حدس بزن",
+    "Transliteration": "hds bzn",
+    "Farsi_Audio": "guess.wav"
+  },
+  {
+    "English": "guide",
+    "Farsi": "راهنما",
+    "Transliteration": "rahnma",
+    "Farsi_Audio": "guide.wav"
+  },
+  {
+    "English": "gun",
+    "Farsi": "تفنگ",
+    "Transliteration": "tfngu",
+    "Farsi_Audio": "gun.wav"
+  },
+  {
+    "English": "had",
+    "Farsi": "داشته است",
+    "Transliteration": "dashth ast",
+    "Farsi_Audio": "had.wav"
+  },
+  {
+    "English": "hair",
+    "Farsi": "مو",
+    "Transliteration": "mw",
+    "Farsi_Audio": "hair.wav"
+  },
+  {
+    "English": "half",
+    "Farsi": "نیم",
+    "Transliteration": "nam",
+    "Farsi_Audio": "half.wav"
+  },
+  {
+    "English": "hand",
+    "Farsi": "دست",
+    "Transliteration": "dst",
+    "Farsi_Audio": "hand.wav"
+  },
+  {
+    "English": "happen",
+    "Farsi": "به وقوع پیوستن",
+    "Transliteration": "bh wqw'e peawstn",
+    "Farsi_Audio": "happen.wav"
+  },
+  {
+    "English": "happy",
+    "Farsi": "خوشحال",
+    "Transliteration": "khwshhal",
+    "Farsi_Audio": "happy.wav"
+  },
+  {
+    "English": "hard",
+    "Farsi": "سخت",
+    "Transliteration": "skht",
+    "Farsi_Audio": "hard.wav"
+  },
+  {
+    "English": "has",
+    "Farsi": "داشتن",
+    "Transliteration": "dashtn",
+    "Farsi_Audio": "has.wav"
+  },
+  {
+    "English": "hat",
+    "Farsi": "کلاه",
+    "Transliteration": "kelah",
+    "Farsi_Audio": "hat.wav"
+  },
+  {
+    "English": "have",
+    "Farsi": "دارند",
+    "Transliteration": "darnd",
+    "Farsi_Audio": "have.wav"
+  },
+  {
+    "English": "he",
+    "Farsi": "او",
+    "Transliteration": "aw",
+    "Farsi_Audio": "he.wav"
+  },
+  {
+    "English": "head",
+    "Farsi": "سر",
+    "Transliteration": "sr",
+    "Farsi_Audio": "head.wav"
+  },
+  {
+    "English": "hear",
+    "Farsi": "شنیدن",
+    "Transliteration": "shnadn",
+    "Farsi_Audio": "hear.wav"
+  },
+  {
+    "English": "heard",
+    "Farsi": "شنیدن",
+    "Transliteration": "shnadn",
+    "Farsi_Audio": "heard.wav"
+  },
+  {
+    "English": "heart",
+    "Farsi": "قلب",
+    "Transliteration": "qlb",
+    "Farsi_Audio": "heart.wav"
+  },
+  {
+    "English": "heat",
+    "Farsi": "حرارت",
+    "Transliteration": "hrart",
+    "Farsi_Audio": "heat.wav"
+  },
+  {
+    "English": "heavy",
+    "Farsi": "سنگین",
+    "Transliteration": "snguan",
+    "Farsi_Audio": "heavy.wav"
+  },
+  {
+    "English": "held",
+    "Farsi": "برگزار شد",
+    "Transliteration": "brguzar shd",
+    "Farsi_Audio": "held.wav"
+  },
+  {
+    "English": "help",
+    "Farsi": "کمک",
+    "Transliteration": "kemke",
+    "Farsi_Audio": "help.wav"
+  },
+  {
+    "English": "her",
+    "Farsi": "او",
+    "Transliteration": "aw",
+    "Farsi_Audio": "her.wav"
+  },
+  {
+    "English": "here",
+    "Farsi": "اینجا",
+    "Transliteration": "aanja",
+    "Farsi_Audio": "here.wav"
+  },
+  {
+    "English": "high",
+    "Farsi": "زیاد",
+    "Transliteration": "zaad",
+    "Farsi_Audio": "high.wav"
+  },
+  {
+    "English": "hill",
+    "Farsi": "تپه",
+    "Transliteration": "tpeh",
+    "Farsi_Audio": "hill.wav"
+  },
+  {
+    "English": "him",
+    "Farsi": "به او",
+    "Transliteration": "bh aw",
+    "Farsi_Audio": "him.wav"
+  },
+  {
+    "English": "his",
+    "Farsi": "خود",
+    "Transliteration": "khwd",
+    "Farsi_Audio": "his.wav"
+  },
+  {
+    "English": "history",
+    "Farsi": "تاریخ",
+    "Transliteration": "tarakh",
+    "Farsi_Audio": "history.wav"
+  },
+  {
+    "English": "hit",
+    "Farsi": "اصابت",
+    "Transliteration": "asabt",
+    "Farsi_Audio": "hit.wav"
+  },
+  {
+    "English": "hold",
+    "Farsi": "نگه داشتن",
+    "Transliteration": "nguh dashtn",
+    "Farsi_Audio": "hold.wav"
+  },
+  {
+    "English": "hole",
+    "Farsi": "سوراخ",
+    "Transliteration": "swrakh",
+    "Farsi_Audio": "hole.wav"
+  },
+  {
+    "English": "home",
+    "Farsi": "خانه",
+    "Transliteration": "khanh",
+    "Farsi_Audio": "home.wav"
+  },
+  {
+    "English": "hope",
+    "Farsi": "امید",
+    "Transliteration": "amad",
+    "Farsi_Audio": "hope.wav"
+  },
+  {
+    "English": "horse",
+    "Farsi": "اسب",
+    "Transliteration": "asb",
+    "Farsi_Audio": "horse.wav"
+  },
+  {
+    "English": "hot",
+    "Farsi": "داغ",
+    "Transliteration": "dagh",
+    "Farsi_Audio": "hot.wav"
+  },
+  {
+    "English": "hot",
+    "Farsi": "داغ",
+    "Transliteration": "dagh",
+    "Farsi_Audio": "hot.wav"
+  },
+  {
+    "English": "hour",
+    "Farsi": "ساعت",
+    "Transliteration": "sa'et",
+    "Farsi_Audio": "hour.wav"
+  },
+  {
+    "English": "house",
+    "Farsi": "خانه",
+    "Transliteration": "khanh",
+    "Farsi_Audio": "house.wav"
+  },
+  {
+    "English": "how",
+    "Farsi": "چطوری",
+    "Transliteration": "chetwra",
+    "Farsi_Audio": "how.wav"
+  },
+  {
+    "English": "huge",
+    "Farsi": "بزرگ",
+    "Transliteration": "bzrgu",
+    "Farsi_Audio": "huge.wav"
+  },
+  {
+    "English": "human",
+    "Farsi": "انسان",
+    "Transliteration": "ansan",
+    "Farsi_Audio": "human.wav"
+  },
+  {
+    "English": "hundred",
+    "Farsi": "صد",
+    "Transliteration": "sd",
+    "Farsi_Audio": "hundred.wav"
+  },
+  {
+    "English": "hunt",
+    "Farsi": "شکار",
+    "Transliteration": "shkear",
+    "Farsi_Audio": "hunt.wav"
+  },
+  {
+    "English": "hurry",
+    "Farsi": "عجله کردن",
+    "Transliteration": "'ejlh kerdn",
+    "Farsi_Audio": "hurry.wav"
+  },
+  {
+    "English": "I",
+    "Farsi": "من",
+    "Transliteration": "mn",
+    "Farsi_Audio": "I.wav"
+  },
+  {
+    "English": "ice",
+    "Farsi": "یخ",
+    "Transliteration": "akh",
+    "Farsi_Audio": "ice.wav"
+  },
+  {
+    "English": "idea",
+    "Farsi": "اندیشه",
+    "Transliteration": "andashh",
+    "Farsi_Audio": "idea.wav"
+  },
+  {
+    "English": "if",
+    "Farsi": "اگر",
+    "Transliteration": "agur",
+    "Farsi_Audio": "if.wav"
+  },
+  {
+    "English": "imagine",
+    "Farsi": "تصور کن",
+    "Transliteration": "tswr ken",
+    "Farsi_Audio": "imagine.wav"
+  },
+  {
+    "English": "in",
+    "Farsi": "که در",
+    "Transliteration": "keh dr",
+    "Farsi_Audio": "in.wav"
+  },
+  {
+    "English": "inch",
+    "Farsi": "اینچ",
+    "Transliteration": "aanche",
+    "Farsi_Audio": "inch.wav"
+  },
+  {
+    "English": "include",
+    "Farsi": "عبارتند از",
+    "Transliteration": "'ebartnd az",
+    "Farsi_Audio": "include.wav"
+  },
+  {
+    "English": "indicate",
+    "Farsi": "نشان دادن",
+    "Transliteration": "nshan dadn",
+    "Farsi_Audio": "indicate.wav"
+  },
+  {
+    "English": "industry",
+    "Farsi": "صنعت",
+    "Transliteration": "sn'et",
+    "Farsi_Audio": "industry.wav"
+  },
+  {
+    "English": "insect",
+    "Farsi": "حشره",
+    "Transliteration": "hshrh",
+    "Farsi_Audio": "insect.wav"
+  },
+  {
+    "English": "instant",
+    "Farsi": "فوری",
+    "Transliteration": "fwra",
+    "Farsi_Audio": "instant.wav"
+  },
+  {
+    "English": "instrument",
+    "Farsi": "ابزار",
+    "Transliteration": "abzar",
+    "Farsi_Audio": "instrument.wav"
+  },
+  {
+    "English": "interest",
+    "Farsi": "علاقه",
+    "Transliteration": "'elaqh",
+    "Farsi_Audio": "interest.wav"
+  },
+  {
+    "English": "invent",
+    "Farsi": "اختراع کردن",
+    "Transliteration": "akhtra'e kerdn",
+    "Farsi_Audio": "invent.wav"
+  },
+  {
+    "English": "iron",
+    "Farsi": "اهن",
+    "Transliteration": "ahn",
+    "Farsi_Audio": "iron.wav"
+  },
+  {
+    "English": "is",
+    "Farsi": "است",
+    "Transliteration": "ast",
+    "Farsi_Audio": "is.wav"
+  },
+  {
+    "English": "island",
+    "Farsi": "جزیره",
+    "Transliteration": "jzarh",
+    "Farsi_Audio": "island.wav"
+  },
+  {
+    "English": "it",
+    "Farsi": "آی تی",
+    "Transliteration": "aa ta",
+    "Farsi_Audio": "it.wav"
+  },
+  {
+    "English": "job",
+    "Farsi": "کار",
+    "Transliteration": "kear",
+    "Farsi_Audio": "job.wav"
+  },
+  {
+    "English": "join",
+    "Farsi": "پیوستن",
+    "Transliteration": "peawstn",
+    "Farsi_Audio": "join.wav"
+  },
+  {
+    "English": "joy",
+    "Farsi": "شادی",
+    "Transliteration": "shada",
+    "Farsi_Audio": "joy.wav"
+  },
+  {
+    "English": "jump",
+    "Farsi": "پرش",
+    "Transliteration": "persh",
+    "Farsi_Audio": "jump.wav"
+  },
+  {
+    "English": "just",
+    "Farsi": "فقط",
+    "Transliteration": "fqt",
+    "Farsi_Audio": "just.wav"
+  },
+  {
+    "English": "keep",
+    "Farsi": "نگاه داشتن",
+    "Transliteration": "nguah dashtn",
+    "Farsi_Audio": "keep.wav"
+  },
+  {
+    "English": "kept",
+    "Farsi": "نگه داشتن",
+    "Transliteration": "nguh dashtn",
+    "Farsi_Audio": "kept.wav"
+  },
+  {
+    "English": "key",
+    "Farsi": "کلید",
+    "Transliteration": "kelad",
+    "Farsi_Audio": "key.wav"
+  },
+  {
+    "English": "kill",
+    "Farsi": "کشتن",
+    "Transliteration": "keshtn",
+    "Farsi_Audio": "kill.wav"
+  },
+  {
+    "English": "kind",
+    "Farsi": "نوع",
+    "Transliteration": "nw'e",
+    "Farsi_Audio": "kind.wav"
+  },
+  {
+    "English": "king",
+    "Farsi": "پادشاه",
+    "Transliteration": "peadshah",
+    "Farsi_Audio": "king.wav"
+  },
+  {
+    "English": "knew",
+    "Farsi": "می دانند",
+    "Transliteration": "ma dannd",
+    "Farsi_Audio": "knew.wav"
+  },
+  {
+    "English": "know",
+    "Farsi": "دانستن",
+    "Transliteration": "danstn",
+    "Farsi_Audio": "know.wav"
+  },
+  {
+    "English": "lady",
+    "Farsi": "بانوی",
+    "Transliteration": "banwa",
+    "Farsi_Audio": "lady.wav"
+  },
+  {
+    "English": "lake",
+    "Farsi": "دریاچه",
+    "Transliteration": "draacheh",
+    "Farsi_Audio": "lake.wav"
+  },
+  {
+    "English": "land",
+    "Farsi": "زمین",
+    "Transliteration": "zman",
+    "Farsi_Audio": "land.wav"
+  },
+  {
+    "English": "language",
+    "Farsi": "زبان",
+    "Transliteration": "zban",
+    "Farsi_Audio": "language.wav"
+  },
+  {
+    "English": "large",
+    "Farsi": "بزرگ",
+    "Transliteration": "bzrgu",
+    "Farsi_Audio": "large.wav"
+  },
+  {
+    "English": "last",
+    "Farsi": "آخر",
+    "Transliteration": "akhr",
+    "Farsi_Audio": "last.wav"
+  },
+  {
+    "English": "late",
+    "Farsi": "دیر",
+    "Transliteration": "dar",
+    "Farsi_Audio": "late.wav"
+  },
+  {
+    "English": "laugh",
+    "Farsi": "خنده",
+    "Transliteration": "khndh",
+    "Farsi_Audio": "laugh.wav"
+  },
+  {
+    "English": "law",
+    "Farsi": "قانون",
+    "Transliteration": "qanwn",
+    "Farsi_Audio": "law.wav"
+  },
+  {
+    "English": "lay",
+    "Farsi": "درازکشیدن",
+    "Transliteration": "drazkeshadn",
+    "Farsi_Audio": "lay.wav"
+  },
+  {
+    "English": "lead",
+    "Farsi": "رهبری",
+    "Transliteration": "rhbra",
+    "Farsi_Audio": "lead.wav"
+  },
+  {
+    "English": "learn",
+    "Farsi": "فرا گرفتن",
+    "Transliteration": "fra gurftn",
+    "Farsi_Audio": "learn.wav"
+  },
+  {
+    "English": "least",
+    "Farsi": "کمترین",
+    "Transliteration": "kemtran",
+    "Farsi_Audio": "least.wav"
+  },
+  {
+    "English": "leave",
+    "Farsi": "ترک کردن",
+    "Transliteration": "trke kerdn",
+    "Farsi_Audio": "leave.wav"
+  },
+  {
+    "English": "led",
+    "Farsi": "رهبری",
+    "Transliteration": "rhbra",
+    "Farsi_Audio": "led.wav"
+  },
+  {
+    "English": "left",
+    "Farsi": "ترک کرد",
+    "Transliteration": "trke kerd",
+    "Farsi_Audio": "left.wav"
+  },
+  {
+    "English": "leg",
+    "Farsi": "پا",
+    "Transliteration": "pea",
+    "Farsi_Audio": "leg.wav"
+  },
+  {
+    "English": "length",
+    "Farsi": "طول",
+    "Transliteration": "twl",
+    "Farsi_Audio": "length.wav"
+  },
+  {
+    "English": "less",
+    "Farsi": "کمتر",
+    "Transliteration": "kemtr",
+    "Farsi_Audio": "less.wav"
+  },
+  {
+    "English": "let",
+    "Farsi": "اجازه دهید",
+    "Transliteration": "ajazh dhad",
+    "Farsi_Audio": "let.wav"
+  },
+  {
+    "English": "letter",
+    "Farsi": "حرف",
+    "Transliteration": "hrf",
+    "Farsi_Audio": "letter.wav"
+  },
+  {
+    "English": "level",
+    "Farsi": "مرحله",
+    "Transliteration": "mrhlh",
+    "Farsi_Audio": "level.wav"
+  },
+  {
+    "English": "lie",
+    "Farsi": "دروغ",
+    "Transliteration": "drwgh",
+    "Farsi_Audio": "lie.wav"
+  },
+  {
+    "English": "life",
+    "Farsi": "زندگی",
+    "Transliteration": "zndgua",
+    "Farsi_Audio": "life.wav"
+  },
+  {
+    "English": "lift",
+    "Farsi": "بلند کردن",
+    "Transliteration": "blnd kerdn",
+    "Farsi_Audio": "lift.wav"
+  },
+  {
+    "English": "light",
+    "Farsi": "سبک",
+    "Transliteration": "sbke",
+    "Farsi_Audio": "light.wav"
+  },
+  {
+    "English": "like",
+    "Farsi": "پسندیدن",
+    "Transliteration": "pesndadn",
+    "Farsi_Audio": "like.wav"
+  },
+  {
+    "English": "line",
+    "Farsi": "خط",
+    "Transliteration": "kht",
+    "Farsi_Audio": "line.wav"
+  },
+  {
+    "English": "liquid",
+    "Farsi": "مایع",
+    "Transliteration": "maa'e",
+    "Farsi_Audio": "liquid.wav"
+  },
+  {
+    "English": "list",
+    "Farsi": "فهرست",
+    "Transliteration": "fhrst",
+    "Farsi_Audio": "list.wav"
+  },
+  {
+    "English": "listen",
+    "Farsi": "گوش کن",
+    "Transliteration": "guwsh ken",
+    "Farsi_Audio": "listen.wav"
+  },
+  {
+    "English": "little",
+    "Farsi": "مقدار کمی",
+    "Transliteration": "mqdar kema",
+    "Farsi_Audio": "little.wav"
+  },
+  {
+    "English": "live",
+    "Farsi": "زنده",
+    "Transliteration": "zndh",
+    "Farsi_Audio": "live.wav"
+  },
+  {
+    "English": "locate",
+    "Farsi": "قرار دادن",
+    "Transliteration": "qrar dadn",
+    "Farsi_Audio": "locate.wav"
+  },
+  {
+    "English": "log",
+    "Farsi": "ورود",
+    "Transliteration": "wrwd",
+    "Farsi_Audio": "log.wav"
+  },
+  {
+    "English": "lone",
+    "Farsi": "لاون",
+    "Transliteration": "lawn",
+    "Farsi_Audio": "lone.wav"
+  },
+  {
+    "English": "long",
+    "Farsi": "طولانی",
+    "Transliteration": "twlana",
+    "Farsi_Audio": "long.wav"
+  },
+  {
+    "English": "look",
+    "Farsi": "نگاه کردن",
+    "Transliteration": "nguah kerdn",
+    "Farsi_Audio": "look.wav"
+  },
+  {
+    "English": "lost",
+    "Farsi": "کم شده",
+    "Transliteration": "kem shdh",
+    "Farsi_Audio": "lost.wav"
+  },
+  {
+    "English": "lot",
+    "Farsi": "زیاد",
+    "Transliteration": "zaad",
+    "Farsi_Audio": "lot.wav"
+  },
+  {
+    "English": "loud",
+    "Farsi": "با صدای بلند",
+    "Transliteration": "ba sdaa blnd",
+    "Farsi_Audio": "loud.wav"
+  },
+  {
+    "English": "love",
+    "Farsi": "عشق",
+    "Transliteration": "'eshq",
+    "Farsi_Audio": "love.wav"
+  },
+  {
+    "English": "low",
+    "Farsi": "کم",
+    "Transliteration": "kem",
+    "Farsi_Audio": "low.wav"
+  },
+  {
+    "English": "machine",
+    "Farsi": "دستگاه",
+    "Transliteration": "dstguah",
+    "Farsi_Audio": "machine.wav"
+  },
+  {
+    "English": "made",
+    "Farsi": "ساخته",
+    "Transliteration": "sakhth",
+    "Farsi_Audio": "made.wav"
+  },
+  {
+    "English": "magnet",
+    "Farsi": "آهن ربا",
+    "Transliteration": "ahn rba",
+    "Farsi_Audio": "magnet.wav"
+  },
+  {
+    "English": "main",
+    "Farsi": "اصلی",
+    "Transliteration": "asla",
+    "Farsi_Audio": "main.wav"
+  },
+  {
+    "English": "major",
+    "Farsi": "عمده",
+    "Transliteration": "'emdh",
+    "Farsi_Audio": "major.wav"
+  },
+  {
+    "English": "make",
+    "Farsi": "ساختن",
+    "Transliteration": "sakhtn",
+    "Farsi_Audio": "make.wav"
+  },
+  {
+    "English": "man",
+    "Farsi": "مرد",
+    "Transliteration": "mrd",
+    "Farsi_Audio": "man.wav"
+  },
+  {
+    "English": "many",
+    "Farsi": "زیاد",
+    "Transliteration": "zaad",
+    "Farsi_Audio": "many.wav"
+  },
+  {
+    "English": "map",
+    "Farsi": "نقشه",
+    "Transliteration": "nqshh",
+    "Farsi_Audio": "map.wav"
+  },
+  {
+    "English": "mark",
+    "Farsi": "علامت",
+    "Transliteration": "'elamt",
+    "Farsi_Audio": "mark.wav"
+  },
+  {
+    "English": "market",
+    "Farsi": "بازار",
+    "Transliteration": "bazar",
+    "Farsi_Audio": "market.wav"
+  },
+  {
+    "English": "mass",
+    "Farsi": "جرم",
+    "Transliteration": "jrm",
+    "Farsi_Audio": "mass.wav"
+  },
+  {
+    "English": "master",
+    "Farsi": "استاد",
+    "Transliteration": "astad",
+    "Farsi_Audio": "master.wav"
+  },
+  {
+    "English": "match",
+    "Farsi": "همخوانی داشتن",
+    "Transliteration": "hmkhwana dashtn",
+    "Farsi_Audio": "match.wav"
+  },
+  {
+    "English": "material",
+    "Farsi": "ماده",
+    "Transliteration": "madh",
+    "Farsi_Audio": "material.wav"
+  },
+  {
+    "English": "matter",
+    "Farsi": "موضوع",
+    "Transliteration": "mwdw'e",
+    "Farsi_Audio": "matter.wav"
+  },
+  {
+    "English": "may",
+    "Farsi": "ممکن است",
+    "Transliteration": "mmken ast",
+    "Farsi_Audio": "may.wav"
+  },
+  {
+    "English": "me",
+    "Farsi": "من",
+    "Transliteration": "mn",
+    "Farsi_Audio": "me.wav"
+  },
+  {
+    "English": "mean",
+    "Farsi": "منظور داشتن",
+    "Transliteration": "mnzwr dashtn",
+    "Farsi_Audio": "mean.wav"
+  },
+  {
+    "English": "meant",
+    "Farsi": "به معنی",
+    "Transliteration": "bh m'ena",
+    "Farsi_Audio": "meant.wav"
+  },
+  {
+    "English": "measure",
+    "Farsi": "اندازه گرفتن",
+    "Transliteration": "andazh gurftn",
+    "Farsi_Audio": "measure.wav"
+  },
+  {
+    "English": "meat",
+    "Farsi": "گوشت",
+    "Transliteration": "guwsht",
+    "Farsi_Audio": "meat.wav"
+  },
+  {
+    "English": "meet",
+    "Farsi": "ملاقات",
+    "Transliteration": "mlaqat",
+    "Farsi_Audio": "meet.wav"
+  },
+  {
+    "English": "melody",
+    "Farsi": "ملودی",
+    "Transliteration": "mlwda",
+    "Farsi_Audio": "melody.wav"
+  },
+  {
+    "English": "men",
+    "Farsi": "مردان",
+    "Transliteration": "mrdan",
+    "Farsi_Audio": "men.wav"
+  },
+  {
+    "English": "metal",
+    "Farsi": "فلز",
+    "Transliteration": "flz",
+    "Farsi_Audio": "metal.wav"
+  },
+  {
+    "English": "method",
+    "Farsi": "روش",
+    "Transliteration": "rwsh",
+    "Farsi_Audio": "method.wav"
+  },
+  {
+    "English": "middle",
+    "Farsi": "وسط",
+    "Transliteration": "wst",
+    "Farsi_Audio": "middle.wav"
+  },
+  {
+    "English": "might",
+    "Farsi": "ممکن",
+    "Transliteration": "mmken",
+    "Farsi_Audio": "might.wav"
+  },
+  {
+    "English": "mile",
+    "Farsi": "مایل",
+    "Transliteration": "maal",
+    "Farsi_Audio": "mile.wav"
+  },
+  {
+    "English": "milk",
+    "Farsi": "شیر",
+    "Transliteration": "shar",
+    "Farsi_Audio": "milk.wav"
+  },
+  {
+    "English": "million",
+    "Farsi": "میلیون",
+    "Transliteration": "malawn",
+    "Farsi_Audio": "million.wav"
+  },
+  {
+    "English": "mind",
+    "Farsi": "ذهن",
+    "Transliteration": "dhn",
+    "Farsi_Audio": "mind.wav"
+  },
+  {
+    "English": "mine",
+    "Farsi": "مال خودم",
+    "Transliteration": "mal khwdm",
+    "Farsi_Audio": "mine.wav"
+  },
+  {
+    "English": "minute",
+    "Farsi": "دقیقه",
+    "Transliteration": "dqaqh",
+    "Farsi_Audio": "minute.wav"
+  },
+  {
+    "English": "miss",
+    "Farsi": "از دست دادن",
+    "Transliteration": "az dst dadn",
+    "Farsi_Audio": "miss.wav"
+  },
+  {
+    "English": "mix",
+    "Farsi": "مخلوط کردن",
+    "Transliteration": "mkhlwt kerdn",
+    "Farsi_Audio": "mix.wav"
+  },
+  {
+    "English": "modern",
+    "Farsi": "نوین",
+    "Transliteration": "nwan",
+    "Farsi_Audio": "modern.wav"
+  },
+  {
+    "English": "molecule",
+    "Farsi": "مولکول",
+    "Transliteration": "mwlkewl",
+    "Farsi_Audio": "molecule.wav"
+  },
+  {
+    "English": "moment",
+    "Farsi": "لحظه",
+    "Transliteration": "lhzh",
+    "Farsi_Audio": "moment.wav"
+  },
+  {
+    "English": "money",
+    "Farsi": "پول",
+    "Transliteration": "pewl",
+    "Farsi_Audio": "money.wav"
+  },
+  {
+    "English": "month",
+    "Farsi": "ماه",
+    "Transliteration": "mah",
+    "Farsi_Audio": "month.wav"
+  },
+  {
+    "English": "moon",
+    "Farsi": "ماه",
+    "Transliteration": "mah",
+    "Farsi_Audio": "moon.wav"
+  },
+  {
+    "English": "more",
+    "Farsi": "بیشتر",
+    "Transliteration": "bashtr",
+    "Farsi_Audio": "more.wav"
+  },
+  {
+    "English": "morning",
+    "Farsi": "صبح",
+    "Transliteration": "sbh",
+    "Farsi_Audio": "morning.wav"
+  },
+  {
+    "English": "most",
+    "Farsi": "اکثر",
+    "Transliteration": "akethr",
+    "Farsi_Audio": "most.wav"
+  },
+  {
+    "English": "mother",
+    "Farsi": "مادر",
+    "Transliteration": "madr",
+    "Farsi_Audio": "mother.wav"
+  },
+  {
+    "English": "motion",
+    "Farsi": "حرکت - جنبش",
+    "Transliteration": "hrket - jnbsh",
+    "Farsi_Audio": "motion.wav"
+  },
+  {
+    "English": "mount",
+    "Farsi": "کوه",
+    "Transliteration": "kewh",
+    "Farsi_Audio": "mount.wav"
+  },
+  {
+    "English": "mountain",
+    "Farsi": "کوه",
+    "Transliteration": "kewh",
+    "Farsi_Audio": "mountain.wav"
+  },
+  {
+    "English": "mouth",
+    "Farsi": "دهان",
+    "Transliteration": "dhan",
+    "Farsi_Audio": "mouth.wav"
+  },
+  {
+    "English": "move",
+    "Farsi": "حرکت",
+    "Transliteration": "hrket",
+    "Farsi_Audio": "move.wav"
+  },
+  {
+    "English": "much",
+    "Farsi": "زیاد",
+    "Transliteration": "zaad",
+    "Farsi_Audio": "much.wav"
+  },
+  {
+    "English": "multiply",
+    "Farsi": "تکثیر کردن",
+    "Transliteration": "tkethar kerdn",
+    "Farsi_Audio": "multiply.wav"
+  },
+  {
+    "English": "music",
+    "Farsi": "موسیقی",
+    "Transliteration": "mwsaqa",
+    "Farsi_Audio": "music.wav"
+  },
+  {
+    "English": "must",
+    "Farsi": "باید",
+    "Transliteration": "baad",
+    "Farsi_Audio": "must.wav"
+  },
+  {
+    "English": "my",
+    "Farsi": "من",
+    "Transliteration": "mn",
+    "Farsi_Audio": "my.wav"
+  },
+  {
+    "English": "name",
+    "Farsi": "نام",
+    "Transliteration": "nam",
+    "Farsi_Audio": "name.wav"
+  },
+  {
+    "English": "nation",
+    "Farsi": "ملت",
+    "Transliteration": "mlt",
+    "Farsi_Audio": "nation.wav"
+  },
+  {
+    "English": "natural",
+    "Farsi": "طبیعی",
+    "Transliteration": "tba'ea",
+    "Farsi_Audio": "natural.wav"
+  },
+  {
+    "English": "nature",
+    "Farsi": "طبیعت",
+    "Transliteration": "tba'et",
+    "Farsi_Audio": "nature.wav"
+  },
+  {
+    "English": "near",
+    "Farsi": "نزدیک",
+    "Transliteration": "nzdake",
+    "Farsi_Audio": "near.wav"
+  },
+  {
+    "English": "necessary",
+    "Farsi": "لازم",
+    "Transliteration": "lazm",
+    "Farsi_Audio": "necessary.wav"
+  },
+  {
+    "English": "neck",
+    "Farsi": "گردن",
+    "Transliteration": "gurdn",
+    "Farsi_Audio": "neck.wav"
+  },
+  {
+    "English": "need",
+    "Farsi": "نیاز",
+    "Transliteration": "naaz",
+    "Farsi_Audio": "need.wav"
+  },
+  {
+    "English": "neighbor",
+    "Farsi": "همسایه",
+    "Transliteration": "hmsaah",
+    "Farsi_Audio": "neighbor.wav"
+  },
+  {
+    "English": "never",
+    "Farsi": "هرگز",
+    "Transliteration": "hrguz",
+    "Farsi_Audio": "never.wav"
+  },
+  {
+    "English": "new",
+    "Farsi": "جدید",
+    "Transliteration": "jdad",
+    "Farsi_Audio": "new.wav"
+  },
+  {
+    "English": "next",
+    "Farsi": "بعد",
+    "Transliteration": "b'ed",
+    "Farsi_Audio": "next.wav"
+  },
+  {
+    "English": "night",
+    "Farsi": "شب",
+    "Transliteration": "shb",
+    "Farsi_Audio": "night.wav"
+  },
+  {
+    "English": "nine",
+    "Farsi": "نه",
+    "Transliteration": "nh",
+    "Farsi_Audio": "nine.wav"
+  },
+  {
+    "English": "no",
+    "Farsi": "نه",
+    "Transliteration": "nh",
+    "Farsi_Audio": "no.wav"
+  },
+  {
+    "English": "noise",
+    "Farsi": "سر و صدا",
+    "Transliteration": "sr w sda",
+    "Farsi_Audio": "noise.wav"
+  },
+  {
+    "English": "noon",
+    "Farsi": "ظهر",
+    "Transliteration": "zhr",
+    "Farsi_Audio": "noon.wav"
+  },
+  {
+    "English": "nor",
+    "Farsi": "نه",
+    "Transliteration": "nh",
+    "Farsi_Audio": "nor.wav"
+  },
+  {
+    "English": "north",
+    "Farsi": "شمالی",
+    "Transliteration": "shmala",
+    "Farsi_Audio": "north.wav"
+  },
+  {
+    "English": "nose",
+    "Farsi": "بینی",
+    "Transliteration": "bana",
+    "Farsi_Audio": "nose.wav"
+  },
+  {
+    "English": "note",
+    "Farsi": "توجه داشته باشید",
+    "Transliteration": "twjh dashth bashad",
+    "Farsi_Audio": "note.wav"
+  },
+  {
+    "English": "nothing",
+    "Farsi": "هیچ چیزی",
+    "Transliteration": "hache cheaza",
+    "Farsi_Audio": "nothing.wav"
+  },
+  {
+    "English": "notice",
+    "Farsi": "اطلاع",
+    "Transliteration": "atla'e",
+    "Farsi_Audio": "notice.wav"
+  },
+  {
+    "English": "noun",
+    "Farsi": "اسم",
+    "Transliteration": "asm",
+    "Farsi_Audio": "noun.wav"
+  },
+  {
+    "English": "now",
+    "Farsi": "اکنون",
+    "Transliteration": "akenwn",
+    "Farsi_Audio": "now.wav"
+  },
+  {
+    "English": "number",
+    "Farsi": "عدد",
+    "Transliteration": "'edd",
+    "Farsi_Audio": "number.wav"
+  },
+  {
+    "English": "numeral",
+    "Farsi": "عدد",
+    "Transliteration": "'edd",
+    "Farsi_Audio": "numeral.wav"
+  },
+  {
+    "English": "object",
+    "Farsi": "هدف - شی",
+    "Transliteration": "hdf - sha",
+    "Farsi_Audio": "object.wav"
+  },
+  {
+    "English": "observe",
+    "Farsi": "رعایت کنید",
+    "Transliteration": "r'eaat kenad",
+    "Farsi_Audio": "observe.wav"
+  },
+  {
+    "English": "occur",
+    "Farsi": "روی دادن",
+    "Transliteration": "rwa dadn",
+    "Farsi_Audio": "occur.wav"
+  },
+  {
+    "English": "ocean",
+    "Farsi": "اقیانوس",
+    "Transliteration": "aqaanws",
+    "Farsi_Audio": "ocean.wav"
+  },
+  {
+    "English": "of",
+    "Farsi": "از",
+    "Transliteration": "az",
+    "Farsi_Audio": "of.wav"
+  },
+  {
+    "English": "off",
+    "Farsi": "خاموش کردن",
+    "Transliteration": "khamwsh kerdn",
+    "Farsi_Audio": "off.wav"
+  },
+  {
+    "English": "offer",
+    "Farsi": "پیشنهاد",
+    "Transliteration": "peashnhad",
+    "Farsi_Audio": "offer.wav"
+  },
+  {
+    "English": "office",
+    "Farsi": "دفتر",
+    "Transliteration": "dftr",
+    "Farsi_Audio": "office.wav"
+  },
+  {
+    "English": "often",
+    "Farsi": "غالبا",
+    "Transliteration": "ghalba",
+    "Farsi_Audio": "often.wav"
+  },
+  {
+    "English": "oh",
+    "Farsi": "اوه",
+    "Transliteration": "awh",
+    "Farsi_Audio": "oh.wav"
+  },
+  {
+    "English": "oil",
+    "Farsi": "روغن",
+    "Transliteration": "rwghn",
+    "Farsi_Audio": "oil.wav"
+  },
+  {
+    "English": "old",
+    "Farsi": "قدیمی",
+    "Transliteration": "qdama",
+    "Farsi_Audio": "old.wav"
+  },
+  {
+    "English": "on",
+    "Farsi": "بر",
+    "Transliteration": "br",
+    "Farsi_Audio": "on.wav"
+  },
+  {
+    "English": "once",
+    "Farsi": "یک بار",
+    "Transliteration": "ake bar",
+    "Farsi_Audio": "once.wav"
+  },
+  {
+    "English": "one",
+    "Farsi": "یک",
+    "Transliteration": "ake",
+    "Farsi_Audio": "one.wav"
+  },
+  {
+    "English": "only",
+    "Farsi": "فقط",
+    "Transliteration": "fqt",
+    "Farsi_Audio": "only.wav"
+  },
+  {
+    "English": "open",
+    "Farsi": "باز کن",
+    "Transliteration": "baz ken",
+    "Farsi_Audio": "open.wav"
+  },
+  {
+    "English": "operate",
+    "Farsi": "عمل کردن",
+    "Transliteration": "'eml kerdn",
+    "Farsi_Audio": "operate.wav"
+  },
+  {
+    "English": "opposite",
+    "Farsi": "مخالف",
+    "Transliteration": "mkhalf",
+    "Farsi_Audio": "opposite.wav"
+  },
+  {
+    "English": "or",
+    "Farsi": "یا",
+    "Transliteration": "aa",
+    "Farsi_Audio": "or.wav"
+  },
+  {
+    "English": "order",
+    "Farsi": "سفارش",
+    "Transliteration": "sfarsh",
+    "Farsi_Audio": "order.wav"
+  },
+  {
+    "English": "organ",
+    "Farsi": "عضو",
+    "Transliteration": "'edw",
+    "Farsi_Audio": "organ.wav"
+  },
+  {
+    "English": "original",
+    "Farsi": "اصلی",
+    "Transliteration": "asla",
+    "Farsi_Audio": "original.wav"
+  },
+  {
+    "English": "other",
+    "Farsi": "دیگر",
+    "Transliteration": "dagur",
+    "Farsi_Audio": "other.wav"
+  },
+  {
+    "English": "our",
+    "Farsi": "ما",
+    "Transliteration": "ma",
+    "Farsi_Audio": "our.wav"
+  },
+  {
+    "English": "out",
+    "Farsi": "خارج کردن",
+    "Transliteration": "kharj kerdn",
+    "Farsi_Audio": "out.wav"
+  },
+  {
+    "English": "over",
+    "Farsi": "بر فراز",
+    "Transliteration": "br fraz",
+    "Farsi_Audio": "over.wav"
+  },
+  {
+    "English": "own",
+    "Farsi": "خود",
+    "Transliteration": "khwd",
+    "Farsi_Audio": "own.wav"
+  },
+  {
+    "English": "oxygen",
+    "Farsi": "اکسیژن",
+    "Transliteration": "akesajen",
+    "Farsi_Audio": "oxygen.wav"
+  },
+  {
+    "English": "page",
+    "Farsi": "صفحه",
+    "Transliteration": "sfhh",
+    "Farsi_Audio": "page.wav"
+  },
+  {
+    "English": "paint",
+    "Farsi": "رنگ کردن",
+    "Transliteration": "rngu kerdn",
+    "Farsi_Audio": "paint.wav"
+  },
+  {
+    "English": "pair",
+    "Farsi": "جفت کردن",
+    "Transliteration": "jft kerdn",
+    "Farsi_Audio": "pair.wav"
+  },
+  {
+    "English": "paper",
+    "Farsi": "کاغذ",
+    "Transliteration": "keaghd",
+    "Farsi_Audio": "paper.wav"
+  },
+  {
+    "English": "paragraph",
+    "Farsi": "پاراگراف",
+    "Transliteration": "pearaguraf",
+    "Farsi_Audio": "paragraph.wav"
+  },
+  {
+    "English": "parent",
+    "Farsi": "والدین",
+    "Transliteration": "waldan",
+    "Farsi_Audio": "parent.wav"
+  },
+  {
+    "English": "part",
+    "Farsi": "قسمت",
+    "Transliteration": "qsmt",
+    "Farsi_Audio": "part.wav"
+  },
+  {
+    "English": "particular",
+    "Farsi": "خاص",
+    "Transliteration": "khas",
+    "Farsi_Audio": "particular.wav"
+  },
+  {
+    "English": "party",
+    "Farsi": "مهمانی - جشن",
+    "Transliteration": "mhmana - jshn",
+    "Farsi_Audio": "party.wav"
+  },
+  {
+    "English": "pass",
+    "Farsi": "عبور",
+    "Transliteration": "'ebwr",
+    "Farsi_Audio": "pass.wav"
+  },
+  {
+    "English": "past",
+    "Farsi": "گذشته",
+    "Transliteration": "gudshth",
+    "Farsi_Audio": "past.wav"
+  },
+  {
+    "English": "path",
+    "Farsi": "مسیر",
+    "Transliteration": "msar",
+    "Farsi_Audio": "path.wav"
+  },
+  {
+    "English": "pattern",
+    "Farsi": "الگو",
+    "Transliteration": "alguw",
+    "Farsi_Audio": "pattern.wav"
+  },
+  {
+    "English": "pay",
+    "Farsi": "پرداخت",
+    "Transliteration": "perdakht",
+    "Farsi_Audio": "pay.wav"
+  },
+  {
+    "English": "people",
+    "Farsi": "مردم",
+    "Transliteration": "mrdm",
+    "Farsi_Audio": "people.wav"
+  },
+  {
+    "English": "perhaps",
+    "Farsi": "شاید",
+    "Transliteration": "shaad",
+    "Farsi_Audio": "perhaps.wav"
+  },
+  {
+    "English": "period",
+    "Farsi": "عادت زنانه",
+    "Transliteration": "'eadt znanh",
+    "Farsi_Audio": "period.wav"
+  },
+  {
+    "English": "person",
+    "Farsi": "شخص",
+    "Transliteration": "shkhs",
+    "Farsi_Audio": "person.wav"
+  },
+  {
+    "English": "phrase",
+    "Farsi": "عبارت",
+    "Transliteration": "'ebart",
+    "Farsi_Audio": "phrase.wav"
+  },
+  {
+    "English": "pick",
+    "Farsi": "انتخاب",
+    "Transliteration": "antkhab",
+    "Farsi_Audio": "pick.wav"
+  },
+  {
+    "English": "picture",
+    "Farsi": "تصویر",
+    "Transliteration": "tswar",
+    "Farsi_Audio": "picture.wav"
+  },
+  {
+    "English": "piece",
+    "Farsi": "قطعه",
+    "Transliteration": "qt'eh",
+    "Farsi_Audio": "piece.wav"
+  },
+  {
+    "English": "pitch",
+    "Farsi": "گام صدا",
+    "Transliteration": "guam sda",
+    "Farsi_Audio": "pitch.wav"
+  },
+  {
+    "English": "place",
+    "Farsi": "محل",
+    "Transliteration": "mhl",
+    "Farsi_Audio": "place.wav"
+  },
+  {
+    "English": "plain",
+    "Farsi": "جلگه",
+    "Transliteration": "jlguh",
+    "Farsi_Audio": "plain.wav"
+  },
+  {
+    "English": "plan",
+    "Farsi": "طرح",
+    "Transliteration": "trh",
+    "Farsi_Audio": "plan.wav"
+  },
+  {
+    "English": "plane",
+    "Farsi": "سطح",
+    "Transliteration": "sth",
+    "Farsi_Audio": "plane.wav"
+  },
+  {
+    "English": "planet",
+    "Farsi": "سیاره",
+    "Transliteration": "saarh",
+    "Farsi_Audio": "planet.wav"
+  },
+  {
+    "English": "plant",
+    "Farsi": "گیاه",
+    "Transliteration": "guaah",
+    "Farsi_Audio": "plant.wav"
+  },
+  {
+    "English": "play",
+    "Farsi": "بازی",
+    "Transliteration": "baza",
+    "Farsi_Audio": "play.wav"
+  },
+  {
+    "English": "please",
+    "Farsi": "لطفا",
+    "Transliteration": "ltfa",
+    "Farsi_Audio": "please.wav"
+  },
+  {
+    "English": "plural",
+    "Farsi": "جمع",
+    "Transliteration": "jm'e",
+    "Farsi_Audio": "plural.wav"
+  },
+  {
+    "English": "poem",
+    "Farsi": "شعر",
+    "Transliteration": "sh'er",
+    "Farsi_Audio": "poem.wav"
+  },
+  {
+    "English": "point",
+    "Farsi": "نقطه",
+    "Transliteration": "nqth",
+    "Farsi_Audio": "point.wav"
+  },
+  {
+    "English": "poor",
+    "Farsi": "فقیر",
+    "Transliteration": "fqar",
+    "Farsi_Audio": "poor.wav"
+  },
+  {
+    "English": "populate",
+    "Farsi": "پر کردن",
+    "Transliteration": "per kerdn",
+    "Farsi_Audio": "populate.wav"
+  },
+  {
+    "English": "port",
+    "Farsi": "بندر",
+    "Transliteration": "bndr",
+    "Farsi_Audio": "port.wav"
+  },
+  {
+    "English": "pose",
+    "Farsi": "ژست",
+    "Transliteration": "jest",
+    "Farsi_Audio": "pose.wav"
+  },
+  {
+    "English": "position",
+    "Farsi": "موقعیت",
+    "Transliteration": "mwq'eat",
+    "Farsi_Audio": "position.wav"
+  },
+  {
+    "English": "possible",
+    "Farsi": "ممکن",
+    "Transliteration": "mmken",
+    "Farsi_Audio": "possible.wav"
+  },
+  {
+    "English": "post",
+    "Farsi": "پست",
+    "Transliteration": "pest",
+    "Farsi_Audio": "post.wav"
+  },
+  {
+    "English": "pound",
+    "Farsi": "پوند",
+    "Transliteration": "pewnd",
+    "Farsi_Audio": "pound.wav"
+  },
+  {
+    "English": "power",
+    "Farsi": "قدرت",
+    "Transliteration": "qdrt",
+    "Farsi_Audio": "power.wav"
+  },
+  {
+    "English": "practice",
+    "Farsi": "تمرین",
+    "Transliteration": "tmran",
+    "Farsi_Audio": "practice.wav"
+  },
+  {
+    "English": "prepare",
+    "Farsi": "آماده کردن",
+    "Transliteration": "amadh kerdn",
+    "Farsi_Audio": "prepare.wav"
+  },
+  {
+    "English": "present",
+    "Farsi": "حاضر",
+    "Transliteration": "hadr",
+    "Farsi_Audio": "present.wav"
+  },
+  {
+    "English": "press",
+    "Farsi": "مطبوعات",
+    "Transliteration": "mtbw'eat",
+    "Farsi_Audio": "press.wav"
+  },
+  {
+    "English": "pretty",
+    "Farsi": "بسیار",
+    "Transliteration": "bsaar",
+    "Farsi_Audio": "pretty.wav"
+  },
+  {
+    "English": "print",
+    "Farsi": "چاپ",
+    "Transliteration": "cheape",
+    "Farsi_Audio": "print.wav"
+  },
+  {
+    "English": "probable",
+    "Farsi": "احتمال کردنی",
+    "Transliteration": "ahtmal kerdna",
+    "Farsi_Audio": "probable.wav"
+  },
+  {
+    "English": "problem",
+    "Farsi": "مسئله",
+    "Transliteration": "ms'elh",
+    "Farsi_Audio": "problem.wav"
+  },
+  {
+    "English": "process",
+    "Farsi": "روند",
+    "Transliteration": "rwnd",
+    "Farsi_Audio": "process.wav"
+  },
+  {
+    "English": "produce",
+    "Farsi": "تولید کردن",
+    "Transliteration": "twlad kerdn",
+    "Farsi_Audio": "produce.wav"
+  },
+  {
+    "English": "product",
+    "Farsi": "تولید - محصول",
+    "Transliteration": "twlad - mhswl",
+    "Farsi_Audio": "product.wav"
+  },
+  {
+    "English": "proper",
+    "Farsi": "مناسب",
+    "Transliteration": "mnasb",
+    "Farsi_Audio": "proper.wav"
+  },
+  {
+    "English": "property",
+    "Farsi": "ویژگی",
+    "Transliteration": "wajegua",
+    "Farsi_Audio": "property.wav"
+  },
+  {
+    "English": "protect",
+    "Farsi": "محافظت",
+    "Transliteration": "mhafzt",
+    "Farsi_Audio": "protect.wav"
+  },
+  {
+    "English": "prove",
+    "Farsi": "ثابت كردن",
+    "Transliteration": "thabt krdn",
+    "Farsi_Audio": "prove.wav"
+  },
+  {
+    "English": "provide",
+    "Farsi": "ارائه دادن",
+    "Transliteration": "ara'eh dadn",
+    "Farsi_Audio": "provide.wav"
+  },
+  {
+    "English": "pull",
+    "Farsi": "کشیدن",
+    "Transliteration": "keshadn",
+    "Farsi_Audio": "pull.wav"
+  },
+  {
+    "English": "push",
+    "Farsi": "فشار دادن",
+    "Transliteration": "fshar dadn",
+    "Farsi_Audio": "push.wav"
+  },
+  {
+    "English": "put",
+    "Farsi": "قرار دادن",
+    "Transliteration": "qrar dadn",
+    "Farsi_Audio": "put.wav"
+  },
+  {
+    "English": "quart",
+    "Farsi": "کوارت",
+    "Transliteration": "kewart",
+    "Farsi_Audio": "quart.wav"
+  },
+  {
+    "English": "question",
+    "Farsi": "سؤال",
+    "Transliteration": "s'eal",
+    "Farsi_Audio": "question.wav"
+  },
+  {
+    "English": "quick",
+    "Farsi": "سریع",
+    "Transliteration": "sra'e",
+    "Farsi_Audio": "quick.wav"
+  },
+  {
+    "English": "quiet",
+    "Farsi": "ساکت",
+    "Transliteration": "saket",
+    "Farsi_Audio": "quiet.wav"
+  },
+  {
+    "English": "quite",
+    "Farsi": "کاملا",
+    "Transliteration": "keamla",
+    "Farsi_Audio": "quite.wav"
+  },
+  {
+    "English": "quotient",
+    "Farsi": "بخش",
+    "Transliteration": "bkhsh",
+    "Farsi_Audio": "quotient.wav"
+  },
+  {
+    "English": "race",
+    "Farsi": "مسابقه",
+    "Transliteration": "msabqh",
+    "Farsi_Audio": "race.wav"
+  },
+  {
+    "English": "radio",
+    "Farsi": "رادیو",
+    "Transliteration": "radaw",
+    "Farsi_Audio": "radio.wav"
+  },
+  {
+    "English": "rail",
+    "Farsi": "ریل",
+    "Transliteration": "ral",
+    "Farsi_Audio": "rail.wav"
+  },
+  {
+    "English": "rain",
+    "Farsi": "باران",
+    "Transliteration": "baran",
+    "Farsi_Audio": "rain.wav"
+  },
+  {
+    "English": "raise",
+    "Farsi": "بالا بردن",
+    "Transliteration": "bala brdn",
+    "Farsi_Audio": "raise.wav"
+  },
+  {
+    "English": "ran",
+    "Farsi": "فرار کردن",
+    "Transliteration": "frar kerdn",
+    "Farsi_Audio": "ran.wav"
+  },
+  {
+    "English": "range",
+    "Farsi": "دامنه",
+    "Transliteration": "damnh",
+    "Farsi_Audio": "range.wav"
+  },
+  {
+    "English": "rather",
+    "Farsi": "نسبتا",
+    "Transliteration": "nsbta",
+    "Farsi_Audio": "rather.wav"
+  },
+  {
+    "English": "reach",
+    "Farsi": "رسیدن",
+    "Transliteration": "rsadn",
+    "Farsi_Audio": "reach.wav"
+  },
+  {
+    "English": "read",
+    "Farsi": "خواندن",
+    "Transliteration": "khwandn",
+    "Farsi_Audio": "read.wav"
+  },
+  {
+    "English": "ready",
+    "Farsi": "آماده",
+    "Transliteration": "amadh",
+    "Farsi_Audio": "ready.wav"
+  },
+  {
+    "English": "real",
+    "Farsi": "واقعی",
+    "Transliteration": "waq'ea",
+    "Farsi_Audio": "real.wav"
+  },
+  {
+    "English": "reason",
+    "Farsi": "دلیل",
+    "Transliteration": "dlal",
+    "Farsi_Audio": "reason.wav"
+  },
+  {
+    "English": "receive",
+    "Farsi": "دريافت كردن",
+    "Transliteration": "dryaft krdn",
+    "Farsi_Audio": "receive.wav"
+  },
+  {
+    "English": "record",
+    "Farsi": "رکورد",
+    "Transliteration": "rkewrd",
+    "Farsi_Audio": "record.wav"
+  },
+  {
+    "English": "red",
+    "Farsi": "قرمز",
+    "Transliteration": "qrmz",
+    "Farsi_Audio": "red.wav"
+  },
+  {
+    "English": "region",
+    "Farsi": "منطقه",
+    "Transliteration": "mntqh",
+    "Farsi_Audio": "region.wav"
+  },
+  {
+    "English": "remember",
+    "Farsi": "یاد آوردن",
+    "Transliteration": "aad awrdn",
+    "Farsi_Audio": "remember.wav"
+  },
+  {
+    "English": "repeat",
+    "Farsi": "تکرار",
+    "Transliteration": "tkerar",
+    "Farsi_Audio": "repeat.wav"
+  },
+  {
+    "English": "reply",
+    "Farsi": "پاسخ",
+    "Transliteration": "peaskh",
+    "Farsi_Audio": "reply.wav"
+  },
+  {
+    "English": "represent",
+    "Farsi": "نشان دادن",
+    "Transliteration": "nshan dadn",
+    "Farsi_Audio": "represent.wav"
+  },
+  {
+    "English": "require",
+    "Farsi": "نیاز",
+    "Transliteration": "naaz",
+    "Farsi_Audio": "require.wav"
+  },
+  {
+    "English": "rest",
+    "Farsi": "باقی مانده",
+    "Transliteration": "baqa mandh",
+    "Farsi_Audio": "rest.wav"
+  },
+  {
+    "English": "result",
+    "Farsi": "نتیجه",
+    "Transliteration": "ntajh",
+    "Farsi_Audio": "result.wav"
+  },
+  {
+    "English": "rich",
+    "Farsi": "ثروتمند",
+    "Transliteration": "thrwtmnd",
+    "Farsi_Audio": "rich.wav"
+  },
+  {
+    "English": "ride",
+    "Farsi": "سوار کردن",
+    "Transliteration": "swar kerdn",
+    "Farsi_Audio": "ride.wav"
+  },
+  {
+    "English": "right",
+    "Farsi": "درست",
+    "Transliteration": "drst",
+    "Farsi_Audio": "right.wav"
+  },
+  {
+    "English": "ring",
+    "Farsi": "حلقه",
+    "Transliteration": "hlqh",
+    "Farsi_Audio": "ring.wav"
+  },
+  {
+    "English": "rise",
+    "Farsi": "صعود کردن",
+    "Transliteration": "s'ewd kerdn",
+    "Farsi_Audio": "rise.wav"
+  },
+  {
+    "English": "river",
+    "Farsi": "رودخانه",
+    "Transliteration": "rwdkhanh",
+    "Farsi_Audio": "river.wav"
+  },
+  {
+    "English": "road",
+    "Farsi": "جاده",
+    "Transliteration": "jadh",
+    "Farsi_Audio": "road.wav"
+  },
+  {
+    "English": "rock",
+    "Farsi": "سنگ",
+    "Transliteration": "sngu",
+    "Farsi_Audio": "rock.wav"
+  },
+  {
+    "English": "roll",
+    "Farsi": "رول",
+    "Transliteration": "rwl",
+    "Farsi_Audio": "roll.wav"
+  },
+  {
+    "English": "room",
+    "Farsi": "اتاق",
+    "Transliteration": "ataq",
+    "Farsi_Audio": "room.wav"
+  },
+  {
+    "English": "root",
+    "Farsi": "ریشه",
+    "Transliteration": "rashh",
+    "Farsi_Audio": "root.wav"
+  },
+  {
+    "English": "rope",
+    "Farsi": "طناب",
+    "Transliteration": "tnab",
+    "Farsi_Audio": "rope.wav"
+  },
+  {
+    "English": "rose",
+    "Farsi": "گل سرخ",
+    "Transliteration": "gul srkh",
+    "Farsi_Audio": "rose.wav"
+  },
+  {
+    "English": "round",
+    "Farsi": "دور",
+    "Transliteration": "dwr",
+    "Farsi_Audio": "round.wav"
+  },
+  {
+    "English": "row",
+    "Farsi": "ردیف",
+    "Transliteration": "rdaf",
+    "Farsi_Audio": "row.wav"
+  },
+  {
+    "English": "rub",
+    "Farsi": "مالش کردن",
+    "Transliteration": "malsh kerdn",
+    "Farsi_Audio": "rub.wav"
+  },
+  {
+    "English": "rule",
+    "Farsi": "قانون",
+    "Transliteration": "qanwn",
+    "Farsi_Audio": "rule.wav"
+  },
+  {
+    "English": "run",
+    "Farsi": "اجرا کن",
+    "Transliteration": "ajra ken",
+    "Farsi_Audio": "run.wav"
+  },
+  {
+    "English": "safe",
+    "Farsi": "بی خطر",
+    "Transliteration": "ba khtr",
+    "Farsi_Audio": "safe.wav"
+  },
+  {
+    "English": "said",
+    "Farsi": "گفت",
+    "Transliteration": "guft",
+    "Farsi_Audio": "said.wav"
+  },
+  {
+    "English": "sail",
+    "Farsi": "سفر دریایی",
+    "Transliteration": "sfr draaaa",
+    "Farsi_Audio": "sail.wav"
+  },
+  {
+    "English": "salt",
+    "Farsi": "نمک",
+    "Transliteration": "nmke",
+    "Farsi_Audio": "salt.wav"
+  },
+  {
+    "English": "same",
+    "Farsi": "یکسان",
+    "Transliteration": "akesan",
+    "Farsi_Audio": "same.wav"
+  },
+  {
+    "English": "sand",
+    "Farsi": "شن",
+    "Transliteration": "shn",
+    "Farsi_Audio": "sand.wav"
+  },
+  {
+    "English": "sat",
+    "Farsi": "نشسته",
+    "Transliteration": "nshsth",
+    "Farsi_Audio": "sat.wav"
+  },
+  {
+    "English": "save",
+    "Farsi": "صرفه جویی",
+    "Transliteration": "srfh jwaa",
+    "Farsi_Audio": "save.wav"
+  },
+  {
+    "English": "saw",
+    "Farsi": "اره",
+    "Transliteration": "arh",
+    "Farsi_Audio": "saw.wav"
+  },
+  {
+    "English": "say",
+    "Farsi": "گفتن",
+    "Transliteration": "guftn",
+    "Farsi_Audio": "say.wav"
+  },
+  {
+    "English": "scale",
+    "Farsi": "مقیاس",
+    "Transliteration": "mqaas",
+    "Farsi_Audio": "scale.wav"
+  },
+  {
+    "English": "school",
+    "Farsi": "مدرسه",
+    "Transliteration": "mdrsh",
+    "Farsi_Audio": "school.wav"
+  },
+  {
+    "English": "science",
+    "Farsi": "علوم پایه",
+    "Transliteration": "'elwm peaah",
+    "Farsi_Audio": "science.wav"
+  },
+  {
+    "English": "score",
+    "Farsi": "نمره",
+    "Transliteration": "nmrh",
+    "Farsi_Audio": "score.wav"
+  },
+  {
+    "English": "sea",
+    "Farsi": "دریا",
+    "Transliteration": "draa",
+    "Farsi_Audio": "sea.wav"
+  },
+  {
+    "English": "search",
+    "Farsi": "جستجو کردن",
+    "Transliteration": "jstjw kerdn",
+    "Farsi_Audio": "search.wav"
+  },
+  {
+    "English": "season",
+    "Farsi": "فصل",
+    "Transliteration": "fsl",
+    "Farsi_Audio": "season.wav"
+  },
+  {
+    "English": "seat",
+    "Farsi": "صندلی",
+    "Transliteration": "sndla",
+    "Farsi_Audio": "seat.wav"
+  },
+  {
+    "English": "second",
+    "Farsi": "دومین",
+    "Transliteration": "dwman",
+    "Farsi_Audio": "second.wav"
+  },
+  {
+    "English": "section",
+    "Farsi": "بخش",
+    "Transliteration": "bkhsh",
+    "Farsi_Audio": "section.wav"
+  },
+  {
+    "English": "see",
+    "Farsi": "دیدن",
+    "Transliteration": "dadn",
+    "Farsi_Audio": "see.wav"
+  },
+  {
+    "English": "seed",
+    "Farsi": "بذر",
+    "Transliteration": "bdr",
+    "Farsi_Audio": "seed.wav"
+  },
+  {
+    "English": "seem",
+    "Farsi": "به نظر می رسد",
+    "Transliteration": "bh nzr ma rsd",
+    "Farsi_Audio": "seem.wav"
+  },
+  {
+    "English": "segment",
+    "Farsi": "بخش",
+    "Transliteration": "bkhsh",
+    "Farsi_Audio": "segment.wav"
+  },
+  {
+    "English": "select",
+    "Farsi": "انتخاب کنید",
+    "Transliteration": "antkhab kenad",
+    "Farsi_Audio": "select.wav"
+  },
+  {
+    "English": "self",
+    "Farsi": "خود",
+    "Transliteration": "khwd",
+    "Farsi_Audio": "self.wav"
+  },
+  {
+    "English": "sell",
+    "Farsi": "فروش",
+    "Transliteration": "frwsh",
+    "Farsi_Audio": "sell.wav"
+  },
+  {
+    "English": "send",
+    "Farsi": "ارسال",
+    "Transliteration": "arsal",
+    "Farsi_Audio": "send.wav"
+  },
+  {
+    "English": "sense",
+    "Farsi": "احساس، مفهوم",
+    "Transliteration": "ahsas, mfhwm",
+    "Farsi_Audio": "sense.wav"
+  },
+  {
+    "English": "sent",
+    "Farsi": "ارسال شد",
+    "Transliteration": "arsal shd",
+    "Farsi_Audio": "sent.wav"
+  },
+  {
+    "English": "sentence",
+    "Farsi": "جمله",
+    "Transliteration": "jmlh",
+    "Farsi_Audio": "sentence.wav"
+  },
+  {
+    "English": "separate",
+    "Farsi": "جداگانه، مجزا",
+    "Transliteration": "jdaguanh, mjza",
+    "Farsi_Audio": "separate.wav"
+  },
+  {
+    "English": "serve",
+    "Farsi": "خدمت",
+    "Transliteration": "khdmt",
+    "Farsi_Audio": "serve.wav"
+  },
+  {
+    "English": "set",
+    "Farsi": "تنظیم",
+    "Transliteration": "tnzam",
+    "Farsi_Audio": "set.wav"
+  },
+  {
+    "English": "settle",
+    "Farsi": "حل کن",
+    "Transliteration": "hl ken",
+    "Farsi_Audio": "settle.wav"
+  },
+  {
+    "English": "seven",
+    "Farsi": "هفت",
+    "Transliteration": "hft",
+    "Farsi_Audio": "seven.wav"
+  },
+  {
+    "English": "several",
+    "Farsi": "چندین",
+    "Transliteration": "chendan",
+    "Farsi_Audio": "several.wav"
+  },
+  {
+    "English": "shall",
+    "Farsi": "باید",
+    "Transliteration": "baad",
+    "Farsi_Audio": "shall.wav"
+  },
+  {
+    "English": "shape",
+    "Farsi": "شکل",
+    "Transliteration": "shkel",
+    "Farsi_Audio": "shape.wav"
+  },
+  {
+    "English": "share",
+    "Farsi": "اشتراک گذاری",
+    "Transliteration": "ashtrake gudara",
+    "Farsi_Audio": "share.wav"
+  },
+  {
+    "English": "sharp",
+    "Farsi": "تیز",
+    "Transliteration": "taz",
+    "Farsi_Audio": "sharp.wav"
+  },
+  {
+    "English": "she",
+    "Farsi": "او",
+    "Transliteration": "aw",
+    "Farsi_Audio": "she.wav"
+  },
+  {
+    "English": "sheet",
+    "Farsi": "ورق",
+    "Transliteration": "wrq",
+    "Farsi_Audio": "sheet.wav"
+  },
+  {
+    "English": "shell",
+    "Farsi": "پوسته",
+    "Transliteration": "pewsth",
+    "Farsi_Audio": "shell.wav"
+  },
+  {
+    "English": "shine",
+    "Farsi": "درخشش",
+    "Transliteration": "drkhshsh",
+    "Farsi_Audio": "shine.wav"
+  },
+  {
+    "English": "ship",
+    "Farsi": "کشتی",
+    "Transliteration": "keshta",
+    "Farsi_Audio": "ship.wav"
+  },
+  {
+    "English": "shoe",
+    "Farsi": "کفش",
+    "Transliteration": "kefsh",
+    "Farsi_Audio": "shoe.wav"
+  },
+  {
+    "English": "shop",
+    "Farsi": "مغازه",
+    "Transliteration": "mghazh",
+    "Farsi_Audio": "shop.wav"
+  },
+  {
+    "English": "shore",
+    "Farsi": "ساحل",
+    "Transliteration": "sahl",
+    "Farsi_Audio": "shore.wav"
+  },
+  {
+    "English": "short",
+    "Farsi": "کوتاه",
+    "Transliteration": "kewtah",
+    "Farsi_Audio": "short.wav"
+  },
+  {
+    "English": "should",
+    "Farsi": "باید",
+    "Transliteration": "baad",
+    "Farsi_Audio": "should.wav"
+  },
+  {
+    "English": "shoulder",
+    "Farsi": "شانه",
+    "Transliteration": "shanh",
+    "Farsi_Audio": "shoulder.wav"
+  },
+  {
+    "English": "shout",
+    "Farsi": "فریاد",
+    "Transliteration": "fraad",
+    "Farsi_Audio": "shout.wav"
+  },
+  {
+    "English": "show",
+    "Farsi": "نمایش",
+    "Transliteration": "nmaash",
+    "Farsi_Audio": "show.wav"
+  },
+  {
+    "English": "side",
+    "Farsi": "سمت",
+    "Transliteration": "smt",
+    "Farsi_Audio": "side.wav"
+  },
+  {
+    "English": "sight",
+    "Farsi": "منظره",
+    "Transliteration": "mnzrh",
+    "Farsi_Audio": "sight.wav"
+  },
+  {
+    "English": "sign",
+    "Farsi": "امضا کردن",
+    "Transliteration": "amda kerdn",
+    "Farsi_Audio": "sign.wav"
+  },
+  {
+    "English": "silent",
+    "Farsi": "بی صدا",
+    "Transliteration": "ba sda",
+    "Farsi_Audio": "silent.wav"
+  },
+  {
+    "English": "silver",
+    "Farsi": "نقره اي",
+    "Transliteration": "nqrh ay",
+    "Farsi_Audio": "silver.wav"
+  },
+  {
+    "English": "similar",
+    "Farsi": "مشابه",
+    "Transliteration": "mshabh",
+    "Farsi_Audio": "similar.wav"
+  },
+  {
+    "English": "simple",
+    "Farsi": "ساده",
+    "Transliteration": "sadh",
+    "Farsi_Audio": "simple.wav"
+  },
+  {
+    "English": "since",
+    "Farsi": "از آنجا که",
+    "Transliteration": "az anja keh",
+    "Farsi_Audio": "since.wav"
+  },
+  {
+    "English": "sing",
+    "Farsi": "آواز خواندن",
+    "Transliteration": "awaz khwandn",
+    "Farsi_Audio": "sing.wav"
+  },
+  {
+    "English": "single",
+    "Farsi": "تنها",
+    "Transliteration": "tnha",
+    "Farsi_Audio": "single.wav"
+  },
+  {
+    "English": "sister",
+    "Farsi": "خواهر",
+    "Transliteration": "khwahr",
+    "Farsi_Audio": "sister.wav"
+  },
+  {
+    "English": "sit",
+    "Farsi": "نشستن",
+    "Transliteration": "nshstn",
+    "Farsi_Audio": "sit.wav"
+  },
+  {
+    "English": "six",
+    "Farsi": "شش",
+    "Transliteration": "shsh",
+    "Farsi_Audio": "six.wav"
+  },
+  {
+    "English": "size",
+    "Farsi": "اندازه",
+    "Transliteration": "andazh",
+    "Farsi_Audio": "size.wav"
+  },
+  {
+    "English": "skill",
+    "Farsi": "مهارت",
+    "Transliteration": "mhart",
+    "Farsi_Audio": "skill.wav"
+  },
+  {
+    "English": "skin",
+    "Farsi": "پوست",
+    "Transliteration": "pewst",
+    "Farsi_Audio": "skin.wav"
+  },
+  {
+    "English": "sky",
+    "Farsi": "آسمان",
+    "Transliteration": "asman",
+    "Farsi_Audio": "sky.wav"
+  },
+  {
+    "English": "slave",
+    "Farsi": "برده",
+    "Transliteration": "brdh",
+    "Farsi_Audio": "slave.wav"
+  },
+  {
+    "English": "sleep",
+    "Farsi": "خواب",
+    "Transliteration": "khwab",
+    "Farsi_Audio": "sleep.wav"
+  },
+  {
+    "English": "slip",
+    "Farsi": "لیز خوردن",
+    "Transliteration": "laz khwrdn",
+    "Farsi_Audio": "slip.wav"
+  },
+  {
+    "English": "slow",
+    "Farsi": "آهسته. تدریجی",
+    "Transliteration": "ahsth. tdraja",
+    "Farsi_Audio": "slow.wav"
+  },
+  {
+    "English": "small",
+    "Farsi": "کم اهمیت",
+    "Transliteration": "kem ahmat",
+    "Farsi_Audio": "small.wav"
+  },
+  {
+    "English": "smell",
+    "Farsi": "بو",
+    "Transliteration": "bw",
+    "Farsi_Audio": "smell.wav"
+  },
+  {
+    "English": "smile",
+    "Farsi": "لبخند",
+    "Transliteration": "lbkhnd",
+    "Farsi_Audio": "smile.wav"
+  },
+  {
+    "English": "snow",
+    "Farsi": "برف",
+    "Transliteration": "brf",
+    "Farsi_Audio": "snow.wav"
+  },
+  {
+    "English": "so",
+    "Farsi": "بنابراین",
+    "Transliteration": "bnabraan",
+    "Farsi_Audio": "so.wav"
+  },
+  {
+    "English": "soft",
+    "Farsi": "نرم",
+    "Transliteration": "nrm",
+    "Farsi_Audio": "soft.wav"
+  },
+  {
+    "English": "soil",
+    "Farsi": "خاک",
+    "Transliteration": "khake",
+    "Farsi_Audio": "soil.wav"
+  },
+  {
+    "English": "soldier",
+    "Farsi": "سرباز",
+    "Transliteration": "srbaz",
+    "Farsi_Audio": "soldier.wav"
+  },
+  {
+    "English": "solution",
+    "Farsi": "راه حل",
+    "Transliteration": "rah hl",
+    "Farsi_Audio": "solution.wav"
+  },
+  {
+    "English": "solve",
+    "Farsi": "حل",
+    "Transliteration": "hl",
+    "Farsi_Audio": "solve.wav"
+  },
+  {
+    "English": "some",
+    "Farsi": "مقداری",
+    "Transliteration": "mqdara",
+    "Farsi_Audio": "some.wav"
+  },
+  {
+    "English": "son",
+    "Farsi": "فرزند پسر",
+    "Transliteration": "frznd pesr",
+    "Farsi_Audio": "son.wav"
+  },
+  {
+    "English": "song",
+    "Farsi": "ترانه",
+    "Transliteration": "tranh",
+    "Farsi_Audio": "song.wav"
+  },
+  {
+    "English": "soon",
+    "Farsi": "به زودی",
+    "Transliteration": "bh zwda",
+    "Farsi_Audio": "soon.wav"
+  },
+  {
+    "English": "sound",
+    "Farsi": "صدا",
+    "Transliteration": "sda",
+    "Farsi_Audio": "sound.wav"
+  },
+  {
+    "English": "south",
+    "Farsi": "جنوب",
+    "Transliteration": "jnwb",
+    "Farsi_Audio": "south.wav"
+  },
+  {
+    "English": "space",
+    "Farsi": "فضا",
+    "Transliteration": "fda",
+    "Farsi_Audio": "space.wav"
+  },
+  {
+    "English": "speak",
+    "Farsi": "صحبت",
+    "Transliteration": "shbt",
+    "Farsi_Audio": "speak.wav"
+  },
+  {
+    "English": "special",
+    "Farsi": "ویژه",
+    "Transliteration": "wajeh",
+    "Farsi_Audio": "special.wav"
+  },
+  {
+    "English": "speech",
+    "Farsi": "سخن، گفتار",
+    "Transliteration": "skhn, guftar",
+    "Farsi_Audio": "speech.wav"
+  },
+  {
+    "English": "speed",
+    "Farsi": "سرعت",
+    "Transliteration": "sr'et",
+    "Farsi_Audio": "speed.wav"
+  },
+  {
+    "English": "spell",
+    "Farsi": "هجی کردن",
+    "Transliteration": "hja kerdn",
+    "Farsi_Audio": "spell.wav"
+  },
+  {
+    "English": "spend",
+    "Farsi": "خرج کردن",
+    "Transliteration": "khrj kerdn",
+    "Farsi_Audio": "spend.wav"
+  },
+  {
+    "English": "spoke",
+    "Farsi": "سخن گفتن",
+    "Transliteration": "skhn guftn",
+    "Farsi_Audio": "spoke.wav"
+  },
+  {
+    "English": "spot",
+    "Farsi": "نقطه",
+    "Transliteration": "nqth",
+    "Farsi_Audio": "spot.wav"
+  },
+  {
+    "English": "spread",
+    "Farsi": "انتشار دادن",
+    "Transliteration": "antshar dadn",
+    "Farsi_Audio": "spread.wav"
+  },
+  {
+    "English": "spring",
+    "Farsi": "بهار",
+    "Transliteration": "bhar",
+    "Farsi_Audio": "spring.wav"
+  },
+  {
+    "English": "square",
+    "Farsi": "مربع",
+    "Transliteration": "mrb'e",
+    "Farsi_Audio": "square.wav"
+  },
+  {
+    "English": "stand",
+    "Farsi": "ایستادن",
+    "Transliteration": "aastadn",
+    "Farsi_Audio": "stand.wav"
+  },
+  {
+    "English": "star",
+    "Farsi": "ستاره",
+    "Transliteration": "starh",
+    "Farsi_Audio": "star.wav"
+  },
+  {
+    "English": "start",
+    "Farsi": "شروع کردن",
+    "Transliteration": "shrw'e kerdn",
+    "Farsi_Audio": "start.wav"
+  },
+  {
+    "English": "state",
+    "Farsi": "دولت",
+    "Transliteration": "dwlt",
+    "Farsi_Audio": "state.wav"
+  },
+  {
+    "English": "station",
+    "Farsi": "ایستگاه",
+    "Transliteration": "aastguah",
+    "Farsi_Audio": "station.wav"
+  },
+  {
+    "English": "stay",
+    "Farsi": "ماندن",
+    "Transliteration": "mandn",
+    "Farsi_Audio": "stay.wav"
+  },
+  {
+    "English": "stead",
+    "Farsi": "جای دادن",
+    "Transliteration": "jaa dadn",
+    "Farsi_Audio": "stead.wav"
+  },
+  {
+    "English": "steam",
+    "Farsi": "بخار",
+    "Transliteration": "bkhar",
+    "Farsi_Audio": "steam.wav"
+  },
+  {
+    "English": "steel",
+    "Farsi": "فولاد",
+    "Transliteration": "fwlad",
+    "Farsi_Audio": "steel.wav"
+  },
+  {
+    "English": "step",
+    "Farsi": "گام",
+    "Transliteration": "guam",
+    "Farsi_Audio": "step.wav"
+  },
+  {
+    "English": "stick",
+    "Farsi": "چوب",
+    "Transliteration": "chewb",
+    "Farsi_Audio": "stick.wav"
+  },
+  {
+    "English": "still",
+    "Farsi": "هنوز",
+    "Transliteration": "hnwz",
+    "Farsi_Audio": "still.wav"
+  },
+  {
+    "English": "stone",
+    "Farsi": "سنگ",
+    "Transliteration": "sngu",
+    "Farsi_Audio": "stone.wav"
+  },
+  {
+    "English": "stood",
+    "Farsi": "ایستادن",
+    "Transliteration": "aastadn",
+    "Farsi_Audio": "stood.wav"
+  },
+  {
+    "English": "stop",
+    "Farsi": "متوقف کردن",
+    "Transliteration": "mtwqf kerdn",
+    "Farsi_Audio": "stop.wav"
+  },
+  {
+    "English": "store",
+    "Farsi": "فروشگاه",
+    "Transliteration": "frwshguah",
+    "Farsi_Audio": "store.wav"
+  },
+  {
+    "English": "story",
+    "Farsi": "داستان",
+    "Transliteration": "dastan",
+    "Farsi_Audio": "story.wav"
+  },
+  {
+    "English": "straight",
+    "Farsi": "سر راست",
+    "Transliteration": "sr rast",
+    "Farsi_Audio": "straight.wav"
+  },
+  {
+    "English": "strange",
+    "Farsi": "عجیب",
+    "Transliteration": "'ejab",
+    "Farsi_Audio": "strange.wav"
+  },
+  {
+    "English": "stream",
+    "Farsi": "جریان",
+    "Transliteration": "jraan",
+    "Farsi_Audio": "stream.wav"
+  },
+  {
+    "English": "street",
+    "Farsi": "خیابان",
+    "Transliteration": "khaaban",
+    "Farsi_Audio": "street.wav"
+  },
+  {
+    "English": "stretch",
+    "Farsi": "کش آمدن",
+    "Transliteration": "kesh amdn",
+    "Farsi_Audio": "stretch.wav"
+  },
+  {
+    "English": "string",
+    "Farsi": "رشته",
+    "Transliteration": "rshth",
+    "Farsi_Audio": "string.wav"
+  },
+  {
+    "English": "strong",
+    "Farsi": "قوی",
+    "Transliteration": "qwa",
+    "Farsi_Audio": "strong.wav"
+  },
+  {
+    "English": "student",
+    "Farsi": "دانشجو",
+    "Transliteration": "danshjw",
+    "Farsi_Audio": "student.wav"
+  },
+  {
+    "English": "study",
+    "Farsi": "مطالعه",
+    "Transliteration": "mtal'eh",
+    "Farsi_Audio": "study.wav"
+  },
+  {
+    "English": "subject",
+    "Farsi": "موضوع",
+    "Transliteration": "mwdw'e",
+    "Farsi_Audio": "subject.wav"
+  },
+  {
+    "English": "substance",
+    "Farsi": "ماده",
+    "Transliteration": "madh",
+    "Farsi_Audio": "substance.wav"
+  },
+  {
+    "English": "subtract",
+    "Farsi": "کم کردن",
+    "Transliteration": "kem kerdn",
+    "Farsi_Audio": "subtract.wav"
+  },
+  {
+    "English": "success",
+    "Farsi": "موفقیت",
+    "Transliteration": "mwfqat",
+    "Farsi_Audio": "success.wav"
+  },
+  {
+    "English": "such",
+    "Farsi": "چنین",
+    "Transliteration": "chenan",
+    "Farsi_Audio": "such.wav"
+  },
+  {
+    "English": "sudden",
+    "Farsi": "ناگهانی",
+    "Transliteration": "naguhana",
+    "Farsi_Audio": "sudden.wav"
+  },
+  {
+    "English": "suffix",
+    "Farsi": "پسوند",
+    "Transliteration": "peswnd",
+    "Farsi_Audio": "suffix.wav"
+  },
+  {
+    "English": "sugar",
+    "Farsi": "قند",
+    "Transliteration": "qnd",
+    "Farsi_Audio": "sugar.wav"
+  },
+  {
+    "English": "suggest",
+    "Farsi": "پیشنهاد می دهد",
+    "Transliteration": "peashnhad ma dhd",
+    "Farsi_Audio": "suggest.wav"
+  },
+  {
+    "English": "suit",
+    "Farsi": "کت و شلوار",
+    "Transliteration": "ket w shlwar",
+    "Farsi_Audio": "suit.wav"
+  },
+  {
+    "English": "summer",
+    "Farsi": "تابستان",
+    "Transliteration": "tabstan",
+    "Farsi_Audio": "summer.wav"
+  },
+  {
+    "English": "sun",
+    "Farsi": "آفتاب",
+    "Transliteration": "aftab",
+    "Farsi_Audio": "sun.wav"
+  },
+  {
+    "English": "supply",
+    "Farsi": "عرضه",
+    "Transliteration": "'erdh",
+    "Farsi_Audio": "supply.wav"
+  },
+  {
+    "English": "support",
+    "Farsi": "پشتیبانی",
+    "Transliteration": "peshtabana",
+    "Farsi_Audio": "support.wav"
+  },
+  {
+    "English": "sure",
+    "Farsi": "مطمئن",
+    "Transliteration": "mtm'en",
+    "Farsi_Audio": "sure.wav"
+  },
+  {
+    "English": "surface",
+    "Farsi": "سطح",
+    "Transliteration": "sth",
+    "Farsi_Audio": "surface.wav"
+  },
+  {
+    "English": "surprise",
+    "Farsi": "تعجب",
+    "Transliteration": "t'ejb",
+    "Farsi_Audio": "surprise.wav"
+  },
+  {
+    "English": "swim",
+    "Farsi": "شنا کردن",
+    "Transliteration": "shna kerdn",
+    "Farsi_Audio": "swim.wav"
+  },
+  {
+    "English": "syllable",
+    "Farsi": "هجا",
+    "Transliteration": "hja",
+    "Farsi_Audio": "syllable.wav"
+  },
+  {
+    "English": "symbol",
+    "Farsi": "سمبل",
+    "Transliteration": "smbl",
+    "Farsi_Audio": "symbol.wav"
+  },
+  {
+    "English": "system",
+    "Farsi": "سیستم",
+    "Transliteration": "sastm",
+    "Farsi_Audio": "system.wav"
+  },
+  {
+    "English": "table",
+    "Farsi": "جدول",
+    "Transliteration": "jdwl",
+    "Farsi_Audio": "table.wav"
+  },
+  {
+    "English": "tail",
+    "Farsi": "دم",
+    "Transliteration": "dm",
+    "Farsi_Audio": "tail.wav"
+  },
+  {
+    "English": "take",
+    "Farsi": "گرفتن",
+    "Transliteration": "gurftn",
+    "Farsi_Audio": "take.wav"
+  },
+  {
+    "English": "talk",
+    "Farsi": "صحبت",
+    "Transliteration": "shbt",
+    "Farsi_Audio": "talk.wav"
+  },
+  {
+    "English": "tall",
+    "Farsi": "بلند قد",
+    "Transliteration": "blnd qd",
+    "Farsi_Audio": "tall.wav"
+  },
+  {
+    "English": "teach",
+    "Farsi": "تدریس کردن",
+    "Transliteration": "tdras kerdn",
+    "Farsi_Audio": "teach.wav"
+  },
+  {
+    "English": "team",
+    "Farsi": "تیم",
+    "Transliteration": "tam",
+    "Farsi_Audio": "team.wav"
+  },
+  {
+    "English": "teeth",
+    "Farsi": "دندان",
+    "Transliteration": "dndan",
+    "Farsi_Audio": "teeth.wav"
+  },
+  {
+    "English": "tell",
+    "Farsi": "گفتن",
+    "Transliteration": "guftn",
+    "Farsi_Audio": "tell.wav"
+  },
+  {
+    "English": "temperature",
+    "Farsi": "درجه حرارت",
+    "Transliteration": "drjh hrart",
+    "Farsi_Audio": "temperature.wav"
+  },
+  {
+    "English": "ten",
+    "Farsi": "ده",
+    "Transliteration": "dh",
+    "Farsi_Audio": "ten.wav"
+  },
+  {
+    "English": "term",
+    "Farsi": "مدت، اصطلاح",
+    "Transliteration": "mdt, astlah",
+    "Farsi_Audio": "term.wav"
+  },
+  {
+    "English": "test",
+    "Farsi": "تست",
+    "Transliteration": "tst",
+    "Farsi_Audio": "test.wav"
+  },
+  {
+    "English": "than",
+    "Farsi": "نسبت به. تا",
+    "Transliteration": "nsbt bh. ta",
+    "Farsi_Audio": "than.wav"
+  },
+  {
+    "English": "thank",
+    "Farsi": "متشکرم",
+    "Transliteration": "mtshkerm",
+    "Farsi_Audio": "thank.wav"
+  },
+  {
+    "English": "that",
+    "Farsi": "این",
+    "Transliteration": "aan",
+    "Farsi_Audio": "that.wav"
+  },
+  {
+    "English": "the",
+    "Farsi": "از",
+    "Transliteration": "az",
+    "Farsi_Audio": "the.wav"
+  },
+  {
+    "English": "their",
+    "Farsi": "خودشان",
+    "Transliteration": "khwdshan",
+    "Farsi_Audio": "their.wav"
+  },
+  {
+    "English": "them",
+    "Farsi": "آنها",
+    "Transliteration": "anha",
+    "Farsi_Audio": "them.wav"
+  },
+  {
+    "English": "then",
+    "Farsi": "سپس",
+    "Transliteration": "spes",
+    "Farsi_Audio": "then.wav"
+  },
+  {
+    "English": "there",
+    "Farsi": "آنجا",
+    "Transliteration": "anja",
+    "Farsi_Audio": "there.wav"
+  },
+  {
+    "English": "these",
+    "Farsi": "اینها",
+    "Transliteration": "aanha",
+    "Farsi_Audio": "these.wav"
+  },
+  {
+    "English": "they",
+    "Farsi": "آنها",
+    "Transliteration": "anha",
+    "Farsi_Audio": "they.wav"
+  },
+  {
+    "English": "thick",
+    "Farsi": "ضخیم",
+    "Transliteration": "dkham",
+    "Farsi_Audio": "thick.wav"
+  },
+  {
+    "English": "thin",
+    "Farsi": "لاغر",
+    "Transliteration": "laghr",
+    "Farsi_Audio": "thin.wav"
+  },
+  {
+    "English": "thing",
+    "Farsi": "چیز",
+    "Transliteration": "cheaz",
+    "Farsi_Audio": "thing.wav"
+  },
+  {
+    "English": "think",
+    "Farsi": "فکر",
+    "Transliteration": "fker",
+    "Farsi_Audio": "think.wav"
+  },
+  {
+    "English": "third",
+    "Farsi": "سوم",
+    "Transliteration": "swm",
+    "Farsi_Audio": "third.wav"
+  },
+  {
+    "English": "this",
+    "Farsi": "این",
+    "Transliteration": "aan",
+    "Farsi_Audio": "this.wav"
+  },
+  {
+    "English": "those",
+    "Farsi": "کسانی که",
+    "Transliteration": "kesana keh",
+    "Farsi_Audio": "those.wav"
+  },
+  {
+    "English": "though",
+    "Farsi": "اگر چه",
+    "Transliteration": "agur cheh",
+    "Farsi_Audio": "though.wav"
+  },
+  {
+    "English": "thought",
+    "Farsi": "فکر",
+    "Transliteration": "fker",
+    "Farsi_Audio": "thought.wav"
+  },
+  {
+    "English": "thousand",
+    "Farsi": "هزار",
+    "Transliteration": "hzar",
+    "Farsi_Audio": "thousand.wav"
+  },
+  {
+    "English": "three",
+    "Farsi": "سه",
+    "Transliteration": "sh",
+    "Farsi_Audio": "three.wav"
+  },
+  {
+    "English": "through",
+    "Farsi": "از طریق",
+    "Transliteration": "az traq",
+    "Farsi_Audio": "through.wav"
+  },
+  {
+    "English": "throw",
+    "Farsi": "پرت کردن",
+    "Transliteration": "pert kerdn",
+    "Farsi_Audio": "throw.wav"
+  },
+  {
+    "English": "thus",
+    "Farsi": "بدین ترتیب",
+    "Transliteration": "bdan trtab",
+    "Farsi_Audio": "thus.wav"
+  },
+  {
+    "English": "tie",
+    "Farsi": "چرت زدن",
+    "Transliteration": "chert zdn",
+    "Farsi_Audio": "tie.wav"
+  },
+  {
+    "English": "time",
+    "Farsi": "زمان",
+    "Transliteration": "zman",
+    "Farsi_Audio": "time.wav"
+  },
+  {
+    "English": "tiny",
+    "Farsi": "کوچک",
+    "Transliteration": "kewcheke",
+    "Farsi_Audio": "tiny.wav"
+  },
+  {
+    "English": "tire",
+    "Farsi": "لاستیک",
+    "Transliteration": "lastake",
+    "Farsi_Audio": "tire.wav"
+  },
+  {
+    "English": "to",
+    "Farsi": "به",
+    "Transliteration": "bh",
+    "Farsi_Audio": "to.wav"
+  },
+  {
+    "English": "together",
+    "Farsi": "با یکدیگر",
+    "Transliteration": "ba akedagur",
+    "Farsi_Audio": "together.wav"
+  },
+  {
+    "English": "told",
+    "Farsi": "گفت",
+    "Transliteration": "guft",
+    "Farsi_Audio": "told.wav"
+  },
+  {
+    "English": "tone",
+    "Farsi": "تن",
+    "Transliteration": "tn",
+    "Farsi_Audio": "tone.wav"
+  },
+  {
+    "English": "too",
+    "Farsi": "هم",
+    "Transliteration": "hm",
+    "Farsi_Audio": "too.wav"
+  },
+  {
+    "English": "took",
+    "Farsi": "گرفت",
+    "Transliteration": "gurft",
+    "Farsi_Audio": "took.wav"
+  },
+  {
+    "English": "tool",
+    "Farsi": "ابزار",
+    "Transliteration": "abzar",
+    "Farsi_Audio": "tool.wav"
+  },
+  {
+    "English": "top",
+    "Farsi": "بالا",
+    "Transliteration": "bala",
+    "Farsi_Audio": "top.wav"
+  },
+  {
+    "English": "total",
+    "Farsi": "جمع",
+    "Transliteration": "jm'e",
+    "Farsi_Audio": "total.wav"
+  },
+  {
+    "English": "touch",
+    "Farsi": "دست زدن به",
+    "Transliteration": "dst zdn bh",
+    "Farsi_Audio": "touch.wav"
+  },
+  {
+    "English": "toward",
+    "Farsi": "به سمت",
+    "Transliteration": "bh smt",
+    "Farsi_Audio": "toward.wav"
+  },
+  {
+    "English": "town",
+    "Farsi": "شهر",
+    "Transliteration": "shhr",
+    "Farsi_Audio": "town.wav"
+  },
+  {
+    "English": "track",
+    "Farsi": "مسیر",
+    "Transliteration": "msar",
+    "Farsi_Audio": "track.wav"
+  },
+  {
+    "English": "trade",
+    "Farsi": "تجارت",
+    "Transliteration": "tjart",
+    "Farsi_Audio": "trade.wav"
+  },
+  {
+    "English": "train",
+    "Farsi": "قطار - تعلیم دادن",
+    "Transliteration": "qtar - t'elam dadn",
+    "Farsi_Audio": "train.wav"
+  },
+  {
+    "English": "travel",
+    "Farsi": "مسافرت رفتن",
+    "Transliteration": "msafrt rftn",
+    "Farsi_Audio": "travel.wav"
+  },
+  {
+    "English": "tree",
+    "Farsi": "درخت",
+    "Transliteration": "drkht",
+    "Farsi_Audio": "tree.wav"
+  },
+  {
+    "English": "triangle",
+    "Farsi": "مثلث",
+    "Transliteration": "mthlth",
+    "Farsi_Audio": "triangle.wav"
+  },
+  {
+    "English": "trip",
+    "Farsi": "سفر",
+    "Transliteration": "sfr",
+    "Farsi_Audio": "trip.wav"
+  },
+  {
+    "English": "trouble",
+    "Farsi": "مشکل",
+    "Transliteration": "mshkel",
+    "Farsi_Audio": "trouble.wav"
+  },
+  {
+    "English": "truck",
+    "Farsi": "کامیون",
+    "Transliteration": "keamawn",
+    "Farsi_Audio": "truck.wav"
+  },
+  {
+    "English": "try",
+    "Farsi": "تلاش كردن",
+    "Transliteration": "tlash krdn",
+    "Farsi_Audio": "try.wav"
+  },
+  {
+    "English": "tube",
+    "Farsi": "لوله",
+    "Transliteration": "lwlh",
+    "Farsi_Audio": "tube.wav"
+  },
+  {
+    "English": "turn",
+    "Farsi": "دور زدن",
+    "Transliteration": "dwr zdn",
+    "Farsi_Audio": "turn.wav"
+  },
+  {
+    "English": "twenty",
+    "Farsi": "بیست",
+    "Transliteration": "bast",
+    "Farsi_Audio": "twenty.wav"
+  },
+  {
+    "English": "two",
+    "Farsi": "دو",
+    "Transliteration": "dw",
+    "Farsi_Audio": "two.wav"
+  },
+  {
+    "English": "type",
+    "Farsi": "نوع",
+    "Transliteration": "nw'e",
+    "Farsi_Audio": "type.wav"
+  },
+  {
+    "English": "under",
+    "Farsi": "زیر",
+    "Transliteration": "zar",
+    "Farsi_Audio": "under.wav"
+  },
+  {
+    "English": "unit",
+    "Farsi": "واحد",
+    "Transliteration": "wahd",
+    "Farsi_Audio": "unit.wav"
+  },
+  {
+    "English": "until",
+    "Farsi": "تا زمان",
+    "Transliteration": "ta zman",
+    "Farsi_Audio": "until.wav"
+  },
+  {
+    "English": "up",
+    "Farsi": "بالا بردن",
+    "Transliteration": "bala brdn",
+    "Farsi_Audio": "up.wav"
+  },
+  {
+    "English": "us",
+    "Farsi": "مافوق",
+    "Transliteration": "mafwq",
+    "Farsi_Audio": "us.wav"
+  },
+  {
+    "English": "use",
+    "Farsi": "استفاده کنید",
+    "Transliteration": "astfadh kenad",
+    "Farsi_Audio": "use.wav"
+  },
+  {
+    "English": "usual",
+    "Farsi": "معمولی",
+    "Transliteration": "m'emwla",
+    "Farsi_Audio": "usual.wav"
+  },
+  {
+    "English": "valley",
+    "Farsi": "دره",
+    "Transliteration": "drh",
+    "Farsi_Audio": "valley.wav"
+  },
+  {
+    "English": "value",
+    "Farsi": "ارزش",
+    "Transliteration": "arzsh",
+    "Farsi_Audio": "value.wav"
+  },
+  {
+    "English": "vary",
+    "Farsi": "متفاوت",
+    "Transliteration": "mtfawt",
+    "Farsi_Audio": "vary.wav"
+  },
+  {
+    "English": "verb",
+    "Farsi": "فعل",
+    "Transliteration": "f'el",
+    "Farsi_Audio": "verb.wav"
+  },
+  {
+    "English": "very",
+    "Farsi": "بسیار",
+    "Transliteration": "bsaar",
+    "Farsi_Audio": "very.wav"
+  },
+  {
+    "English": "view",
+    "Farsi": "چشم انداز",
+    "Transliteration": "cheshm andaz",
+    "Farsi_Audio": "view.wav"
+  },
+  {
+    "English": "village",
+    "Farsi": "روستا",
+    "Transliteration": "rwsta",
+    "Farsi_Audio": "village.wav"
+  },
+  {
+    "English": "visit",
+    "Farsi": "دیدن",
+    "Transliteration": "dadn",
+    "Farsi_Audio": "visit.wav"
+  },
+  {
+    "English": "voice",
+    "Farsi": "صدا",
+    "Transliteration": "sda",
+    "Farsi_Audio": "voice.wav"
+  },
+  {
+    "English": "vowel",
+    "Farsi": "حرف صدادار",
+    "Transliteration": "hrf sdadar",
+    "Farsi_Audio": "vowel.wav"
+  },
+  {
+    "English": "wait",
+    "Farsi": "صبر کن",
+    "Transliteration": "sbr ken",
+    "Farsi_Audio": "wait.wav"
+  },
+  {
+    "English": "walk",
+    "Farsi": "راه رفتن",
+    "Transliteration": "rah rftn",
+    "Farsi_Audio": "walk.wav"
+  },
+  {
+    "English": "wall",
+    "Farsi": "دیوار",
+    "Transliteration": "dawar",
+    "Farsi_Audio": "wall.wav"
+  },
+  {
+    "English": "want",
+    "Farsi": "می خواهم",
+    "Transliteration": "ma khwahm",
+    "Farsi_Audio": "want.wav"
+  },
+  {
+    "English": "war",
+    "Farsi": "جنگ",
+    "Transliteration": "jngu",
+    "Farsi_Audio": "war.wav"
+  },
+  {
+    "English": "warm",
+    "Farsi": "گرم",
+    "Transliteration": "gurm",
+    "Farsi_Audio": "warm.wav"
+  },
+  {
+    "English": "was",
+    "Farsi": "بود",
+    "Transliteration": "bwd",
+    "Farsi_Audio": "was.wav"
+  },
+  {
+    "English": "wash",
+    "Farsi": "شستشو",
+    "Transliteration": "shstshw",
+    "Farsi_Audio": "wash.wav"
+  },
+  {
+    "English": "watch",
+    "Farsi": "تماشا کردن",
+    "Transliteration": "tmasha kerdn",
+    "Farsi_Audio": "watch.wav"
+  },
+  {
+    "English": "water",
+    "Farsi": "اب",
+    "Transliteration": "ab",
+    "Farsi_Audio": "water.wav"
+  },
+  {
+    "English": "wave",
+    "Farsi": "موج",
+    "Transliteration": "mwj",
+    "Farsi_Audio": "wave.wav"
+  },
+  {
+    "English": "way",
+    "Farsi": "مسیر",
+    "Transliteration": "msar",
+    "Farsi_Audio": "way.wav"
+  },
+  {
+    "English": "we",
+    "Farsi": "ما",
+    "Transliteration": "ma",
+    "Farsi_Audio": "we.wav"
+  },
+  {
+    "English": "wear",
+    "Farsi": "پوشیدن",
+    "Transliteration": "pewshadn",
+    "Farsi_Audio": "wear.wav"
+  },
+  {
+    "English": "weather",
+    "Farsi": "هوا",
+    "Transliteration": "hwa",
+    "Farsi_Audio": "weather.wav"
+  },
+  {
+    "English": "week",
+    "Farsi": "هفته",
+    "Transliteration": "hfth",
+    "Farsi_Audio": "week.wav"
+  },
+  {
+    "English": "weight",
+    "Farsi": "وزن",
+    "Transliteration": "wzn",
+    "Farsi_Audio": "weight.wav"
+  },
+  {
+    "English": "well",
+    "Farsi": "خوب",
+    "Transliteration": "khwb",
+    "Farsi_Audio": "well.wav"
+  },
+  {
+    "English": "went",
+    "Farsi": "رفت",
+    "Transliteration": "rft",
+    "Farsi_Audio": "went.wav"
+  },
+  {
+    "English": "were",
+    "Farsi": "بود",
+    "Transliteration": "bwd",
+    "Farsi_Audio": "were.wav"
+  },
+  {
+    "English": "west",
+    "Farsi": "غرب",
+    "Transliteration": "ghrb",
+    "Farsi_Audio": "west.wav"
+  },
+  {
+    "English": "what",
+    "Farsi": "چی",
+    "Transliteration": "chea",
+    "Farsi_Audio": "what.wav"
+  },
+  {
+    "English": "wheel",
+    "Farsi": "چرخ",
+    "Transliteration": "cherkh",
+    "Farsi_Audio": "wheel.wav"
+  },
+  {
+    "English": "when",
+    "Farsi": "چه زمانی",
+    "Transliteration": "cheh zmana",
+    "Farsi_Audio": "when.wav"
+  },
+  {
+    "English": "where",
+    "Farsi": "جایی که",
+    "Transliteration": "jaaa keh",
+    "Farsi_Audio": "where.wav"
+  },
+  {
+    "English": "whether",
+    "Farsi": "چه",
+    "Transliteration": "cheh",
+    "Farsi_Audio": "whether.wav"
+  },
+  {
+    "English": "which",
+    "Farsi": "که",
+    "Transliteration": "keh",
+    "Farsi_Audio": "which.wav"
+  },
+  {
+    "English": "while",
+    "Farsi": "در حالی که",
+    "Transliteration": "dr hala keh",
+    "Farsi_Audio": "while.wav"
+  },
+  {
+    "English": "white",
+    "Farsi": "سفید",
+    "Transliteration": "sfad",
+    "Farsi_Audio": "white.wav"
+  },
+  {
+    "English": "who",
+    "Farsi": "سازمان بهداشت جهانی",
+    "Transliteration": "sazman bhdasht jhana",
+    "Farsi_Audio": "who.wav"
+  },
+  {
+    "English": "whole",
+    "Farsi": "کل",
+    "Transliteration": "kel",
+    "Farsi_Audio": "whole.wav"
+  },
+  {
+    "English": "whose",
+    "Farsi": "چه کسی",
+    "Transliteration": "cheh kesa",
+    "Farsi_Audio": "whose.wav"
+  },
+  {
+    "English": "why",
+    "Farsi": "چرا",
+    "Transliteration": "chera",
+    "Farsi_Audio": "why.wav"
+  },
+  {
+    "English": "wide",
+    "Farsi": "وسیع",
+    "Transliteration": "wsa'e",
+    "Farsi_Audio": "wide.wav"
+  },
+  {
+    "English": "wife",
+    "Farsi": "همسر",
+    "Transliteration": "hmsr",
+    "Farsi_Audio": "wife.wav"
+  },
+  {
+    "English": "wild",
+    "Farsi": "وحشی",
+    "Transliteration": "whsha",
+    "Farsi_Audio": "wild.wav"
+  },
+  {
+    "English": "will",
+    "Farsi": "اراده",
+    "Transliteration": "aradh",
+    "Farsi_Audio": "will.wav"
+  },
+  {
+    "English": "win",
+    "Farsi": "پیروزی",
+    "Transliteration": "pearwza",
+    "Farsi_Audio": "win.wav"
+  },
+  {
+    "English": "wind",
+    "Farsi": "باد",
+    "Transliteration": "bad",
+    "Farsi_Audio": "wind.wav"
+  },
+  {
+    "English": "window",
+    "Farsi": "پنجره",
+    "Transliteration": "penjrh",
+    "Farsi_Audio": "window.wav"
+  },
+  {
+    "English": "wing",
+    "Farsi": "بال",
+    "Transliteration": "bal",
+    "Farsi_Audio": "wing.wav"
+  },
+  {
+    "English": "winter",
+    "Farsi": "زمستان",
+    "Transliteration": "zmstan",
+    "Farsi_Audio": "winter.wav"
+  },
+  {
+    "English": "wire",
+    "Farsi": "سیم",
+    "Transliteration": "sam",
+    "Farsi_Audio": "wire.wav"
+  },
+  {
+    "English": "wish",
+    "Farsi": "آرزو کردن",
+    "Transliteration": "arzw kerdn",
+    "Farsi_Audio": "wish.wav"
+  },
+  {
+    "English": "with",
+    "Farsi": "با",
+    "Transliteration": "ba",
+    "Farsi_Audio": "with.wav"
+  },
+  {
+    "English": "woman",
+    "Farsi": "زن",
+    "Transliteration": "zn",
+    "Farsi_Audio": "woman.wav"
+  },
+  {
+    "English": "women",
+    "Farsi": "زنان",
+    "Transliteration": "znan",
+    "Farsi_Audio": "women.wav"
+  },
+  {
+    "English": "won’t",
+    "Farsi": "نترس",
+    "Transliteration": "ntrs",
+    "Farsi_Audio": "won’t.wav"
+  },
+  {
+    "English": "wonder",
+    "Farsi": "تعجب",
+    "Transliteration": "t'ejb",
+    "Farsi_Audio": "wonder.wav"
+  },
+  {
+    "English": "wood",
+    "Farsi": "چوب",
+    "Transliteration": "chewb",
+    "Farsi_Audio": "wood.wav"
+  },
+  {
+    "English": "word",
+    "Farsi": "کلمه",
+    "Transliteration": "kelmh",
+    "Farsi_Audio": "word.wav"
+  },
+  {
+    "English": "work",
+    "Farsi": "کار",
+    "Transliteration": "kear",
+    "Farsi_Audio": "work.wav"
+  },
+  {
+    "English": "world",
+    "Farsi": "جهان",
+    "Transliteration": "jhan",
+    "Farsi_Audio": "world.wav"
+  },
+  {
+    "English": "would",
+    "Farsi": "میلادی",
+    "Transliteration": "malada",
+    "Farsi_Audio": "would.wav"
+  },
+  {
+    "English": "write",
+    "Farsi": "نوشتن",
+    "Transliteration": "nwshtn",
+    "Farsi_Audio": "write.wav"
+  },
+  {
+    "English": "written",
+    "Farsi": "نوشته شده است",
+    "Transliteration": "nwshth shdh ast",
+    "Farsi_Audio": "written.wav"
+  },
+  {
+    "English": "wrong",
+    "Farsi": "اشتباه",
+    "Transliteration": "ashtbah",
+    "Farsi_Audio": "wrong.wav"
+  },
+  {
+    "English": "wrote",
+    "Farsi": "نوشت",
+    "Transliteration": "nwsht",
+    "Farsi_Audio": "wrote.wav"
+  },
+  {
+    "English": "yard",
+    "Farsi": "حیاط",
+    "Transliteration": "haat",
+    "Farsi_Audio": "yard.wav"
+  },
+  {
+    "English": "year",
+    "Farsi": "سال",
+    "Transliteration": "sal",
+    "Farsi_Audio": "year.wav"
+  },
+  {
+    "English": "yellow",
+    "Farsi": "رنگ زرد",
+    "Transliteration": "rngu zrd",
+    "Farsi_Audio": "yellow.wav"
+  },
+  {
+    "English": "yes",
+    "Farsi": "آره",
+    "Transliteration": "arh",
+    "Farsi_Audio": "yes.wav"
+  },
+  {
+    "English": "yet",
+    "Farsi": "هنوز",
+    "Transliteration": "hnwz",
+    "Farsi_Audio": "yet.wav"
+  },
+  {
+    "English": "you",
+    "Farsi": "شما",
+    "Transliteration": "shma",
+    "Farsi_Audio": "you.wav"
+  },
+  {
+    "English": "young",
+    "Farsi": "جوان",
+    "Transliteration": "jwan",
+    "Farsi_Audio": "young.wav"
+  },
+  {
+    "English": "your",
+    "Farsi": "شما",
+    "Transliteration": "shma",
+    "Farsi_Audio": "your.wav"
+  },
+  {
+    "English": "truth",
+    "Farsi": "درست است، واقعی",
+    "Transliteration": "drst ast, waq'ea",
+    "Farsi_Audio": "truth.wav"
+  }
+]

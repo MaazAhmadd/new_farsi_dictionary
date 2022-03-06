@@ -1,0 +1,50 @@
+[
+  {
+    "card_name": "Color",
+    "grammars": ["ZZdMjCDxzsg", "Wt9KUlzP9Jo", "offiHfsPq2o", "__zGo8QYC-k"],
+    "image": "es-60.svg",
+    "color": "#EEF8E6"
+  },
+  {
+    "card_name": "Food",
+    "grammars": ["cmtF4hXHuBs", "h_04jnNB_Ek"],
+    "image": "es-61.svg",
+    "color": "#FBE4EA"
+  },
+  {
+    "card_name": "Animals",
+    "grammars": ["cmtF4hXHuBs", "h_04jnNB_Ek"],
+    "image": "es-58.svg",
+    "color": "#e7e4fb"
+  },
+  {
+    "card_name": "Numbers",
+    "grammars": ["cmtF4hXHuBs", "h_04jnNB_Ek"],
+    "image": "es-53.svg",
+    "color": "#e7e4fb"
+  },
+  {
+    "card_name": "Animals",
+    "grammars": ["cmtF4hXHuBs", "h_04jnNB_Ek"],
+    "image": "r9d8_8p6c_160924_preview.jpg",
+    "color": "#e7e4fb"
+  },
+  {
+    "card_name": "Numbers",
+    "grammars": ["cmtF4hXHuBs", "h_04jnNB_Ek"],
+    "image": "depositphotos_27647955-stock-photo-colorful-numbers.jpg",
+    "color": "#f8fbe4"
+  },
+  {
+    "card_name": "Numbers",
+    "grammars": ["cmtF4hXHuBs", "h_04jnNB_Ek"],
+    "image": "depositphotos_27647955-stock-photo-colorful-numbers.jpg",
+    "color": "#f8fbe4"
+  },
+  {
+    "card_name": "Numbers",
+    "grammars": ["cmtF4hXHuBs", "h_04jnNB_Ek"],
+    "image": "depositphotos_27647955-stock-photo-colorful-numbers.jpg",
+    "color": "#f8fbe4"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "card_name": "Color",
+    "words": ["able", "against", "am", "any"],
+    "image": "es-60.svg",
+    "color": "#EEF8E6"
+  },
+  {
+    "card_name": "Food",
+    "words": ["ago", "act"],
+    "image": "es-61.svg",
+    "color": "#FBE4EA"
+  },
+  {
+    "card_name": "Animals",
+    "words": ["also", "act"],
+    "image": "es-58.svg",
+    "color": "#e7e4fb"
+  },
+  {
+    "card_name": "Numbers",
+    "words": ["also", "act"],
+    "image": "es-53.svg",
+    "color": "#e7e4fb"
+  },
+  {
+    "card_name": "Animals",
+    "words": ["also", "act"],
+    "image": "r9d8_8p6c_160924_preview.jpg",
+    "color": "#e7e4fb"
+  },
+  {
+    "card_name": "Numbers",
+    "words": ["also", "act"],
+    "image": "depositphotos_27647955-stock-photo-colorful-numbers.jpg",
+    "color": "#f8fbe4"
+  },
+  {
+    "card_name": "Numbers",
+    "words": ["also", "act"],
+    "image": "depositphotos_27647955-stock-photo-colorful-numbers.jpg",
+    "color": "#f8fbe4"
+  },
+  {
+    "card_name": "Numbers",
+    "words": ["also", "act"],
+    "image": "depositphotos_27647955-stock-photo-colorful-numbers.jpg",
+    "color": "#f8fbe4"
+  }
+]

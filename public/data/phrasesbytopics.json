@@ -1,0 +1,60 @@
+[
+  {
+    "card_name": "Food",
+    "phrases": ["first phrase", "second phrase", "more phrases related to this category"],
+    "image": "es-61.svg",
+    "color": "#FBE4EA"
+  },
+  {
+    "card_name": "Animal",
+    "phrases": ["first phrase", "second phrase", "more phrases related to this category"],
+    "image": "es-58.svg",
+    "color": "#e7e4fb"
+  },
+  {
+    "card_name": "Color",
+    "phrases": [
+      "first phrase",
+      "second phrase",
+      "more phrases related to this category",
+      "first phrase",
+      "second phrase",
+      "more phrases related to this category",
+      "first phrase",
+      "second phrase",
+      "more phrases related to this category"
+    ],
+    "image": "es-60.svg",
+    "color": "#EEF8E6"
+  },
+  {
+    "card_name": "Numbers",
+    "phrases": ["first phrase", "second phrase", "more phrases related to this category"],
+    "image": "depositphotos_27647955-stock-photo-colorful-numbers.jpg",
+    "color": "#f8fbe4"
+  },
+  {
+    "card_name": "Animal",
+    "phrases": ["first phrase", "second phrase", "more phrases related to this category"],
+    "image": "es-53.svg",
+    "color": "#e7e4fb"
+  },
+  {
+    "card_name": "Animal",
+    "phrases": ["first phrase", "second phrase", "more phrases related to this category"],
+    "image": "r9d8_8p6c_160924_preview.jpg",
+    "color": "#e7e4fb"
+  },
+  {
+    "card_name": "Numbers",
+    "phrases": ["first phrase", "second phrase", "more phrases related to this category"],
+    "image": "depositphotos_27647955-stock-photo-colorful-numbers.jpg",
+    "color": "#f8fbe4"
+  },
+  {
+    "card_name": "Numbers",
+    "phrases": ["first phrase", "second phrase", "more phrases related to this category"],
+    "image": "depositphotos_27647955-stock-photo-colorful-numbers.jpg",
+    "color": "#f8fbe4"
+  }
+]
