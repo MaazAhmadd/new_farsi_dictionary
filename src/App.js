@@ -8,7 +8,7 @@ import Localbase from 'localbase';
 import { useIndexedDB } from 'react-indexed-db';
 
 // let db = new Localbase('db');
-
+let apiUrl = 'http://localhost:3002/api';
 let setWordCategories = async () => {
   if (!sessionStorage.getItem('wordCategories')) {
     let response = await axios.get('/data/wordsbytopics.json');
@@ -30,7 +30,7 @@ let setGrammar = async () => {
   }
 };
 let setFavWords = async () => {
-  let apiUrl = process.env.REACT_APP_BACKEND_BASE_URL;
+  // let apiUrl = process.env.REACT_APP_BACKEND_BASE_URL;
   let response = await axios(apiUrl + '/users/me');
   sessionStorage.setItem('fav_words', JSON.stringify(response.data.fav_words));
 };
