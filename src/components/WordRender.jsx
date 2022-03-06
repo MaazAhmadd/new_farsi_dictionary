@@ -36,7 +36,7 @@ const WordRender = ({ words, lang }) => {
     } else if (lang === 'fa') {
       setWordTitle(words?.[0]?.Lang);
       setWordAudio(words?.[0]?.LangAudio);
-      if (token && fav_words.includes(words[0].Lang)) {
+      if (token && fav_words?.includes(words[0].Lang)) {
         setFavWordStatus(true);
       } else {
         setFavWordStatus(false);
