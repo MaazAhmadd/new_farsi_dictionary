@@ -27,7 +27,7 @@ export default function Fav_words() {
       setFav_words(wordsincat);
     });
   };
-  let sample = {
+  let sample1 = {
     English: 'be',
     EnglishMeaning: 'exist',
     POS: 'verb',
@@ -37,6 +37,17 @@ export default function Fav_words() {
     EnglishSentenceTranslate: 'اقیانوس آبی است',
     EnglishAudio: 'be.wav',
     LangAudio: 'budan.wav',
+  };
+  let sample2 = {
+    Lang: 'از',
+    LangMeaning: 'LangMeaningSample',
+    POS: 'POS Farsi Sample',
+    LangPronunciation: 'LangPronounciationSample',
+    English: 'the',
+    LangSentence: 'مداد در کشو قرار دارد.',
+    LangSentenceTranslate: 'The pencil is in the drawer.',
+    LangAudio: 'a.mp3',
+    EnglishAudio: 'a.mp3',
   };
   useEffect(() => {
     if (localStorage.getItem('token')) {
