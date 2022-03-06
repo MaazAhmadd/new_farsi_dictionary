@@ -39,9 +39,11 @@ export default function Fav_words() {
     LangAudio: 'budan.wav',
   };
   useEffect(() => {
-    axios(apiUrl + '/users/me').then((resp) => {
-      getWords(resp.data.fav_words);
-    });
+    if (localStorage.getItem('token')) {
+      axios(apiUrl + '/users/me').then((resp) => {
+        getWords(resp.data.fav_words);
+      });
+    }
   }, []);
   // console.log(fav_words);
   return (

@@ -30,7 +30,8 @@ export default function Login() {
           if (resp.status === 200) {
             localStorage.setItem('token', resp.data);
             // history.goBack();
-            window.location.href = '/';
+            window.location.reload();
+            // window.location.href = '/';
           }
         })
         .catch((ex) => {

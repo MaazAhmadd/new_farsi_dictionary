@@ -4,9 +4,23 @@ import { faVolumeUp } from '@fortawesome/free-solid-svg-icons/faVolumeUp';
 import http from '../services/httpService';
 import { BsSuitHeart, BsSuitHeartFill } from 'react-icons/bs';
 import toast from 'react-hot-toast';
+let apiUrl = 'http://localhost:3002/api';
 
-http.setJwt(localStorage.getItem('token'));
+let token = localStorage.getItem('token');
+http.setJwt(token);
 let fav_words = JSON.parse(sessionStorage.getItem('fav_words'));
+
+let removeWordFromSession = (word) => {
+  let newFav_words = fav_words.filter((w) => w !== word);
+  console.log('remove', newFav_words);
+  sessionStorage.setItem('fav_words', JSON.stringify(newFav_words));
+};
+let addWordToSession = (word) => {
+  fav_words.push(word);
+  // let newFav_words =
+  // console.log('add ', newFav_words);
+  sessionStorage.setItem('fav_words', JSON.stringify(fav_words));
+};
 
 const WordRender = ({ words, lang }) => {
   const [groupByPOSMeaning, setGroupByPOSMeaning] = useState();
@@ -17,7 +31,7 @@ const WordRender = ({ words, lang }) => {
     if (lang === 'en') {
       setWordTitle(words?.[0]?.English);
       setWordAudio(words?.[0]?.EnglishAudio);
-      if (fav_words.includes(words[0].English)) {
+      if (token && fav_words?.includes(words[0].English)) {
         setFavWordStatus(true);
       } else {
         setFavWordStatus(false);
@@ -25,7 +39,7 @@ const WordRender = ({ words, lang }) => {
     } else if (lang === 'fa') {
       setWordTitle(words?.[0]?.Lang);
       setWordAudio(words?.[0]?.LangAudio);
-      if (fav_words.includes(words[0].Lang)) {
+      if (token && fav_words.includes(words[0].Lang)) {
         setFavWordStatus(true);
       } else {
         setFavWordStatus(false);
@@ -48,11 +62,12 @@ const WordRender = ({ words, lang }) => {
   let wordNumber = 0;
   let handleAddToFav = (word) => {
     http
-      .post('/users/fav_words', {
+      .post(apiUrl + '/users/fav_words', {
         fav_word: word,
       })
       .then((resp) => {
         console.log(resp);
+        addWordToSession(word);
         toast('added to favourites', {
           type: 'success',
         });
@@ -62,6 +77,27 @@ const WordRender = ({ words, lang }) => {
         console.log(err);
         toast('word already added to favourites');
         setFavWordStatus(true);
+      });
+  };
+  let handleRemoveFav = (word) => {
+    http
+      .delete(apiUrl + '/users/fav_words', {
+        data: {
+          fav_word: word,
+        },
+      })
+      .then((resp) => {
+        removeWordFromSession(word);
+        console.log(resp);
+        toast('removed from favourites', {
+          type: 'error',
+        });
+        setFavWordStatus(false);
+      })
+      .catch((err) => {
+        console.log(err);
+        toast('word not in favourites');
+        setFavWordStatus(false);
       });
   };
   // useEffect(() => {
@@ -86,31 +122,32 @@ const WordRender = ({ words, lang }) => {
             />
           </span>
         )}
-        {favWordStatus ? (
-          <BsSuitHeartFill
-            onClick={() => {
-              toast('word already added to favourites');
-            }}
-            style={{
-              color: '#ffc107',
-              fontSize: '30px',
-              marginLeft: '60px',
-              cursor: 'pointer',
-            }}
-          />
-        ) : (
-          <BsSuitHeart
-            onClick={() => {
-              handleAddToFav(wordTitle);
-            }}
-            style={{
-              color: '#ffc107',
-              fontSize: '30px',
-              marginLeft: '60px',
-              cursor: 'pointer',
-            }}
-          />
-        )}
+        {token &&
+          (favWordStatus ? (
+            <BsSuitHeartFill
+              onClick={() => {
+                handleRemoveFav(wordTitle);
+              }}
+              style={{
+                color: '#ffc107',
+                fontSize: '30px',
+                marginLeft: '60px',
+                cursor: 'pointer',
+              }}
+            />
+          ) : (
+            <BsSuitHeart
+              onClick={() => {
+                handleAddToFav(wordTitle);
+              }}
+              style={{
+                color: '#ffc107',
+                fontSize: '30px',
+                marginLeft: '60px',
+                cursor: 'pointer',
+              }}
+            />
+          ))}
         {/* <span>
           </span> */}
       </div>

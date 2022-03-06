@@ -19,6 +19,15 @@ router.post('/fav_words', auth, async (req, res) => {
 
   res.send(favW);
 });
+router.delete('/fav_words', auth, async (req, res) => {
+  console.log(req.body);
+  let favW = await User.findById(req.user._id).select('fav_words');
+  favW = favW.fav_words.includes(req.body.fav_word);
+  if (!favW) return res.status(400).send('word not in favourites');
+  favW = await User.findByIdAndUpdate(req.user._id, { $pull: { fav_words: req.body.fav_word } }, { new: true });
+
+  res.send(favW);
+});
 
 router.post('/', async (req, res) => {
   console.log(req.body);

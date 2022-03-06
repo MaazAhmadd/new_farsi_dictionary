@@ -31,8 +31,10 @@ let setGrammar = async () => {
 };
 let setFavWords = async () => {
   // let apiUrl = process.env.REACT_APP_BACKEND_BASE_URL;
-  let response = await axios(apiUrl + '/users/me');
-  sessionStorage.setItem('fav_words', JSON.stringify(response.data.fav_words));
+  if (localStorage.getItem('token')) {
+    let response = await axios(apiUrl + '/users/me');
+    sessionStorage.setItem('fav_words', JSON.stringify(response.data.fav_words));
+  }
 };
 const App = () => {
   const [status, setStatus] = useState(false);
