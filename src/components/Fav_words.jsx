@@ -27,7 +27,7 @@ export default function Fav_words() {
       setFav_words(wordsincat);
     });
   };
-  let sample1 = {
+  let sampleEn2Fa = {
     English: 'be',
     EnglishMeaning: 'exist',
     POS: 'verb',
@@ -38,7 +38,7 @@ export default function Fav_words() {
     EnglishAudio: 'be.wav',
     LangAudio: 'budan.wav',
   };
-  let sample2 = {
+  let sampleFa2En = {
     Lang: 'از',
     LangMeaning: 'LangMeaningSample',
     POS: 'POS Farsi Sample',
