@@ -48,6 +48,7 @@ export default function Fav_words() {
   // console.log(fav_words);
   return (
     <div>
+      <h1 style={{ marginLeft: '42%' }}>Favourite Words</h1>
       {fav_words.length < 1 ? (
         <h1 style={{ margin: '10% 0% 10% 38%' }}>favourites are empty</h1>
       ) : (

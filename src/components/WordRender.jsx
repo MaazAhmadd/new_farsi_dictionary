@@ -12,13 +12,10 @@ let fav_words = JSON.parse(sessionStorage.getItem('fav_words'));
 
 let removeWordFromSession = (word) => {
   let newFav_words = fav_words.filter((w) => w !== word);
-  console.log('remove', newFav_words);
   sessionStorage.setItem('fav_words', JSON.stringify(newFav_words));
 };
 let addWordToSession = (word) => {
   fav_words.push(word);
-  // let newFav_words =
-  // console.log('add ', newFav_words);
   sessionStorage.setItem('fav_words', JSON.stringify(fav_words));
 };
 
@@ -66,7 +63,6 @@ const WordRender = ({ words, lang }) => {
         fav_word: word,
       })
       .then((resp) => {
-        console.log(resp);
         addWordToSession(word);
         toast('added to favourites', {
           type: 'success',
@@ -88,7 +84,6 @@ const WordRender = ({ words, lang }) => {
       })
       .then((resp) => {
         removeWordFromSession(word);
-        console.log(resp);
         toast('removed from favourites', {
           type: 'error',
         });

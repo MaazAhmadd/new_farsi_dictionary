@@ -71,7 +71,6 @@ const Search = () => {
     }
   };
   const handleClickOutside = (event) => {
-    //@ts-ignore
     if (boxDiv.current && event.target && !boxDiv.current.contains(event.target)) {
       setIsComponentVisible(false);
     }
@@ -94,23 +93,6 @@ const Search = () => {
     }
     setSearchResults(results);
   };
-  // const startSearch = () => {
-  //   console.log('startSearch');
-  //   let searchText = params.wordName;
-  //   setSearch(searchText);
-  //   let results = [];
-  //   if (searchText) {
-  //     results = en2faOnlyWords
-  //       ?.filter((word) => word?.toLowerCase()?.search(searchText.toLowerCase()?.trim()) === 0)
-  //       ?.slice(0, 10);
-  //     if (!results || results?.length === 0) {
-  //       results = fa2enOnlyWords
-  //         ?.filter((word) => word?.toLowerCase()?.search(searchText.toLowerCase()?.trim()) === 0)
-  //         ?.slice(0, 10);
-  //     }
-  //   }
-  //   setSearchResults(results);
-  // };
 
   const getWords = async () => {
     getAll1().then((d) => {
@@ -125,92 +107,26 @@ const Search = () => {
     getAll4().then((d) => {
       setFa2enOnlyWords(d[0]['fa2enAllWords']);
     });
-
-    // await db
-    //   .collection('en2fa')
-    //   .get()
-    //   .then((data) => {
-    //     // console.log('en2fa', data[0].en2fa);
-    //     setEn2faWords(data[0].en2fa);
-    //     setEn2faOnlyWords(data[0].en2faAll);
-    //     // console.log(data[0].en2faAll.includes(params.wordName));
-
-    //     // else if (fa2enOnlyWords?.includes(word)) {
-    //     //   setEn2faResultSelected(undefined);
-    //     //   setFa2enResultSelected(fa2enWords?.filter((fa2enWord) => fa2enWord?.Lang?.trim() === word));
-    //     // }
-
-    //     // changeSearchHandler();
-    //   })
-    //   .then(() => {
-    //     if (en2faOnlyWords.includes(params.wordName)) {
-    //       setFa2enResultSelected(undefined);
-    //       console.log(
-    //         'filtered',
-    //         en2faWords.filter((en2faWord) => en2faWord?.English?.trim() === params.wordName)
-    //       );
-    //       setEn2faResultSelected(en2faWords.filter((en2faWord) => en2faWord?.English?.trim() === params.wordName));
-    //     }
-    //   })
-    //   .catch((e) => {
-    //     console.error(e);
-    //   });
-    // await db
-    //   .collection('fa2en')
-    //   .get()
-    //   .then((data) => {
-    //     // console.log('fa2en', data[0].fa2en);
-    //     setFa2enWords(data[0].fa2en);
-    //     setFa2enOnlyWords(data[0].fa2enAll);
-    //     // console.log(data[0].fa2enAll?.includes(params.wordName));
-
-    //     // changeSearchHandler();
-    //     // })
-    //     // .then(() => {
-    //   })
-    //   // .then(() => {
-    //   //   buildSelectedResult(params.wordName);
-    //   // })
-    //   .catch((e) => {
-    //     console.error(e);
-    //   });
   };
   function buildSelectedResult(word) {
-    console.log('in buildSelectedResult', en2faOnlyWords);
-    // if (en2faOnlyWords.length) {
-    // console.log('buildSelectedResult', word);
-    // history.push(`/words/${word}`);
-    // console.log(en2faOnlyWords?.includes(word));
-    // console.log('en2faOnlyWords', en2faOnlyWords);
-    console.log('inbuildSelectedResult', en2faOnlyWords?.includes(word));
     if (en2faOnlyWords.includes(word)) {
-      console.log('english', word);
       setFa2enResultSelected(undefined);
       setEn2faResultSelected(en2faWords?.filter((en2faWord) => en2faWord?.English?.trim() === word));
     } else if (fa2enOnlyWords?.includes(word)) {
-      console.log('farsi', word);
       setEn2faResultSelected(undefined);
       setFa2enResultSelected(fa2enWords?.filter((fa2enWord) => fa2enWord?.Lang?.trim() === word));
     }
     // }
   }
   let startw = async () => {
-    console.log('in startw');
     searchInput.current.value = params.wordName;
-    console.log('after');
     buildSelectedResult(params.wordName);
   };
-  // let doItp = new Promise((resolve) => {
-  //   getWords();
-  //   resolve();
-  // });
+
   useEffect(() => {
     getWords();
     startw();
   }, []);
-  // useEffect(() => {
-  //   startw();
-  // }, []);
 
   useEffect(() => {
     document.addEventListener('keydown', handleHideDropdown, true);
@@ -233,10 +149,6 @@ const Search = () => {
     }
   }, [upPress]);
 
-  // useEffect(() => {
-  //   changeSearchHandler();
-  // }, []);
-
   useEffect(() => {
     if (enterPress) {
       buildSelectedResult(searchResult?.[cursor]);
@@ -250,17 +162,6 @@ const Search = () => {
     }
   }, [searchResult]);
 
-  // useEffect(() => {
-  //   buildSelectedResult(params.wordName);
-  //   setIsComponentVisible(false);
-  // }, []);
-
-  // useEffect(() => {
-  //   buildSelectedResult(params.wordName);
-  // }, []);
-
-  // console.log('en2fa', en2faWords);
-  // console.log('fa2en', fa2enWords);
   return (
     <>
       <div className="hero-noimg">

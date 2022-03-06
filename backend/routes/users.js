@@ -11,7 +11,6 @@ router.get('/me', auth, async (req, res) => {
 });
 
 router.post('/fav_words', auth, async (req, res) => {
-  console.log(req.body);
   let favW = await User.findById(req.user._id).select('fav_words');
   favW = favW.fav_words.includes(req.body.fav_word);
   if (favW) return res.status(400).send('word already in favourites');
@@ -20,7 +19,6 @@ router.post('/fav_words', auth, async (req, res) => {
   res.send(favW);
 });
 router.delete('/fav_words', auth, async (req, res) => {
-  console.log(req.body);
   let favW = await User.findById(req.user._id).select('fav_words');
   favW = favW.fav_words.includes(req.body.fav_word);
   if (!favW) return res.status(400).send('word not in favourites');
@@ -30,7 +28,6 @@ router.delete('/fav_words', auth, async (req, res) => {
 });
 
 router.post('/', async (req, res) => {
-  console.log(req.body);
   const { error } = validate(req.body);
   if (error) return res.status(400).send(error.details[0].message);
 

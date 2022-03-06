@@ -11,7 +11,6 @@ import YoutubeEmbed from './YoutubeEmbed';
 const GrammarCardItem = () => {
   const { grammarName } = useParams();
   let data = JSON.parse(sessionStorage.getItem('grammarCategories'));
-  console.log('data', data);
   data = data?.find((dt) => dt.card_name.toLowerCase() === grammarName.toLowerCase());
   //   const [words, setWords] = useState();
 
@@ -35,7 +34,7 @@ const GrammarCardItem = () => {
   //   }, []);
 
   return (
-    <> 
+    <>
       <Container>
         <div className="common-page">
           <h1 className="common-page-title">
@@ -49,7 +48,7 @@ const GrammarCardItem = () => {
               //   let { English, Farsi, Transliteration, Farsi_Audio } = w;
               return (
                 <Col sm={6} xs={12} key={k} className="word-item_c">
-                  <div className="word-item_card">
+                  <div style={{ marginLeft: '30%' }} className="word-item_card">
                     <YoutubeEmbed embedId={w}></YoutubeEmbed>
                   </div>
                 </Col>

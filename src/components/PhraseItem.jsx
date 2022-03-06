@@ -14,14 +14,12 @@ const CategoryCardItem = () => {
     (dt) => dt.card_name.toLowerCase().replaceAll(' ', '-') === phraseName.toLowerCase().replaceAll(' ', '-')
   );
   const [phrases, setPhrases] = useState();
-  console.log(data);
 
   const getWords = async (wordlist) => {
     let wordsincat = [];
     for (let i = 0; i < wordlist.length; i++) {
       let el = wordlist[i];
       el = el.toLowerCase().replaceAll(' ', '-');
-      console.log(el);
       await axios
         .get(
           `/data/phrases/${el}.json`

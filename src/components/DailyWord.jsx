@@ -24,32 +24,9 @@ const DailyWord = () => {
     getAll().then((d) => {
       setWords(d[0]['en2fa']);
     });
-
-    // setWords(wa[0]['en2fa']);
-
-    // const dataUrl = '/data/dailyWord.json';
-    // fetch(dataUrl, {
-    //   headers: {
-    //     'Content-Type': 'application/json',
-    //     Accept: 'application/json',
-    //   },
-    // })
-    //   .then((response) => {
-    //     return response.json();
-    //   })
-    //   .then((data) => {
-    //     setWords(data);
-    //   })
-    //   .catch((e) => {
-    //     console.error(e);
-    //   });
   };
   useEffect(() => {
     getCategories();
-    // getAll().then((d) => {
-    //   console.log('ok', d[0]['en2fa']);
-    //   setWords(d[0]['en2fa']);
-    // });
   }, []);
   if (words.length) {
     // let wt = (Math.random() * words.length).toFixed(0);

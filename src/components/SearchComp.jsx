@@ -119,28 +119,7 @@ const Search = () => {
     getAll4().then((d) => {
       setFa2enOnlyWords(d[0]['fa2enAllWords']);
     });
-    // await db
-    //   .collection('en2fa')
-    //   .get()
-    //   .then((data) => {
-    //     // console.log('en2fa', data[0].en2fa);
-    //     // setEn2faWords(data[0].en2fa);
-    //     setEn2faOnlyWords(data[0].en2faAll);
-    //   })
-    //   .catch((e) => {
-    //     console.error(e);
-    //   });
-    // await db
-    //   .collection('fa2en')
-    //   .get()
-    //   .then((data) => {
-    //     // console.log('fa2en', data[0].fa2en);
-    //     // setFa2enWords(data[0].fa2en);
-    //     setFa2enOnlyWords(data[0].fa2enAll);
-    //   })
-    //   .catch((e) => {
-    //     console.error(e);
-    //   });
+    
   };
 
   useEffect(() => {

@@ -4,10 +4,8 @@ import './App.scss';
 import Router from './components/Router';
 import axios from 'axios';
 import { Toaster } from 'react-hot-toast';
-import Localbase from 'localbase';
 import { useIndexedDB } from 'react-indexed-db';
 
-// let db = new Localbase('db');
 let apiUrl = 'http://localhost:3002/api';
 let setWordCategories = async () => {
   if (!sessionStorage.getItem('wordCategories')) {
@@ -49,7 +47,7 @@ const App = () => {
       await axios('/data/en2fa.json').then(async function (response) {
         await add1({ en2fa: response.data })
           .then((d) => {
-            console.log('added', d);
+            // console.log('added', d);
           })
           .catch((ex) => {
             console.log(ex);
@@ -61,37 +59,16 @@ const App = () => {
             .sort((a, b) => a.localeCompare(b)),
         })
           .then((d) => {
-            console.log('added', d);
+            // console.log('added', d);
           })
           .catch((ex) => {
             console.log(ex);
           });
         setStatus(true);
       });
-      // let wordsindb = await db.collection('en2fa').get();
-      // if (!wordsindb.length) {
-      //   await axios('/data/en2fa.json').then(function (response) {
-      //     db.collection('en2fa').set([
-      //       {
-      //         en2fa: response.data,
-      //         en2faAll: response.data
-      //           .map((en2faWord) => en2faWord.English.trim())
-      //           .filter((word, index, self) => word.length > 0 && self.indexOf(word) === index)
-      //           .sort((a, b) => a.localeCompare(b)),
-      //       },
-      //     ]);
-      //     setStatus(true);
-      //   });
     } else {
       setStatus(true);
     }
-    // .then(() => {
-    // if ('storage' in navigator && 'estimate' in navigator.storage) {
-    //   navigator.storage.estimate().then(({ usage, quota }) => {
-    //     console.log(`Using ${usage} out of ${quota} bytes.`);
-    //   });
-    // }
-    // });
   };
 
   let setFa2enWords = async () => {
@@ -101,7 +78,7 @@ const App = () => {
       await axios('/data/fa2en.json').then(async function (response) {
         await add2({ fa2en: response.data })
           .then((d) => {
-            console.log('added', d);
+            // console.log('added', d);
           })
           .catch((ex) => {
             console.log(ex);
@@ -113,29 +90,13 @@ const App = () => {
             .sort((a, b) => a.localeCompare(b)),
         })
           .then((d) => {
-            console.log('added', d);
+            // console.log('added', d);
           })
           .catch((ex) => {
             console.log(ex);
           });
         setStatus(true);
       });
-      // let wordsindb = await db.collection('fa2en').get();
-      // if (!wordsindb.length) {
-      //   await axios('/data/fa2en.json').then(function (response) {
-      //     db.collection('fa2en').set([
-      //       {
-      //         fa2en: response.data,
-      //         fa2enAll: response.data
-      //           .map((fa2enWord) => fa2enWord.Lang.trim())
-      //           .filter((word, index, self) => word.length > 0 && self.indexOf(word) === index)
-      //           .sort((a, b) => a.localeCompare(b)),
-      //       },
-      //     ]);
-      //     setStatus(true);
-      //   });
-      // .then(() => {
-      // });
     } else {
       setStatus(true);
     }

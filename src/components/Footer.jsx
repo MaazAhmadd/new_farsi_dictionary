@@ -1,8 +1,8 @@
-import React from "react";
-import { Container, Row, Col } from "reactstrap";
-import logo from "../Images/logoipsum.svg";
-import { Link } from "react-router-dom";
-
+import React from 'react';
+import { Container, Row, Col } from 'reactstrap';
+import logo from '../Images/logoipsum.svg';
+import { Link } from 'react-router-dom';
+let year = new Date().getFullYear();
 const Footer = () => {
   return (
     <div className="footer-section">
@@ -13,8 +13,7 @@ const Footer = () => {
               <img src={logo} alt="" />
             </Link>
             <p className="footer-tagline">
-              FarsiDict is a langugage dictionary for farsi and english audio
-              translation
+              FarsiDict is a langugage dictionary for farsi and english audio translation
             </p>
           </Col>
           <Col xs={4} md={3}>
@@ -45,9 +44,7 @@ const Footer = () => {
           </Col>
         </Row>
       </Container>
-      <div className="copyright-text">
-        2021 Dictionary Inc. All rights reserved.
-      </div>
+      <div className="copyright-text">{year} Dictionary Inc. All rights reserved.</div>
     </div>
   );
 };
