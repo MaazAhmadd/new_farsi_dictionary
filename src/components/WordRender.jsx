@@ -111,7 +111,9 @@ const WordRender = ({ words, lang }) => {
             <FontAwesomeIcon
               icon={faVolumeUp}
               onClick={() => {
-                const audio = new Audio(`english_audio/${wordAudio}`);
+                console.log('english ', wordAudio);
+                const audio = new Audio(`/english_audio/${wordAudio}`);
+                // const audio = new Audio(`/english_audio/ability.m4a`);
                 audio.play().then(() => {});
               }}
             />
@@ -185,7 +187,9 @@ const WordRender = ({ words, lang }) => {
                                 <FontAwesomeIcon
                                   icon={faVolumeUp}
                                   onClick={() => {
-                                    const audio = new Audio(`farsi_audio/${audioFile}`);
+                                    console.log('farsi ', audioFile);
+                                    const audio = new Audio(`/farsi_audio/${audioFile}`);
+                                    // const audio = new Audio(`/farsi_audio/ability.m4a`);
                                     audio.play().then(() => {});
                                   }}
                                 />
@@ -193,7 +197,7 @@ const WordRender = ({ words, lang }) => {
                             )}
                           </div>
                           <div className="meaning-pronunciation">
-                            <span className="sentence">{sentence}</span> -{' '}
+                            <span className="sentence">{sentence}</span> -
                             <span className="sentenceTranslate">{sentenceTranslate}</span>
                           </div>
                         </li>
