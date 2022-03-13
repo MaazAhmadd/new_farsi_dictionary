@@ -6,6 +6,7 @@ import { Link, useParams } from 'react-router-dom';
 import { Container, Table, Row, Col } from 'reactstrap';
 import Defaultwordicon from '../utils/defaultwordicon';
 import getcolorfromword from '../utils/getcolorfromword';
+import Item from './Item';
 
 const CategoryCardItem = () => {
   const { categoryName } = useParams();
@@ -47,26 +48,33 @@ const CategoryCardItem = () => {
               words?.map((w, k) => {
                 let { English, Farsi, Transliteration, Farsi_Audio } = w;
                 return (
-                  <Col sm={3} xs={6} key={k} className="mb-4">
-                    <div
-                      onClick={() => {
-                        const audio = new Audio(`/farsi_audio/${Farsi_Audio}`);
-                        audio.play();
-                      }}
-                      style={{ backgroundColor: getcolorfromword(English) }}
-                      className="word-item_card"
-                    >
-                      <div className="word-img">
-                        <Defaultwordicon />
-                      </div>
-                      {/* backgroundColor: getcolorfromword(English + 'ex'), */}
-                      <div style={{ width: '100%' }}>
-                        <div className="card-item-line"></div>
-                        <div className="word-english">{English}</div>
-                        <div className="word-farsi">{Farsi}</div>
-                      </div>
-                    </div>
-                  </Col>
+                  <Item
+                    key={k}
+                    wordAudio={`/farsi_audio/${Farsi_Audio}`}
+                    English={English}
+                    Farsi={Farsi}
+                    wordIcon={null}
+                  />
+                  // <Col sm={3} xs={6} key={k} className="mb-4">
+                  //   <div
+                  //     onClick={() => {
+                  //       const audio = new Audio(`/farsi_audio/${Farsi_Audio}`);
+                  //       audio.play();
+                  //     }}
+                  //     style={{ backgroundColor: getcolorfromword(English) }}
+                  //     className="word-item_card"
+                  //   >
+                  //     <div className="word-img">
+                  //       <Defaultwordicon />
+                  //     </div>
+                  //     {/* backgroundColor: getcolorfromword(English + 'ex'), */}
+                  //     <div style={{ width: '100%' }}>
+                  //       <div className="card-item-line"></div>
+                  //       <div className="word-english">{English}</div>
+                  //       <div className="word-farsi">{Farsi}</div>
+                  //     </div>
+                  //   </div>
+                  // </Col>
                 );
               })}
           </Row>

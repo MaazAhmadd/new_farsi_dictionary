@@ -10,8 +10,8 @@ import { useIndexedDB } from 'react-indexed-db';
 
 let GenerateRandomWord = () => {
   let dt = new Date();
-  let seed = dt.getYear() + dt.getDay() + dt.getMonth();
-  //+ dt.getHours() + dt.getMinutes() + dt.getSeconds();
+  let seed = dt.getYear() + dt.getMonth() + dt.getDate();
+  // + dt.getDay() + dt.getHours() + dt.getMinutes() + dt.getSeconds();
   let holdrand = ((seed * 214013 + 2531011) >> 16) & 0x7fff;
   let holdrand2 = ((holdrand * 214013 + 2531011) >> 16) & 0x7fff;
   return holdrand2;

@@ -5,26 +5,43 @@ import Defaultwordicon from '../utils/defaultwordicon';
 import getcolorfromword from '../utils/getcolorfromword';
 import { useIndexedDB } from 'react-indexed-db';
 import axios from 'axios';
+import Item from './Item';
 axios.defaults.headers.common['x-auth-token'] = localStorage.getItem('token');
 
 export default function Fav_words() {
   let apiUrl = process.env.REACT_APP_BACKEND_BASE_URL;
   let [fav_words, setFav_words] = useState([]);
+  let [fav_words_fa, setFav_words_fa] = useState([]);
   const { add: add1, getAll: getAll1 } = useIndexedDB('en2fa');
+  const { add: add2, getAll: getAll2 } = useIndexedDB('fa2en');
 
   const getWords = async (wordlist) => {
-    getAll1().then((d) => {
-      let wordsincat = [];
-      let words = d[0]['en2fa'];
-      for (let i = 0; i < wordlist.length; i++) {
-        const el = wordlist[i];
-        let word = words.find((e) => {
-          return e.English == el;
-        });
-        // console.log(word);
-        wordsincat.push(word);
-      }
-      setFav_words(wordsincat);
+    getAll1().then((en) => {
+      getAll2().then((fa) => {
+        let wordsincat = [];
+        let words_en = en[0]['en2fa'];
+        let words_fa = fa[0]['fa2en'];
+        for (let i = 0; i < wordlist.length; i++) {
+          const el = wordlist[i];
+          let word = words_en.find((e) => {
+            return e.English == el;
+          });
+          if (word) {
+            wordsincat.push(word);
+          } else {
+            let word = words_fa.find((e) => {
+              return e.Lang == el;
+            });
+            console.log('oooout', word, el);
+            if (word) {
+              console.log('ooooin', word, el);
+              wordsincat.push(word);
+            }
+          }
+        }
+        console.log('wordsincat', wordsincat);
+        setFav_words(wordsincat);
+      });
     });
   };
   let sampleEn2Fa = {
@@ -67,28 +84,46 @@ export default function Fav_words() {
           <Row className="mb-5 justify-content-center_item">
             {fav_words &&
               fav_words?.map((w, k) => {
+                // console.log('wwww', w);
+
                 let { English, Lang, Transliteration, EnglishAudio } = w;
                 return (
-                  <Col sm={3} xs={6} key={k} className="mb-4">
-                    <div
-                      onClick={() => {
-                        const audio = new Audio(`/farsi_audio/${EnglishAudio}`);
-                        audio.play();
-                      }}
-                      style={{ backgroundColor: getcolorfromword(English) }}
-                      className="word-item_card"
-                    >
-                      <div className="word-img">
-                        <Defaultwordicon />
-                      </div>
-                      {/* backgroundColor: getcolorfromword(English + 'ex'), */}
-                      <div style={{ width: '100%' }}>
-                        <div className="card-item-line"></div>
-                        <div className="word-english">{English}</div>
-                        <div className="word-farsi">{Lang}</div>
-                      </div>
-                    </div>
-                  </Col>
+                  <Item
+                    key={k}
+                    wordAudio={`/farsi_audio/${EnglishAudio}`}
+                    English={English}
+                    Farsi={Lang}
+                    wordIcon={`/word_images/${English}.jpg`}
+                    fav={w.LangSentence}
+                  />
+                  // <Col sm={3} xs={6} key={k} className="mb-4">
+                  //   <div
+                  //     onClick={() => {
+                  //       const audio = new Audio(`/farsi_audio/${EnglishAudio}`);
+                  //       audio.play();
+                  //     }}
+                  //     style={{ backgroundColor: getcolorfromword(English) }}
+                  //     className="word-item_card"
+                  //   >
+                  //     <div className="word-img">
+                  //       <Defaultwordicon />
+                  //     </div>
+                  //     {/* backgroundColor: getcolorfromword(English + 'ex'), */}
+                  //     {!w.LangSentence ? (
+                  //       <div style={{ width: '100%' }}>
+                  //         <div className="card-item-line"></div>
+                  //         <div className="word-english">{English}</div>
+                  //         <div className="word-farsi">{Lang}</div>
+                  //       </div>
+                  //     ) : (
+                  //       <div style={{ width: '100%' }}>
+                  //         <div className="card-item-line"></div>
+                  //         <div className="word-english">{Lang}</div>
+                  //         <div className="word-farsi">{English}</div>
+                  //       </div>
+                  //     )}
+                  //   </div>
+                  // </Col>
                 );
               })}
           </Row>

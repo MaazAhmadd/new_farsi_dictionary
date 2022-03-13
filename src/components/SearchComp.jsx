@@ -117,9 +117,9 @@ const Search = () => {
       setEn2faOnlyWords(d[0]['en2faAllWords']);
     });
     getAll4().then((d) => {
+      console.log('fa2enOnlyWords ', d);
       setFa2enOnlyWords(d[0]['fa2enAllWords']);
     });
-    
   };
 
   useEffect(() => {
@@ -208,8 +208,20 @@ const Search = () => {
         <div className="result-con">
           {en2faResultSelected || fa2enResultSelected ? (
             <>
-              {en2faResultSelected && <WordRender words={en2faResultSelected} lang="en" />}
-              {fa2enResultSelected && <WordRender words={fa2enResultSelected} lang="fa" />}
+              {en2faResultSelected && (
+                <WordRender
+                  words={en2faResultSelected}
+                  lang="en"
+                  favWords={JSON.parse(sessionStorage.getItem('fav_words'))}
+                />
+              )}
+              {fa2enResultSelected && (
+                <WordRender
+                  words={fa2enResultSelected}
+                  lang="fa"
+                  favWords={JSON.parse(sessionStorage.getItem('fav_words'))}
+                />
+              )}
             </>
           ) : (
             <div className="selected-no-result">

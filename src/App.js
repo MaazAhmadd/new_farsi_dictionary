@@ -85,9 +85,9 @@ const App = () => {
           });
         await add4({
           fa2enAllWords: response.data
-            .map((fa2enWord) => fa2enWord.English.trim())
-            .filter((word, index, self) => word.length > 0 && self.indexOf(word) === index)
-            .sort((a, b) => a.localeCompare(b)),
+            ?.map((fa2enWord) => fa2enWord?.Lang?.trim())
+            ?.filter((word, index, self) => word?.length > 0 && self.indexOf(word) === index)
+            ?.sort((a, b) => a?.localeCompare(b)),
         })
           .then((d) => {
             // console.log('added', d);

@@ -8,27 +8,38 @@ let apiUrl = 'http://localhost:3002/api';
 
 let token = localStorage.getItem('token');
 http.setJwt(token);
-let fav_words = JSON.parse(sessionStorage.getItem('fav_words'));
 
-let removeWordFromSession = (word) => {
-  let newFav_words = fav_words.filter((w) => w !== word);
-  sessionStorage.setItem('fav_words', JSON.stringify(newFav_words));
-};
-let addWordToSession = (word) => {
-  fav_words.push(word);
-  sessionStorage.setItem('fav_words', JSON.stringify(fav_words));
-};
-
-const WordRender = ({ words, lang }) => {
+const WordRender = ({ words, lang, favWords }) => {
+  // const [favWords, setFavWords] = useState([]);
   const [groupByPOSMeaning, setGroupByPOSMeaning] = useState();
   const [wordTitle, setWordTitle] = useState();
   const [wordAudio, setWordAudio] = useState();
   const [favWordStatus, setFavWordStatus] = useState(false);
+  // let setFavWordsInState = () => {
+  //   let fw = sessionStorage.getItem('fav_words');
+  //   // let fw = JSON.parse(sessionStorage.getItem('fav_words'));
+  //   setFavWords(fw);
+  // };
+  let removeWordFromSession = (word) => {
+    let newFav_words = favWords.filter((w) => w !== word);
+    sessionStorage.setItem('fav_words', JSON.stringify(newFav_words));
+    // setFavWords(newFav_words);
+  };
+  let addWordToSession = (word) => {
+    let newFav_words = [...favWords, word];
+    sessionStorage.setItem('fav_words', JSON.stringify(newFav_words));
+    // setFavWords(newFav_words);
+  };
+  // useEffect(() => {
+  //   console.log(sessionStorage.getItem('fav_words')[0]);
+  //   setFavWords(sessionStorage.getItem('fav_words'));
+  // }, []);
+
   useEffect(() => {
     if (lang === 'en') {
       setWordTitle(words?.[0]?.English);
       setWordAudio(words?.[0]?.EnglishAudio);
-      if (token && fav_words?.includes(words[0].English)) {
+      if (token && favWords?.includes(words[0].English)) {
         setFavWordStatus(true);
       } else {
         setFavWordStatus(false);
@@ -36,7 +47,7 @@ const WordRender = ({ words, lang }) => {
     } else if (lang === 'fa') {
       setWordTitle(words?.[0]?.Lang);
       setWordAudio(words?.[0]?.LangAudio);
-      if (token && fav_words?.includes(words[0].Lang)) {
+      if (token && favWords?.includes(words[0].Lang)) {
         setFavWordStatus(true);
       } else {
         setFavWordStatus(false);
@@ -56,6 +67,7 @@ const WordRender = ({ words, lang }) => {
       }, Object.create(null))
     );
   }, [words, lang]);
+
   let wordNumber = 0;
   let handleAddToFav = (word) => {
     http
@@ -168,7 +180,7 @@ const WordRender = ({ words, lang }) => {
                       if (lang === 'en') {
                         meaning = word.Lang;
                         audioFile = word.LangAudio;
-                        pronunciation = word.EnglishPronunciation;
+                        pronunciation = word.EnglishPronounciation;
                         sentence = word.EnglishSentence;
                         sentenceTranslate = word.EnglishSentenceTranslate;
                       } else if (lang === 'fa') {

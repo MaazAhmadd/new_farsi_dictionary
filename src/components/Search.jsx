@@ -61,6 +61,7 @@ const Search = () => {
   const [searchResult, setSearchResults] = useState();
   const [isComponentVisible, setIsComponentVisible] = useState(true);
   const [cursor, setCursor] = useState(0);
+  const [favWords, setFavWords] = useState([]);
   const downPress = useKeyPress('ArrowDown');
   const upPress = useKeyPress('ArrowUp');
   const enterPress = useKeyPress('Enter');
@@ -118,14 +119,16 @@ const Search = () => {
     }
     // }
   }
-  let startw = async () => {
-    searchInput.current.value = params.wordName;
-    buildSelectedResult(params.wordName);
+  let getFavWords = async () => {
+    let fw = await JSON.parse(sessionStorage.getItem('fav_words'));
+    setFavWords(fw);
+    // searchInput.current.value = params.wordName;
+    // buildSelectedResult(params.wordName);
   };
 
   useEffect(() => {
     getWords();
-    startw();
+    // getFavWords();
   }, []);
 
   useEffect(() => {
@@ -162,6 +165,7 @@ const Search = () => {
     }
   }, [searchResult]);
 
+  console.log('ok', JSON.parse(sessionStorage.getItem('fav_words')));
   return (
     <>
       <div className="hero-noimg">
@@ -213,8 +217,20 @@ const Search = () => {
         <div className="result-con_s">
           {fa2enResultSelected || fa2enResultSelected ? (
             <>
-              {en2faResultSelected && <WordRender words={en2faResultSelected} lang="en" />}
-              {fa2enResultSelected && <WordRender words={fa2enResultSelected} lang="fa" />}
+              {en2faResultSelected && (
+                <WordRender
+                  words={en2faResultSelected}
+                  lang="en"
+                  favWords={JSON.parse(sessionStorage.getItem('fav_words'))}
+                />
+              )}
+              {fa2enResultSelected && (
+                <WordRender
+                  words={fa2enResultSelected}
+                  lang="fa"
+                  favWords={JSON.parse(sessionStorage.getItem('fav_words'))}
+                />
+              )}
             </>
           ) : (
             <div className="selected-no-result">
