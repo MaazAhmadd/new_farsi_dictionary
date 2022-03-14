@@ -32,14 +32,11 @@ export default function Fav_words() {
             let word = words_fa.find((e) => {
               return e.Lang == el;
             });
-            console.log('oooout', word, el);
             if (word) {
-              console.log('ooooin', word, el);
               wordsincat.push(word);
             }
           }
         }
-        console.log('wordsincat', wordsincat);
         setFav_words(wordsincat);
       });
     });

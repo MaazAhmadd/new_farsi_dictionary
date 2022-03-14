@@ -14,13 +14,14 @@ export default function Item({ wordAudio, English, Farsi, wordIcon, fav }) {
         style={{ backgroundColor: getcolorfromword(English) }}
         className="word-item_card"
       >
-        <div className="word-img">
+        <div className="word-img" style={{ paddingLeft: `${wordIcon ? '0' : ''}` }}>
           {wordIcon ? (
             <img
               src={wordIcon}
               style={{ width: '100%', height: '100%' }}
               onError={(e) => {
                 e.target.src = '/defaultImg.svg';
+                e.target.style.marginLeft = '10%';
               }}
             />
           ) : (

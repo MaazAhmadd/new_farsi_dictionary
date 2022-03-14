@@ -117,7 +117,6 @@ const Search = () => {
       setEn2faOnlyWords(d[0]['en2faAllWords']);
     });
     getAll4().then((d) => {
-      console.log('fa2enOnlyWords ', d);
       setFa2enOnlyWords(d[0]['fa2enAllWords']);
     });
   };

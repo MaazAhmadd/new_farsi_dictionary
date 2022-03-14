@@ -53,7 +53,7 @@ const CategoryCardItem = () => {
                     wordAudio={`/farsi_audio/${Farsi_Audio}`}
                     English={English}
                     Farsi={Farsi}
-                    wordIcon={null}
+                    wordIcon={`/word_images/${English}.jpg`}
                   />
                   // <Col sm={3} xs={6} key={k} className="mb-4">
                   //   <div
